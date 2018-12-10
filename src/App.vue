@@ -1,0 +1,97 @@
+<template>
+  <div id="app">
+    <div id="page">
+      <!--menu-->
+      <div class="header"> <a href="#menu"><img src="./assets/images/iconmenu.jpg" style="width: 100%;" /></a> <a href="#"><img src="./assets/images/logo.jpg" style="width: 100%;" /></a> <a href="tel:400 068 9066"><img src="./assets/images/tel.jpg" style="width: 100%;" /></a> </div>
+      <nav id="menu">
+        <ul>
+          <li>
+            <router-link to="/index.html">首页</router-link>
+          </li>
+          <li> <a href="#">关于我们</a>
+            <ul>
+              <li>
+                <router-link to="/about/about.html">企业简介</router-link>
+              </li>
+              <!-- <li>
+                <router-link to="/about/news.html">新闻中心</router-link>
+              </li> -->
+              <li>
+                <router-link to="/about/dashib.html">丝路视觉“大师杯”</router-link>
+              </li>
+              <li>
+                <router-link to="/about/yinhexgt.html">内部沙龙：银河星光厅</router-link>
+              </li>
+              <li>
+                <router-link to="/about/shehuizr.html">社会责任</router-link>
+              </li>
+              <!-- <li> 
+              <router-link to="/about/touzizhe.html">投资者关系</router-link>
+              </li> -->
+              <li>
+                <router-link to="/about/xcjh.html">内部培训：星辰计划</router-link>
+              </li>
+            </ul>
+          </li>
+          <li> <a href="#">数字展馆</a>
+            <ul>
+              <li> <a href="zt/shuzizg/guihua.html">城市馆</a> </li>
+              <li> <a href="zt/shuzizg/xiaozhen.html">特色小镇/产业园</a> </li>
+              <li> <a href="zt/shuzizg/zhihuics.html">智慧城市</a> </li>
+              <li> <a href="zt/shuzizg/qiyezg.html">企业展馆</a> </li>
+              <li> <a href="zt/shuzizg/shangyeyx.html">商业营销厅</a> </li>
+            </ul>
+          </li>
+          <li> <a href="#">多媒体应用</a>
+            <ul>
+              <li> <a href="zt/duomeiti/chengshixx.html">城市形象设计</a> </li>
+              <li> <a href="zt/duomeiti/shuziyy.html">数字影院</a> </li>
+              <li> <a href="zt/duomeiti/yingshihd.html">影视动画</a> </li>
+              <li> <a href="zt/duomeiti/huddmt.html">互动多媒体</a> </li>
+              <li> <a href="zt/duomeiti/show.html">大型Show策划</a> </li>
+            </ul>
+          </li>
+          <li> <a href="#">设计可视化</a>
+            <ul>
+              <li> <a href="zt/shejiksh/xiaoguotu.html">效果图</a> </li>
+              <li> <a href="zt/shejiksh/sanweidh.html">三维动画</a> </li>
+              <li> <a href="zt/shejiksh/duomeitsp.html">多媒体视频</a> </li>
+              <li> <a href="zt/shejiksh/vr360.html">360全景/VR/AR</a> </li>
+            </ul>
+          </li>
+          <li> <a href="#">丝路教育</a>
+            <ul>
+              <li> <a href="zt/silujiaoyu/jianzhu.html">建筑表现课程</a> </li>
+              <li> <a href="zt/silujiaoyu/shinei.html">室内设计课程</a> </li>
+              <li> <a href="zt/silujiaoyu/ui.html">UI设计课程</a> </li>
+              <li> <a href="zt/silujiaoyu/youxi.html">VR游戏课程</a> </li>
+              <li> <a href="zt/silujiaoyu/bim.html">BIM应用课程</a> </li>
+            </ul>
+          </li>
+          <li> <a href="#">创新业务</a>
+            <ul>
+              <li> <a href="zt/chuangxin/yunxuanran.html">云渲染</a> </li>
+              <li> <a href="zt/chuangxin/xshiyanshi.html">X 实验室</a> </li>
+            </ul>
+          </li>
+          <li> <a href="#">联系我们</a>
+            <ul>
+              <li> <a href="contact/contact.html">联系方式</a> </li>
+              <!--<li>
+              <a href="contact/zxns.html">招贤纳士</a>
+              </li>-->
+            </ul>
+          </li>
+        </ul>
+      </nav>
+      <!--menu-->
+    </div>
+    <router-view/>
+  </div>
+</template>
+<script>
+export default {
+  name: 'App'
+}
+
+</script>
