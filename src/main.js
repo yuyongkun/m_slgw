@@ -4,9 +4,7 @@ import Vue from 'vue'
 import App from './App'
 import router from './router'
 
-import 'video.js/dist/video-js.css'
-import videojs from 'video.js'
-import './assets/js/video-global.js'
+// import './assets/js/video-global.js'
 
 import './assets/css/jquery.mmenu.css'
 import './assets/js/jquery.mmenu.min.js'

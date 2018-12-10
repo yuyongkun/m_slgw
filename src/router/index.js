@@ -10,10 +10,11 @@ Vue.use(Router)
 export default new Router({
   mode: 'history',
   routes: [{
-      path: '/index.html', //首页
+      path: '/(index.html)*', //首页
       name: 'Index',
       component: Index
     },
+   
     {
       path: '/about/about.html', //企业简介
       name: 'About',

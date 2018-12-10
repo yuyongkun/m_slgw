@@ -736,7 +736,6 @@ nav:not(.mm-menu) {
 
 /*视频插件*/
 .video-wrap{
-		display: none;
 		width: 100%;
 	    position: absolute;
 	    z-index: 1;
