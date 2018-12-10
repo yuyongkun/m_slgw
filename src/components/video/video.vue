@@ -15,10 +15,10 @@ let that;
 export default {
     name: 'VideoComponent',
     props: {
-      videoPath:{
-        type:String,
-        default:''
-      }
+        videoPath: {
+            type: String,
+            default: ''
+        }
     },
     data: function() {
         return {

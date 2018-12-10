@@ -120,9 +120,6 @@ export default {
             this.$refs.child.showVideoDailog();
         }
     },
-    created: function() {
-        console.log(this.$refs);
-    },
     mounted: function() {
 
     }
