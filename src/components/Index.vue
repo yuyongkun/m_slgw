@@ -104,26 +104,24 @@
     </div>
 </template>
 <script>
-// import '../assets/plugin/vide7.1.0/css/video-js.min.css'
-// import '../assets/plugin/vide7.1.0/js/video.min.js'
 import VideoComponent from './video/video.vue'
 export default {
     name: "Index",
-    components:{
-      VideoComponent
+    components: {
+        VideoComponent
     },
     data: function() {
         return {
-            videopath: '../../assets/images/video.mp4'
+            videopath: require('../assets/images/video.mp4')
         }
     },
-    methods:{
-      showChildVideoDailog:function(){//显示子组件视频弹框
-        this.$refs.child.showVideoDailog();
-      }
+    methods: {
+        showChildVideoDailog: function() { //显示子组件视频弹框
+            this.$refs.child.showVideoDailog();
+        }
     },
-    created:function(){
- console.log(this.$refs);
+    created: function() {
+        console.log(this.$refs);
     },
     mounted: function() {
 

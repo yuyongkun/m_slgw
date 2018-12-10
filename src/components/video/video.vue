@@ -10,14 +10,15 @@
 <script>
 import 'video.js/dist/video-js.css'
 import videojs from 'video.js'
+import 'videojs-contrib-hls'
 let that;
 export default {
     name: 'VideoComponent',
     props: {
-        videoPath: {
-            type: String,
-            default: ''
-        },
+      videoPath:{
+        type:String,
+        default:''
+      }
     },
     data: function() {
         return {
@@ -29,13 +30,12 @@ export default {
     },
     methods: {
         maskHide: function() { //关闭视频弹框
-            this.videoWrapShow = !videoWrapShow;
+            this.videoWrapShow = !this.videoWrapShow;
             this.player.pause();
         },
         showVideoDailog: function() { //显示视频弹框
             that.videoWrapShow = true;
             // 实例化video插件
-
             that.player.play();
         }
     },
@@ -52,6 +52,7 @@ export default {
             // width:300,
             loop: true,
         });
+
     }
 }
 </script>
