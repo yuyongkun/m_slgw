@@ -87,11 +87,27 @@
       <!--menu-->
     </div>
     <router-view/>
+    <footer>
+      <div class="beian-sum">粤ICP备11044640号-6
+        <br>版权归丝路视觉科技股份有限公司所有</div>
+    </footer>
   </div>
 </template>
 <script>
+import './assets/css/jquery.mmenu.css'
+import './assets/js/jquery.mmenu.min.js'
+import './assets/css/menu.css'
 export default {
-  name: 'App'
+  name: 'App',
+  mounted: function() {
+    window.mmenu = $('nav#menu').mmenu();
+  },
+  watch: {
+    $route: function() {
+      window.mmenu.trigger('close')
+    }
+  }
+
 }
 
 </script>

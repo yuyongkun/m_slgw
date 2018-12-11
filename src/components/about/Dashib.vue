@@ -25,20 +25,43 @@
     </div>
     <img src="../../assets/images/about/dashib/sijie1.jpg" style="width: 100%;margin-top: 4%;"> <img src="../../assets/images/about/dashib/sijie2.jpg" style="width: 100%;margin-top: 6%;">
     <div style="background: url(dashib/dsbbj.jpg) top no-repeat; margin: 0 auto; background-size: 100%; height: 186vw;padding-top: 24%;">
-      <div class="sijie-3" style="position: relative;margin-top: 6%; width: 92%; margin: 0 auto;">
-        <img class="video-play" src="../../assets/images/about/dashib/video1.jpg" style="width: 92%;margin-left: 4%;">
+   
+      <div class="sijie-3">
+        <img id="video-play-1" class="video-play" src="../../assets/images/about/dashib/video1.jpg">
         <p style="padding-top: 4%;padding-bottom: 4%; padding-left: 4%;">最佳商业短片《深圳湾1号莱佛士公寓》</p>
       </div>
-      <div class="sijie-3" style="position: relative;margin-top: 6%; width: 92%; margin: 0 auto;">
-        <img class="video-play" src="../../assets/images/about/dashib/video2.jpg" style="width: 92%;margin-left: 4%;">
+      <div class="sijie-3">
+        <img id="video-play-2" class="video-play" src="../../assets/images/about/dashib/video2.jpg">
         <p style="padding-top: 4%;padding-bottom: 4%; padding-left: 4%;">最佳网络互动《五粮液云上艺术馆》</p>
       </div>
-      <div class="sijie-3" style="position: relative;margin-top: 6%; width: 92%; margin: 0 auto;">
-        <img class="video-play" src="../../assets/images/about/dashib/video3.jpg" style="width: 92%;margin-left: 4%;">
+      <div class="sijie-3">
+        <img id="video-play-3" class="video-play" src="../../assets/images/about/dashib/video3.jpg">
         <p style="padding-top: 4%;padding-bottom: 4%; padding-left: 4%;">最佳社会影响力奖《真理永恒》</p>
       </div>
     </div>
     <img src="../../assets/images/about/dashib/4444.jpg" style="width: 100%;margin-top: 4%; margin-bottom: 4%;">
-  <site-map></site-map>
+    <site-map></site-map>
   </div>
 </template>
+<script>
+export default {
+  name: "Index",
+  mounted() {
+    $('#video-play-1').videoOpt({
+      videoPath: require('../../assets/media/dashib/video1.mp4')
+    });
+    $('#video-play-2').videoOpt({
+      videoPath: require('../../assets/media/dashib/video2.mp4')
+    });
+    $('#video-play-3').videoOpt({
+      videoPath: require('../../assets/media/dashib/video3.mp4')
+    });
+  }
+}
+
+</script>
+ <style>
+    .sijie-3{
+      margin-top: 6%; width: 88%; margin: 0 auto;
+    }
+    </style>

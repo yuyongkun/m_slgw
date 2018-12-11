@@ -3,8 +3,8 @@
         <!--头图-->
         <div class="banner" style="position: relative"> <img src="../assets/images/banner.gif" style="width: 100%;position: relative;">
             <div class="banner-title" style="top:30vw;">用数字定义你的视界</div>
-            <img v-on:click="showChildVideoDailog" class="video-play" src="../assets/images/bofang.png" style="position: relative;display: block;position: absolute;top: 50vw;width: 14%;left: 50%;margin-left: -7%;"> </div>
-        <VideoComponent ref="child" v-bind:videoPath='videopath'></VideoComponent>
+            <img id="video-play" class="video-play" src="../assets/images/bofang.png" style="position: relative;display: block;position: absolute;top: 50vw;width: 14%;left: 50%;margin-left: -7%;"> </div>
+        <!-- <VideoComponent ref="child" v-bind:videoPath='videopath'></VideoComponent> -->
         <div class="boxgd" style="margin-top: 0px;"></div>
         <!--核心业务-->
         <div class="hexin">
@@ -104,24 +104,12 @@
     </div>
 </template>
 <script>
-import VideoComponent from './video/video.vue'
 export default {
     name: "Index",
-    components: {
-        VideoComponent
-    },
-    data: function() {
-        return {
-            videopath: require('../assets/images/video.mp4')
-        }
-    },
-    methods: {
-        showChildVideoDailog: function() { //显示子组件视频弹框
-            this.$refs.child.showVideoDailog();
-        }
-    },
-    mounted: function() {
-
+    mounted(){
+        $('#video-play').videoOpt({
+            videoPath: require('../assets/images/video.mp4')
+        });
     }
 }
 </script>

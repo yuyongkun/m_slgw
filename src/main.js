@@ -4,19 +4,16 @@ import Vue from 'vue'
 import App from './App'
 import router from './router'
 
-// import './assets/js/video-global.js'
-
-import './assets/css/jquery.mmenu.css'
-import './assets/js/jquery.mmenu.min.js'
-
 import './assets/css/style.css'
-import './assets/css/menu.css'
 
-import Sitemap from '@/components/Sitemap'
+import 'video.js/dist/video-js.css'
+import videojs from 'video.js'
+import './assets/js/video-global.js'
 
 Vue.config.productionTip = false
-
+window.videojs=videojs;
 // 全局组件
+import Sitemap from '@/components/Sitemap'//地图
 Vue.component('site-map', Sitemap)
 
 /* eslint-disable no-new */
@@ -25,13 +22,4 @@ new Vue({
   router,
   components: { App },
   template: '<App/>',
-  mounted: function() {
-    window.mmenu=$('nav#menu').mmenu();
-  },
-  watch:{
-  	$route:function(){
-  		window.mmenu.trigger('close')
-  	}
-  }
-
 })

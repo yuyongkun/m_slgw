@@ -10,7 +10,6 @@
         idx++;
         var webmformat=this.videoPath.split('.mp4')[0]+'.webm';
         var htm = '<div class="video-wrap">' +
-            '<div class="mask"></div>' +
             '<video id="video-opt-' + idx + '" class="video-js" controls preload="auto" data-setup="{}">' +
             '<source src="'+this.videoPath+'" type="video/mp4">' +
             '<source src="'+webmformat+'" type="video/webm">' +
@@ -31,8 +30,8 @@
     function bindEvent() {
         var that=this;
         //关闭视频弹框
-        $('.video-wrap .mask').on('click', function() {
-            $(this).parent().hide();
+        $('.video-wrap').on('click', function() {
+            $(this).hide();
             that.player.pause();
         });
         //显示视频弹框
