@@ -64,6 +64,7 @@
 
 
 		</div>
+		  <site-map></site-map>
 	</div>
 
 	</template>

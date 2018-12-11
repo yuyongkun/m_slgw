@@ -74,7 +74,7 @@
 
               <li>
               
- <router-link to="zt/chuangxin/xshiyanshi.html">X 实验室</router-link>
+ <router-link to="/zt/chuangxin/xshiyanshi.html">X 实验室</router-link>
                 </li>
             </ul>
           </li>
