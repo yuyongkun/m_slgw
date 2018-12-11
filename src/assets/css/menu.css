@@ -1,0 +1,61 @@
+.header {
+    background: #fff;
+    padding: 5px 0;
+    justify-content: space-between;
+    display: flex;
+    position: fixed;
+    top: 0px;
+    width: 100vw;
+    left: 0;
+    box-shadow: 0 1px 3px #aaa;
+    transition: margin-left 0.4s;
+    z-index: 1;
+}
+
+.header a:nth-child(1) {
+    width: 7%;
+    padding-top: 2%;
+    padding-left: 2%;
+}
+
+.header a:nth-child(2) {
+    width: 30%;
+}
+
+.header a:nth-child(3) {
+    width: 7%;
+    padding-top: 1.5%;
+    padding-right: 3%;
+}
+
+.footer.fixed {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+}
+
+.weixin-ewm {
+    display: none;
+}
+
+
+/*.mm-list a.mm-subopen+a {
+    display: none;
+}
+*/
+.mm-slideout {
+    width: 100vw;
+    transition: margin-left 0.4s;
+}
+
+html.mm-opening .mm-slideout {
+    transform: none;
+    margin-left: 50vw;
+}
+
+.mm-opening .mm-menu+.mm-page .header {
+    margin-left: 50vw;
+}
+.mm-menu .mm-list {
+    padding: 0px;
+}
