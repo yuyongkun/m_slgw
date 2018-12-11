@@ -6,6 +6,8 @@ import Dashib from '@/components/about/Dashib'
 import Yinhexgt from '@/components/about/Yinhexgt'
 import Shehuizr from '@/components/about/Shehuizr'
 import Xcjh from '@/components/about/Xcjh'
+import Contact from '@/components/contact/Contact'
+import Xshiyanshi from '@/components/zt/chuangxin/Xshiyanshi'
 Vue.use(Router)
 const router=new Router({
   mode: 'history',
@@ -45,6 +47,18 @@ const router=new Router({
       name: 'Xcjh',
       meta: { title: "内部培训：星辰计划" },
       component: Xcjh
+    },
+    {
+      path: '/contact/contact.html', //联系我们
+      name: 'Contact',
+      meta: { title: "联系我们" },
+      component: Contact
+    },
+    {
+      path: '/zt/chuangxin/xshiyanshi.html', //X实验室
+      name: 'Xshiyanshi',
+      meta: { title: "X实验室" },
+      component: Xshiyanshi
     },
   ]
 })

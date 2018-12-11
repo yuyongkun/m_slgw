@@ -71,12 +71,18 @@
           <li> <a href="#">创新业务</a>
             <ul>
               <li> <a href="zt/chuangxin/yunxuanran.html">云渲染</a> </li>
-              <li> <a href="zt/chuangxin/xshiyanshi.html">X 实验室</a> </li>
+
+              <li>
+              
+ <router-link to="zt/chuangxin/xshiyanshi.html">X 实验室</router-link>
+                </li>
             </ul>
           </li>
           <li> <a href="#">联系我们</a>
             <ul>
-              <li> <a href="contact/contact.html">联系方式</a> </li>
+              <li> 
+              <router-link to="/contact/contact.html">联系方式</router-link>
+               </li>
               <!--<li>
               <a href="contact/zxns.html">招贤纳士</a>
               </li>-->
