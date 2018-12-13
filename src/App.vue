@@ -46,30 +46,30 @@
             <ul>
               <li>
             
- <router-link to="/zt/duomeiti/chengshixx.html">城市形象设计</router-link>
+ <router-link to="/duomeiti/chengshixx.html">城市形象设计</router-link>
                </li>
-              <li> <router-link to="/zt/duomeiti/shuziyy.html">数字影院</router-link>
+              <li> <router-link to="/duomeiti/shuziyy.html">数字影院</router-link>
            </li>
               <li> 
          
-              <router-link to="/zt/duomeiti/yingshihd.html">影视动画</router-link>
+              <router-link to="/duomeiti/yingshihd.html">影视动画</router-link>
                </li>
               <li> 
             
-              <router-link to="/zt/duomeiti/huddmt.html">互动多媒体</router-link>
+              <router-link to="/duomeiti/huddmt.html">互动多媒体</router-link>
               </li>
               <li> 
       
-              <router-link to="/zt/duomeiti/show.html">大型Show策划</router-link>
+              <router-link to="/duomeiti/show.html">大型Show策划</router-link>
                </li>
             </ul>
           </li>
           <li> <a href="#">设计可视化</a>
             <ul>
-              <li><router-link to="/zt/shejiksh/xiaoguotu.html">效果图</router-link> </li>
-              <li><router-link to="/zt/shejiksh/sanweidh.html">三维动画</router-link> </li>
-              <li> <router-link to="/zt/shejiksh/duomeitsp.html">多媒体视频</router-link> </li>
-              <li><router-link to="/zt/shejiksh/vr360.html">360全景/VR/AR</router-link></li>
+              <li><router-link to="/shejiksh/xiaoguotu.html">效果图</router-link> </li>
+              <li><router-link to="/shejiksh/sanweidh.html">三维动画</router-link> </li>
+              <li> <router-link to="/shejiksh/duomeitsp.html">多媒体视频</router-link> </li>
+              <li><router-link to="/shejiksh/vr360.html">360全景/VR/AR</router-link></li>
             </ul>
           </li>
           <li> <a href="#">丝路教育</a>

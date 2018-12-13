@@ -51,24 +51,21 @@ export default {
       sijiebgimg: `background-image:url(${Sijiebgimg})`
     }
   },
-  export default {
-    name: "Index",
-    mounted() {
-      $('#video-play-1').videoOpt({
-        videoPath: require('../../assets/media/dashib/video1.mp4')
-      });
-      $('#video-play-2').videoOpt({
-        videoPath: require('../../assets/media/dashib/video2.mp4')
-      });
-      $('#video-play-3').videoOpt({
-        videoPath: require('../../assets/media/dashib/video3.mp4')
-      });
-    }
+  mounted() {
+    $('#video-play-1').videoOpt({
+      videoPath: require('../../assets/media/dashib/video1.mp4')
+    });
+    $('#video-play-2').videoOpt({
+      videoPath: require('../../assets/media/dashib/video2.mp4')
+    });
+    $('#video-play-3').videoOpt({
+      videoPath: require('../../assets/media/dashib/video3.mp4')
+    });
   }
+}
 
 </script>
 <style scoped>
-
 .sijie-3 {
   margin-top: 6%;
   width: 88%;
@@ -83,4 +80,3 @@ export default {
 }
 
 </style>
-
