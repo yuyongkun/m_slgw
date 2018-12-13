@@ -97,14 +97,22 @@
 		</div>
      
 </template>
-      <script>
-        $(".anli-yin").hide();
-        $(".btn-jiazai").click(function() {
-          $(".anli-yin").show();
-          $(".btn-jiazai").hide();
-        });
-        $(".btn-shouqi").click(function() {
-          $(".anli-yin").hide();
-          $(".btn-jiazai").show();
-        });
-      </script>
+ <script>
+export default {
+  mounted() {
+    $(".anli-yin").hide();
+    $(".btn-shouqi").hide();
+    $(".btn-jiazai").click(function() {
+      $(".anli-yin").show();
+$(".btn-shouqi").show();
+      $(".btn-jiazai").hide();
+    });
+    $(".btn-shouqi").click(function() {
+      $(".anli-yin").hide();
+      $(".btn-shouqi").hide();
+      $(".btn-jiazai").show();
+    });
+  }
+}
+
+</script>

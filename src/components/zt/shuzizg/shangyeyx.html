@@ -1,209 +1,27 @@
-<!DOCTYPE>
-<html>
+<template>
 
-	<head>
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-		<meta name="viewport" content="width=device-width initial-scale=1.0 maximum-scale=1.0 user-scalable=yes" />
-		<title>商业营销厅</title>
-		<link type="text/css" rel="stylesheet" href="../../css/style.css" />
-		<!--menu-->
-		<link type="text/css" rel="stylesheet" href="../../css/jquery.mmenu.css" />
-		<link type="text/css" rel="stylesheet" href="../../css/menu.css" />
-		<script type="text/javascript" src="../../js/jquery-1.7.2.min.js"></script>
-		<script type="text/javascript" src="../../js/jquery.mmenu.min.js"></script>
-		<script type="text/javascript">
-			$(function() {
-				$('nav#menu').mmenu();
-			});
-		</script>
-		<!--menu-->
-		<!--引用百度地图API-->
-		<script type="text/javascript" src="http://api.map.baidu.com/api?key=&v=1.1&services=true"></script>
-		<script type="text/javascript" src="http://api.map.baidu.com/api?key=&v=1.1&services=true"></script>
-	</head>
-
-	<body>
-
-		<div id="page">
-			<!--menu-->
-			<div class="header">
-				<a href="#menu"><img src="../../images/iconmenu.jpg" style="width: 100%;" /></a>
-				<a href="#"><img src="../../images/logo.jpg" style="width: 100%;" /></a>
-				<a href="tel:400 068 9066"><img src="../../images/tel.jpg" style="width: 100%;" /></a>
-
-			</div>
-			<nav id="menu">
-				<ul>
-					<li>
-						<a href="../../index.html">首页</a>
-					</li>
-					<li>
-						<a href="#">关于我们</a>
-						<ul>
-							<li>
-								<a href="../../about/about.html">企业简介</a>
-							</li>
-
-							<!--<li>
-								<a href="../../about/news.html">新闻中心</a>
-							</li>-->
-							<li>
-								<a href="../../about/dashib.html">丝路视觉“大师杯”</a>
-							</li>
-							<li>
-								<a href="../../about/yinhexgt.html">内部沙龙：银河星光厅</a>
-							</li>
-							<li>
-								<a href="../../about/shehuizr.html">社会责任</a>
-							</li>
-						<!--	<li>
-								<a href="../../about/touzizhe.html">投资者关系</a>
-							</li>-->
-							<li>
-								<a href="../../about/xcjh.html">内部培训：星辰计划</a>
-							</li>
-						</ul>
-					</li>
-					<li>
-						<a href="#">数字展馆</a>
-						<ul>
-							<li>
-								<a href="../../zt/shuzizg/guihua.html">城市规划馆</a>
-							</li>
-
-							<li>
-								<a href="../../zt/shuzizg/xiaozhen.html">特色小镇/产业园</a>
-							</li>
-							<li>
-								<a href="../../zt/shuzizg/zhihuics.html">智慧城市</a>
-							</li>
-							<li>
-								<a href="../../zt/shuzizg/qiyezg.html">企业展馆</a>
-							</li>
-							<li>
-								<a href="../../zt/shuzizg/shangyeyx.html">商业营销厅</a>
-							</li>
-						</ul>
-					</li>
-					<li>
-						<a href="#">多媒体应用</a>
-						<ul>
-							<li>
-								<a href="../../zt/duomeiti/chengshixx.html">城市形象设计</a>
-							</li>
-
-							<li>
-								<a href="../../zt/duomeiti/shuziyy.html">数字影院</a>
-							</li>
-							<li>
-								<a href="../../zt/duomeiti/yingshihd.html">影视动画</a>
-							</li>
-							<li>
-								<a href="../../zt/duomeiti/huddmt.html">互动多媒体</a>
-							</li>
-							<li>
-								<a href="../../zt/duomeiti/show.html">大型Show策划</a>
-							</li>
-						</ul>
-					</li>
-
-					<li>
-						<a href="#">设计可视化</a>
-						<ul>
-							<li>
-								<a href="../../zt/shejiksh/xiaoguotu.html">效果图</a>
-							</li>
-
-							<li>
-								<a href="../../zt/shejiksh/sanweidh.html">三维动画</a>
-							</li>
-							<li>
-								<a href="../../zt/shejiksh/duomeitsp.html">多媒体视频</a>
-							</li>
-							<li>
-								<a href="../../zt/shejiksh/vr360.html">360全景/VR/AR</a>
-							</li>
-
-						</ul>
-					</li>
-
-					<li>
-						<a href="#">丝路教育</a>
-						<ul>
-							<li>
-								<a href="../../zt/silujiaoyu/jianzhu.html">建筑表现课程</a>
-							</li>
-
-							<li>
-								<a href="../../zt/silujiaoyu/shinei.html">室内设计课程</a>
-							</li>
-							<li>
-								<a href="../../zt/silujiaoyu/ui.html">UI设计课程</a>
-							</li>
-							<li>
-								<a href="../../zt/silujiaoyu/youxi.html">VR游戏课程</a>
-							</li>
-							<li>
-								<a href="../../zt/silujiaoyu/bim.html">BIM应用课程</a>
-							</li>
-						</ul>
-					</li>
-
-					<li>
-						<a href="#">创新业务</a>
-						<ul>
-							<li>
-								<a href="../../zt/chuangxin/yunxuanran.html">云渲染</a>
-							</li>
-
-							<li>
-								<a href="../../zt/chuangxin/xshiyanshi.html">X 实验室</a>
-							</li>
-
-						</ul>
-					</li>
-
-					<li>
-						<a href="#">联系我们</a>
-						<ul>
-							<li>
-								<a href="../../contact/contact.html">联系方式</a>
-							</li>
-
-						<!--	<li>
-								<a href="../../contact/zxns.html">招贤纳士</a>
-							</li>-->
-
-						</ul>
-					</li>
-
-				</ul>
-			</nav>
-			<!--menu-->
+	<!--主体-->
+	<div class="container">
+		<!--关于-->
+		
+		<div class="sec guanyu">
+			<h1>关于商业营销厅</h1>
+			<h2>打造美学生活馆，助力营销最后一公里</h2>
+			<p>商业营销厅，主要是为不同行业的营销而服务的展厅，往往形象与功能性并重。丝路视觉在营销展厅的整案与展项设计方面拥有丰富的经验，能够根据产品特点、场所条件以及客户的营销节点设计出有效、美观的视觉营销方式。除此之外，丝路视觉能够利用大数据与互联网的创新科技手段，打通线上下展厅，让客户与目标参观者互联，让品牌传得更远。</p>
 		</div>
 
-		<!--主体-->
-		<div class="container">
-			<!--关于-->
-			
-			<div class="sec guanyu">
-				<h1>关于商业营销厅</h1>
-				<h2>打造美学生活馆，助力营销最后一公里</h2>
-				<p>商业营销厅，主要是为不同行业的营销而服务的展厅，往往形象与功能性并重。丝路视觉在营销展厅的整案与展项设计方面拥有丰富的经验，能够根据产品特点、场所条件以及客户的营销节点设计出有效、美观的视觉营销方式。除此之外，丝路视觉能够利用大数据与互联网的创新科技手段，打通线上下展厅，让客户与目标参观者互联，让品牌传得更远。</p>
+		<!--案例-->
+		
+		<div class="sec anli">
+			<div class="anli-title">
+				<img src="shangyeyx/wuxing.png" class="xing1">
+				<h1>案例精选</h1>
+				<img src="shangyeyx/wuxing.png">
+				<div class="cle"></div>
 			</div>
-
-			<!--案例-->
+			<p>形象与功能并重，核心驱动品牌形象</p>
 			
-			<div class="sec anli">
-				<div class="anli-title">
-					<img src="shangyeyx/wuxing.png" class="xing1">
-					<h1>案例精选</h1>
-					<img src="shangyeyx/wuxing.png">
-					<div class="cle"></div>
-				</div>
-				<p>形象与功能并重，核心驱动品牌形象</p>
-				
-				 <a href="shangyeyx/case/2.html">
+			<a href="shangyeyx/case/2.html">
 				<img src="shangyeyx/img2.jpg" class="anli-pic">
 				<div class="anli-sum">
 					<div class="anli-wenzi">
@@ -213,9 +31,9 @@
 					<img class="anli-arrow" src="shangyeyx/arrow.jpg">
 					<div class="cle"></div>
 				</div>
-                </a>
-				
-			     <a href="shangyeyx/case/5.html">
+			</a>
+			
+			<a href="shangyeyx/case/5.html">
 				<img src="shangyeyx/img5.jpg" class="anli-pic">
 				<div class="anli-sum">
 					<div class="anli-wenzi">
@@ -225,9 +43,9 @@
 					<img class="anli-arrow" src="shangyeyx/arrow.jpg">
 					<div class="cle"></div>
 				</div>
-                </a>	
-				
-                <a href="shangyeyx/case/4.html">
+			</a>	
+			
+			<a href="shangyeyx/case/4.html">
 				<img src="shangyeyx/img4.jpg" class="anli-pic">
 				<div class="anli-sum">
 					<div class="anli-wenzi">
@@ -237,10 +55,10 @@
 					<img class="anli-arrow" src="shangyeyx/arrow.jpg">
 					<div class="cle"></div>
 				</div>
-                </a>
-				
-				
-                <a href="shangyeyx/case/1.html">
+			</a>
+			
+			
+			<a href="shangyeyx/case/1.html">
 				<img src="shangyeyx/img1.jpg" class="anli-pic">
 				<div class="anli-sum">
 					<div class="anli-wenzi">
@@ -250,9 +68,9 @@
 					<img class="anli-arrow" src="shangyeyx/arrow.jpg">
 					<div class="cle"></div>
 				</div>
-                </a>
- 
-                <a href="shangyeyx/case/3.html">
+			</a>
+			
+			<a href="shangyeyx/case/3.html">
 				<img src="shangyeyx/img3.jpg" class="anli-pic">
 				<div class="anli-sum">
 					<div class="anli-wenzi">
@@ -262,9 +80,9 @@
 					<img class="anli-arrow" src="shangyeyx/arrow.jpg">
 					<div class="cle"></div>
 				</div>
-                </a>
-                
-        
+			</a>
+			
+			
                 <!--<a href="shangyeyx/case/6.html">
 				<img src="shangyeyx/img6.jpg" class="anli-pic">
 				<div class="anli-sum">
@@ -275,9 +93,9 @@
 					<img class="anli-arrow" src="shangyeyx/arrow.jpg">
 					<div class="cle"></div>
 				</div>
-                </a>-->
-				<div class="anli-yin">
-                <a href="shangyeyx/case/7.html">
+			</a>-->
+			<div class="anli-yin">
+				<a href="shangyeyx/case/7.html">
 					<img src="shangyeyx/img7.jpg" class="anli-pic">
 					<div class="anli-sum">
 						<div class="anli-wenzi">
@@ -287,8 +105,8 @@
 						<img class="anli-arrow" src="shangyeyx/arrow.jpg">
 						<div class="cle"></div>
 					</div>
-                    </a>
-                    <a href="shangyeyx/case/8.html">
+				</a>
+				<a href="shangyeyx/case/8.html">
 					<img src="shangyeyx/img8.jpg" class="anli-pic">
 					<div class="anli-sum">
 						<div class="anli-wenzi">
@@ -298,8 +116,8 @@
 						<img class="anli-arrow" src="shangyeyx/arrow.jpg">
 						<div class="cle"></div>
 					</div>
-                    </a>
-                    <a href="shangyeyx/case/9.html">
+				</a>
+				<a href="shangyeyx/case/9.html">
 					<img src="shangyeyx/img9.jpg" class="anli-pic">
 					<div class="anli-sum">
 						<div class="anli-wenzi">
@@ -309,7 +127,7 @@
 						<img class="anli-arrow" src="shangyeyx/arrow.jpg">
 						<div class="cle"></div>
 					</div>
-                    </a>
+				</a>
                     <!--<a href="shangyeyx/case/10.html"> 
 					<img src="shangyeyx/img10.jpg" class="anli-pic">
 					<div class="anli-sum">
@@ -320,204 +138,30 @@
 						<img class="anli-arrow" src="shangyeyx/arrow.jpg">
 						<div class="cle"></div>
 					</div>
-                    </a>-->
-					<div class="btn btn-shouqi">收起更多案例</div>
-				</div>
-				<div class="btn btn-jiazai">加载更多案例</div>
+				</a>-->
+				<div class="btn btn-shouqi">收起更多案例</div>
 			</div>
-			
-			<script>
-				$(".anli-yin").hide();
-				$(".btn-jiazai").click(function() {
-					$(".anli-yin").show();
-					$(".btn-jiazai").hide();
-				});
-				$(".btn-shouqi").click(function() {
-					$(".anli-yin").hide();
-					$(".btn-jiazai").show();
-				});
-			</script>
-
-			<!--地址-->
-			
-			<div class="sec lianxi">
-				<img src="../../../../images/logo-big.png" class="logo-big">
-				<div class="dianhua">
-					<img src="shangyeyx/dianhua-pic.jpg" class="dianhua">
-					<p>400 068 9066</p>
-					<div class="cle"></div>
-				</div>
-				<div class="dizhi">
-					<img src="shangyeyx/dizhi-pic.jpg">
-					<p>深圳市福田保税区市花路花样年</br>福年广场 B4栋108室</p>
-					<div class="cle"></div>
-				</div>
-				<div class="shejiao-hao">
-					<img src="shangyeyx/weixin.jpg" class="weixin">
-					<a href="https://m.weibo.cn/u/2037905517?sourceType=qq&uid=2037905517&wm=2468_1001&from=108A395010"><img src="shangyeyx/weibo.jpg"></a>
-					<img src="shangyeyx/QQ.jpg">
-					<img src="shangyeyx/youxiang.jpg">
-					<div class="cle"></div>
-				</div>
-				<!--百度地图容器-->
-				<div style="width:88%;height:56vw;border:#ccc solid 1px;margin: 6% auto;" id="dituContent"></div>
-				<p class="banshichu">寻洽丝路视觉全球分公司/办事处联系方式</p>
-				<a href="../../../../contact/contact.html"><div class="btn-banshichu">
-					<p>请点击这里</p>
-					<img src="../../../../images/arrow.jpg">
-					<div class="cle"></div>
-				</div></a>
-			</div>
-			<script type="text/javascript">
-				//创建和初始化地图函数：
-				function initMap() {
-					createMap(); //创建地图
-					setMapEvent(); //设置地图事件
-					addMapControl(); //向地图添加控件
-					addMarker(); //向地图中添加marker
-				}
-
-				//创建地图函数：
-				function createMap() {
-					var map = new BMap.Map("dituContent"); //在百度地图容器中创建一个地图
-					var point = new BMap.Point(114.064708, 22.512404); //定义一个中心点坐标
-					map.centerAndZoom(point, 17); //设定地图的中心点和坐标并将地图显示在地图容器中
-					window.map = map; //将map变量存储在全局
-				}
-
-				//地图事件设置函数：
-				function setMapEvent() {
-					map.enableDragging(); //启用地图拖拽事件，默认启用(可不写)
-					map.enableScrollWheelZoom(); //启用地图滚轮放大缩小
-					map.enableDoubleClickZoom(); //启用鼠标双击放大，默认启用(可不写)
-					map.enableKeyboard(); //启用键盘上下左右键移动地图
-				}
-
-				//地图控件添加函数：
-				function addMapControl() {
-					//向地图中添加缩放控件
-					var ctrl_nav = new BMap.NavigationControl({
-						anchor: BMAP_ANCHOR_TOP_LEFT,
-						type: BMAP_NAVIGATION_CONTROL_LARGE
-					});
-					map.addControl(ctrl_nav);
-					//向地图中添加缩略图控件
-					var ctrl_ove = new BMap.OverviewMapControl({
-						anchor: BMAP_ANCHOR_BOTTOM_RIGHT,
-						isOpen: 1
-					});
-					map.addControl(ctrl_ove);
-					//向地图中添加比例尺控件
-					var ctrl_sca = new BMap.ScaleControl({
-						anchor: BMAP_ANCHOR_BOTTOM_LEFT
-					});
-					map.addControl(ctrl_sca);
-				}
-
-				//标注点数组
-				var markerArr = [{
-					title: "丝路视觉",
-					content: "我的备注",
-					point: "114.064088|22.512237",
-					isOpen: 0,
-					icon: {
-						w: 21,
-						h: 21,
-						l: 0,
-						t: 0,
-						x: 6,
-						lb: 5
-					}
-				}];
-				//创建marker
-				function addMarker() {
-					for(var i = 0; i < markerArr.length; i++) {
-						var json = markerArr[i];
-						var p0 = json.point.split("|")[0];
-						var p1 = json.point.split("|")[1];
-						var point = new BMap.Point(p0, p1);
-						var iconImg = createIcon(json.icon);
-						var marker = new BMap.Marker(point, {
-							icon: iconImg
-						});
-						var iw = createInfoWindow(i);
-						var label = new BMap.Label(json.title, {
-							"offset": new BMap.Size(json.icon.lb - json.icon.x + 10, -20)
-						});
-						marker.setLabel(label);
-						map.addOverlay(marker);
-						label.setStyle({
-							borderColor: "#808080",
-							color: "#333",
-							cursor: "pointer"
-						});
-
-						(function() {
-							var index = i;
-							var _iw = createInfoWindow(i);
-							var _marker = marker;
-							_marker.addEventListener("click", function() {
-								this.openInfoWindow(_iw);
-							});
-							_iw.addEventListener("open", function() {
-								_marker.getLabel().hide();
-							})
-							_iw.addEventListener("close", function() {
-								_marker.getLabel().show();
-							})
-							label.addEventListener("click", function() {
-								_marker.openInfoWindow(_iw);
-							})
-							if(!!json.isOpen) {
-								label.hide();
-								_marker.openInfoWindow(_iw);
-							}
-						})()
-					}
-				}
-				//创建InfoWindow
-				function createInfoWindow(i) {
-					var json = markerArr[i];
-					var iw = new BMap.InfoWindow("<b class='iw_poi_title' title='" + json.title + "'>" + json.title + "</b><div class='iw_poi_content'>" + json.content + "</div>");
-					return iw;
-				}
-				//创建一个Icon
-				function createIcon(json) {
-					var icon = new BMap.Icon("http://app.baidu.com/map/shangyeyx/us_mk_icon.png", new BMap.Size(json.w, json.h), {
-						imageOffset: new BMap.Size(-json.l, -json.t),
-						infoWindowOffset: new BMap.Size(json.lb + 5, 1),
-						offset: new BMap.Size(json.x, json.h)
-					})
-					return icon;
-				}
-
-				initMap(); //创建和初始化地图
-			</script>
-
-			
-			<!--微信图标弹出-->
-		
-			<div class="weixin-ewm">
-				<img src="shangyeyx/weixin-ewm.jpg">
-			</div>
-			<script>
-				$(".weixin-ewm").hide();
-				$(".weixin").click(function() {
-					$(".weixin-ewm").show();
-				});
-				$(".weixin-ewm").click(function() {
-					$(".weixin-ewm").hide();
-				});
-			</script>
+			<div class="btn btn-jiazai">加载更多案例</div>
 		</div>
-		<!--主体-->
+		
+	</div>
+</template>
+<script>
+	export default {
+		mounted() {
+			$(".anli-yin").hide();
+			$(".btn-shouqi").hide();
+			$(".btn-jiazai").click(function() {
+				$(".anli-yin").show();
+				$(".btn-shouqi").show();
+				$(".btn-jiazai").hide();
+			});
+			$(".btn-shouqi").click(function() {
+				$(".anli-yin").hide();
+				$(".btn-shouqi").hide();
+				$(".btn-jiazai").show();
+			});
+		}
+	}
 
-		<!--foot-->
-		<footer>
-			<div class="beian-sum">粤ICP备11044640号-6</br>版权归丝路视觉科技股份有限公司所有</div>
-		</footer>
-		<!--foot-->
-
-	</body>
-
-</html>
+</script>

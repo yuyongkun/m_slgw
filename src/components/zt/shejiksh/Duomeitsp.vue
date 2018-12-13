@@ -116,3 +116,23 @@
         <site-map></site-map>
     </div>
        </template>
+       <script>
+export default {
+  mounted() {
+    $(".anli-yin").hide();
+    $(".btn-shouqi").hide();
+    $(".btn-jiazai").click(function() {
+      $(".anli-yin").show();
+$(".btn-shouqi").show();
+      $(".btn-jiazai").hide();
+    });
+    $(".btn-shouqi").click(function() {
+      $(".anli-yin").hide();
+      $(".btn-shouqi").hide();
+      $(".btn-jiazai").show();
+    });
+  }
+}
+
+</script>
+

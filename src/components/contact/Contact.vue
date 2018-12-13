@@ -268,17 +268,23 @@
 
 </template>
 <script>
-$(".notice-yin").hide();
-$(".btn-jiazai").click(function(){
-$(".notice-yin").show();
-$(".btn-jiazai").hide();
-});
-$(".btn-shouqi").click(function(){
-$(".notice-yin").hide();
-$(".btn-jiazai").show();
-});
-</script> 
-  
-  <!--地址-->
-  
+export default {
+  mounted() {
+    $(".anli-yin").hide();
+    $(".btn-shouqi").hide();
+    $(".btn-jiazai").click(function() {
+      $(".anli-yin").show();
+$(".btn-shouqi").show();
+      $(".btn-jiazai").hide();
+    });
+    $(".btn-shouqi").click(function() {
+      $(".anli-yin").hide();
+      $(".btn-shouqi").hide();
+      $(".btn-jiazai").show();
+    });
+  }
+}
+
+</script>
+
   
