@@ -70,8 +70,12 @@
           </li>
           <li> <a href="#">创新业务</a>
             <ul>
-              <li> <a href="zt/chuangxin/yunxuanran.html">云渲染</a> </li>
-              <li> <a href="zt/chuangxin/xshiyanshi.html">X 实验室</a> </li>
+              <li> 
+              <router-link to="/chuangxin/yunxuanran.html">云渲染</router-link>
+              </li>
+              <li>
+              <router-link to="/chuangxin/xshiyanshi.html">X 实验室</router-link>
+              </li>
             </ul>
           </li>
           <li> <a href="#">联系我们</a>
@@ -101,6 +105,7 @@ export default {
   name: 'App',
   mounted: function() {
     window.mmenu = $('nav#menu').mmenu();
+    // $('.container').css('padding-top',$('.header').outerHeight(true)+8)
   },
   watch: {
     $route: function() {

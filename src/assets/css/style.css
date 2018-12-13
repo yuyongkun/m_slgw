@@ -228,7 +228,9 @@ nav:not(.mm-menu) {
 }
 
 
-
+.container{
+      padding-top: 48px;
+}
 /*首页*/
 
 
@@ -239,7 +241,7 @@ nav:not(.mm-menu) {
   background: #fff;
   border-radius: 2vw;
   border-bottom: 2vw solid #d90000;
-  margin-top: 20px;
+  margin-top: 4vw;
 }
 
 .guanyu h1 {
