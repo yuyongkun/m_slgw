@@ -2,7 +2,11 @@
   <div id="app">
     <div id="page">
       <!--menu-->
-      <div class="header"> <a href="#menu"><img src="./assets/images/iconmenu.jpg" style="width: 100%;" /></a> <a href="#"><img src="./assets/images/logo.jpg" style="width: 100%;" /></a> <a href="tel:400 068 9066"><img src="./assets/images/tel.jpg" style="width: 100%;" /></a> </div>
+      <div class="header">
+        <a href="#menu"><img src="./assets/images/iconmenu.jpg" style="width: 100%;" /></a>
+        <a href="#"><img src="./assets/images/logo.jpg" style="width: 100%;" /></a>
+        <a href="tel:400 068 9066"><img src="./assets/images/tel.jpg" style="width: 100%;" /></a>
+      </div>
       <nav id="menu">
         <ul>
           <li>
@@ -33,16 +37,26 @@
               </li>
             </ul>
           </li>
-          <li> <a href="#">数字展馆</a>
+          <li><a href="#">数字展馆</a>
             <ul>
-              <li> <a href="zt/shuzizg/guihua.html">城市馆</a> </li>
-              <li> <a href="zt/shuzizg/xiaozhen.html">特色小镇/产业园</a> </li>
-              <li> <a href="zt/shuzizg/zhihuics.html">智慧城市</a> </li>
-              <li> <a href="zt/shuzizg/qiyezg.html">企业展馆</a> </li>
-              <li> <a href="zt/shuzizg/shangyeyx.html">商业营销厅</a> </li>
+              <li>
+                <router-link to="/shuzizg/guihua.html">城市馆</router-link>
+              </li>
+              <li>
+                <router-link to="/shuzizg/xiaozhen.html">特色小镇/产业园</router-link>
+              </li>
+              <li>
+                <router-link to="/shuzizg/zhihuics.html">智慧城市</router-link>
+              </li>
+              <li>
+                <router-link to="/shuzizg/qiyezg.html">企业展馆</router-link>
+              </li>
+              <li>
+                <router-link to="/shuzizg/shangyeyx.html">商业营销厅</router-link>
+              </li>
             </ul>
           </li>
-          <li> <a href="#">多媒体应用</a>
+          <li><a href="#">多媒体应用</a>
             <ul>
               <li>
                 <router-link to="/duomeiti/chengshixx.html">城市形象设计</router-link>
@@ -61,7 +75,7 @@
               </li>
             </ul>
           </li>
-          <li> <a href="#">设计可视化</a>
+          <li><a href="#">设计可视化</a>
             <ul>
               <li>
                 <router-link to="/shejiksh/xiaoguotu.html">效果图</router-link>
@@ -77,16 +91,26 @@
               </li>
             </ul>
           </li>
-          <li> <a href="#">丝路教育</a>
+          <li><a href="#">丝路教育</a>
             <ul>
-              <li> <a href="zt/silujiaoyu/jianzhu.html">建筑表现课程</a> </li>
-              <li> <a href="zt/silujiaoyu/shinei.html">室内设计课程</a> </li>
-              <li> <a href="zt/silujiaoyu/ui.html">UI设计课程</a> </li>
-              <li> <a href="zt/silujiaoyu/youxi.html">VR游戏课程</a> </li>
-              <li> <a href="zt/silujiaoyu/bim.html">BIM应用课程</a> </li>
+              <li>
+                <router-link to="/silujiaoyu/jianzhu.html">建筑表现课程</router-link>
+              </li>
+              <li>
+                <router-link to="/silujiaoyu/shinei.html">室内设计课程</router-link>
+              </li>
+              <li>
+                <router-link to="/silujiaoyu/ui.html">UI设计课程</router-link>
+              </li>
+              <li>
+                <router-link to="/silujiaoyu/youxi.html">VR游戏课程</router-link>
+              </li>
+              <li>
+                <router-link to="/silujiaoyu/bim.html">BIM应用课程</router-link>
+              </li>
             </ul>
           </li>
-          <li> <a href="#">创新业务</a>
+          <li><a href="#">创新业务</a>
             <ul>
               <li>
                 <router-link to="/chuangxin/yunxuanran.html">云渲染</router-link>
@@ -96,13 +120,14 @@
               </li>
             </ul>
           </li>
-          <li> <a href="#">联系我们</a>
+          <li>
+            <a href="#">联系我们</a>
             <ul>
               <li>
                 <router-link to="/contact/contact.html">联系方式</router-link>
               </li>
               <!--<li>
-              <a href="contact/zxns.html">招贤纳士</a>
+              <router-link to="contact/zxns.html">招贤纳士</router-link>
               </li>-->
             </ul>
           </li>
