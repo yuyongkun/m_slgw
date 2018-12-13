@@ -43,30 +43,32 @@
   </div>
 </template>
 <script>
-let Sijiebgimg=require("../../assets/images/about/dashib/dsbbj.jpg")
-console.log(Sijiebgimg);
+let Sijiebgimg = require("../../assets/images/about/dashib/dsbbj.jpg")
 export default {
   name: "Index",
-  data(){
+  data() {
     return {
-      sijiebgimg:`background-image:url(${Sijiebgimg})`
+      sijiebgimg: `background-image:url(${Sijiebgimg})`
     }
   },
-  mounted() {
-    $('#video-play-1').videoOpt({
-      videoPath: require('../../assets/media/dashib/video1.mp4')
-    });
-    $('#video-play-2').videoOpt({
-      videoPath: require('../../assets/media/dashib/video2.mp4')
-    });
-    $('#video-play-3').videoOpt({
-      videoPath: require('../../assets/media/dashib/video3.mp4')
-    });
+  export default {
+    name: "Index",
+    mounted() {
+      $('#video-play-1').videoOpt({
+        videoPath: require('../../assets/media/dashib/video1.mp4')
+      });
+      $('#video-play-2').videoOpt({
+        videoPath: require('../../assets/media/dashib/video2.mp4')
+      });
+      $('#video-play-3').videoOpt({
+        videoPath: require('../../assets/media/dashib/video3.mp4')
+      });
+    }
   }
-}
 
 </script>
-<style>
+<style scoped>
+
 .sijie-3 {
   margin-top: 6%;
   width: 88%;
@@ -81,3 +83,4 @@ export default {
 }
 
 </style>
+

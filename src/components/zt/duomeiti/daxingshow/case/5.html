@@ -1,0 +1,77 @@
+<template>
+
+		<!--主体-->
+		<div class="container">
+
+<!--头图-->
+ 
+<div class="banner" style="position: relative;background: #000;">
+	<img src="5/banner.jpg" style="width: 100%;position: relative;opacity: 0.56;">
+    <div class="video-wrap">
+		<div class="mask"></div>
+		<!-- <video autoplay="" controls webkit-playsinline="" playsinline="true" src="1/video.mp4"></video> -->
+
+		<video id="my-video" class="video-js" controls preload="auto" width="640" height="264"
+	  		poster="MY_VIDEO_POSTER.jpg" data-setup="{}">
+		    <source src="5/video.mp4" type='video/mp4'>
+		    <source src="5/video.webm" type='video/webm'>
+		    <p class="vjs-no-js">
+		      To view this video please enable JavaScript, and consider upgrading to a web browser that
+		      <a href="https://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a>
+		    </p>
+	  	</video>
+	</div>
+	<div style="font-size: 8vw;font-weight: 600;text-align: center;position: absolute;top: 24vw;color: #fff;width: 100%;">水井坊钓鱼台酒店</br>线下品鉴会</div>
+     <img class="video-play" src="../../../../images/bofang.png" style="position: relative;display: block;position: absolute;top: 50vw;width: 14%;left: 50%;margin-left: -7%;">
+     </div>
+     <script src="https://vjs.zencdn.net/7.3.0/video.js"></script>
+<script>
+	// 实例化video插件
+	var player = videojs('my-video',{
+	     muted: false,
+	    controls : true/false,      
+	    // height:300, 
+	    // width:300,
+	    loop : true,
+	});
+	//显示视频弹框
+	$('.video-play').click(function(){
+		$('.video-wrap').show();
+		player.play();
+	});
+	//关闭视频弹框
+	$('.video-wrap .mask')[0].addEventListener('click',function(){
+		$('.video-wrap').hide();
+		player.pause();
+	});
+</script>
+
+<!--项目简介-->
+ 
+<div class="sec jianjie">
+	<h1>客户</h1>
+	<p>四川水井坊股份有限公司</p>
+	<h1>应用场景</h1>
+	<p>品牌活动、产品发布会</p>
+	<h1>作品属性</h1>
+	<p>主题活动互动投影、精妙投影</p>
+	<h1>项目说明</h1>
+	<p>丝路视觉联合上睿企划将视觉科技搬上餐桌，让美酒佳肴与视觉享受相映成趣，让古代文化和现代化科技完美交融，给宾客留下了深刻难忘的印象。将3D Mapping技术运用到餐桌上，将水井坊的历史、文化和酿酒工艺表现的淋漓尽致。在水井坊的“大师典藏系列”新品陈列上运用了全息幻影成像技术，展示产品独有的“双轮发酵双蒸馏”高标准艺术。并通过油墨导电交互投影墙将著名“摄影诗人”孙郡的摄影作品变成一幅动静皆宜的交互式现代化艺术品。</p>
+</div>
+
+<!--配图-->
+<h1 style="margin-left: 10%;">成果展现</h1> 
+<div class="sec peitu">
+	<img src="5/img1.jpg">
+	<img src="5/img2.jpg">
+	<img src="5/img3.jpg">
+	<img src="5/img4.jpg">
+	<img src="5/img5.jpg">
+	<img src="5/img6.jpg">
+	<img src="5/img7.jpg">
+	<img src="5/img8.jpg">
+</div>
+</div>
+<site-map></site-map>
+       </template>
+

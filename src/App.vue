@@ -44,19 +44,32 @@
           </li>
           <li> <a href="#">多媒体应用</a>
             <ul>
-              <li> <a href="zt/duomeiti/chengshixx.html">城市形象设计</a> </li>
-              <li> <a href="zt/duomeiti/shuziyy.html">数字影院</a> </li>
-              <li> <a href="zt/duomeiti/yingshihd.html">影视动画</a> </li>
-              <li> <a href="zt/duomeiti/huddmt.html">互动多媒体</a> </li>
-              <li> <a href="zt/duomeiti/show.html">大型Show策划</a> </li>
+              <li>
+            
+ <router-link to="/zt/duomeiti/chengshixx.html">城市形象设计</router-link>
+               </li>
+              <li> <router-link to="/zt/duomeiti/shuziyy.html">数字影院</router-link>
+           </li>
+              <li> 
+         
+              <router-link to="/zt/duomeiti/yingshihd.html">影视动画</router-link>
+               </li>
+              <li> 
+            
+              <router-link to="/zt/duomeiti/huddmt.html">互动多媒体</router-link>
+              </li>
+              <li> 
+      
+              <router-link to="/zt/duomeiti/show.html">大型Show策划</router-link>
+               </li>
             </ul>
           </li>
           <li> <a href="#">设计可视化</a>
             <ul>
-              <li> <a href="zt/shejiksh/xiaoguotu.html">效果图</a> </li>
-              <li> <a href="zt/shejiksh/sanweidh.html">三维动画</a> </li>
-              <li> <a href="zt/shejiksh/duomeitsp.html">多媒体视频</a> </li>
-              <li> <a href="zt/shejiksh/vr360.html">360全景/VR/AR</a> </li>
+              <li><router-link to="/zt/shejiksh/xiaoguotu.html">效果图</router-link> </li>
+              <li><router-link to="/zt/shejiksh/sanweidh.html">三维动画</router-link> </li>
+              <li> <router-link to="/zt/shejiksh/duomeitsp.html">多媒体视频</router-link> </li>
+              <li><router-link to="/zt/shejiksh/vr360.html">360全景/VR/AR</router-link></li>
             </ul>
           </li>
           <li> <a href="#">丝路教育</a>
@@ -80,7 +93,9 @@
           </li>
           <li> <a href="#">联系我们</a>
             <ul>
-              <li> <a href="contact/contact.html">联系方式</a> </li>
+              <li> 
+              <router-link to="/contact/contact.html">联系方式</router-link>
+               </li>
               <!--<li>
               <a href="contact/zxns.html">招贤纳士</a>
               </li>-->
@@ -105,7 +120,6 @@ export default {
   name: 'App',
   mounted: function() {
     window.mmenu = $('nav#menu').mmenu();
-    // $('.container').css('padding-top',$('.header').outerHeight(true)+8)
   },
   watch: {
     $route: function() {
@@ -116,3 +130,4 @@ export default {
 }
 
 </script>
+
