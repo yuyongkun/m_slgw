@@ -5,7 +5,7 @@
         <img :src="cover">
       </div>
       <div class="b-title" v-html="coverTitle"></div>
-      <img class="video-play" id="video-play" src="../../../assets/images/bofang.png">
+      <img class="video-play" id="video-play" src="../../assets/images/bofang.png">
     </div>
     <div class="sec jianjie">
       <h1>技术应用</h1>

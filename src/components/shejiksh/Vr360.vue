@@ -10,118 +10,118 @@
     <!--案例-->
     <div class="sec anli">
       <div class="anli-title">
-        <img src="../../../assets/images/shejiksh/vr360/wuxing.png" class="xing1">
+        <img src="../../assets/images/shejiksh/vr360/wuxing.png" class="xing1">
         <h1>案例展示</h1>
-        <img src="../../../assets/images/shejiksh/vr360/wuxing.png">
+        <img src="../../assets/images/shejiksh/vr360/wuxing.png">
         <div class="cle"></div>
       </div>
       <p>沉浸式视觉设计专家，引领数字视觉新体验</p>
       <a href="vr360/case/1.html">
-				<img src="../../../assets/images/shejiksh/vr360/img1.jpg" class="anli-pic">
+				<img src="../../assets/images/shejiksh/vr360/img1.jpg" class="anli-pic">
 				<div class="anli-sum">
 					<div class="anli-wenzi">
 						<h1>华远中国府演示屏</h1>
 						<p>华远地产</p>
 					</div>
-					<img class="anli-arrow" src="../../../assets/images/shejiksh/vr360/arrow.jpg">
+					<img class="anli-arrow" src="../../assets/images/shejiksh/vr360/arrow.jpg">
 					<div class="cle"></div>
 				</div>
 			</a>
       <a href="vr360/case/2.html">
-				<img src="../../../assets/images/shejiksh/vr360/img2.jpg" class="anli-pic">
+				<img src="../../assets/images/shejiksh/vr360/img2.jpg" class="anli-pic">
 				<div class="anli-sum">
 					<div class="anli-wenzi">
 						<h1>顺络电子汽车产品触控系统</h1>
 						<p>顺络电子</p>
 					</div>
-					<img class="anli-arrow" src="../../../assets/images/shejiksh/vr360/arrow.jpg">
+					<img class="anli-arrow" src="../../assets/images/shejiksh/vr360/arrow.jpg">
 					<div class="cle"></div>
 				</div>
 			</a>
       <a href="vr360/case/3.html">
-				<img src="../../../assets/images/shejiksh/vr360/img3.jpg" class="anli-pic">
+				<img src="../../assets/images/shejiksh/vr360/img3.jpg" class="anli-pic">
 				<div class="anli-sum">
 					<div class="anli-wenzi">
 						<h1>综合保税区规划馆沙盘AR望远镜</h1>
 						<p>昆明综合保税区</p>
 					</div>
-					<img class="anli-arrow" src="../../../assets/images/shejiksh/vr360/arrow.jpg">
+					<img class="anli-arrow" src="../../assets/images/shejiksh/vr360/arrow.jpg">
 					<div class="cle"></div>
 				</div>
 			</a>
       <a href="vr360/case/4.html">
-				<img src="../../../assets/images/shejiksh/vr360/img4.jpg" class="anli-pic">
+				<img src="../../assets/images/shejiksh/vr360/img4.jpg" class="anli-pic">
 				<div class="anli-sum">
 					<div class="anli-wenzi">
 						<h1>世茂·前海中心移动端看房系统</h1>
 						<p>世贸集团</p>
 					</div>
-					<img class="anli-arrow" src="../../../assets/images/shejiksh/vr360/arrow.jpg">
+					<img class="anli-arrow" src="../../assets/images/shejiksh/vr360/arrow.jpg">
 					<div class="cle"></div>
 				</div>
 			</a>
       <a href="vr360/case/5.html">
-				<img src="../../../assets/images/shejiksh/vr360/img5.jpg" class="anli-pic">
+				<img src="../../assets/images/shejiksh/vr360/img5.jpg" class="anli-pic">
 				<div class="anli-sum">
 					<div class="anli-wenzi">
 						<h1>华润城球幕互动IPAD操控幕</h1>
 						<p>华润置地</p>
 					</div>
-					<img class="anli-arrow" src="../../../assets/images/shejiksh/vr360/arrow.jpg">
+					<img class="anli-arrow" src="../../assets/images/shejiksh/vr360/arrow.jpg">
 					<div class="cle"></div>
 				</div></a>
       <a href="vr360/case/6.html">
-				<img src="../../../assets/images/shejiksh/vr360/img6.jpg" class="anli-pic">
+				<img src="../../assets/images/shejiksh/vr360/img6.jpg" class="anli-pic">
 				<div class="anli-sum">
 					<div class="anli-wenzi">
 						<h1>兰亭雅居VR互动屏</h1>
 						<p>新奥地产</p>
 					</div>
-					<img class="anli-arrow" src="../../../assets/images/shejiksh/vr360/arrow.jpg">
+					<img class="anli-arrow" src="../../assets/images/shejiksh/vr360/arrow.jpg">
 					<div class="cle"></div>
 				</div>
 				</a>
       <div class="anli-yin">
         <a href="vr360/case/7.html">
 
-					<img src="../../../assets/images/shejiksh/vr360/img7.jpg" class="anli-pic">
+					<img src="../../assets/images/shejiksh/vr360/img7.jpg" class="anli-pic">
 					<div class="anli-sum">
 						<div class="anli-wenzi">
 							<h1>深圳宝安区城市规划馆AR望远镜</h1>
 							<p>深圳宝安区政府</p>
 						</div>
-						<img class="anli-arrow" src="../../../assets/images/shejiksh/vr360/arrow.jpg">
+						<img class="anli-arrow" src="../../assets/images/shejiksh/vr360/arrow.jpg">
 						<div class="cle"></div>
 					</div>
 					</a>
         <a href="vr360/case/8.html">
-					<img src="../../../assets/images/shejiksh/vr360/img8.jpg" class="anli-pic">
+					<img src="../../assets/images/shejiksh/vr360/img8.jpg" class="anli-pic">
 					<div class="anli-sum">
 						<div class="anli-wenzi">
 							<h1>龙光·玖龙玺移动端看房系统</h1>
 							<p>金骏地产</p>
 						</div>
-						<img class="anli-arrow" src="../../../assets/images/shejiksh/vr360/arrow.jpg">
+						<img class="anli-arrow" src="../../assets/images/shejiksh/vr360/arrow.jpg">
 						<div class="cle"></div>
 					</div></a>
         <a href="vr360/case/9.html">
-					<img src="../../../assets/images/shejiksh/vr360/img9.jpg" class="anli-pic">
+					<img src="../../assets/images/shejiksh/vr360/img9.jpg" class="anli-pic">
 					<div class="anli-sum">
 						<div class="anli-wenzi">
 							<h1>鲁能VR看房系统</h1>
 							<p>鲁能集团</p>
 						</div>
-						<img class="anli-arrow" src="../../../assets/images/shejiksh/vr360/arrow.jpg">
+						<img class="anli-arrow" src="../../assets/images/shejiksh/vr360/arrow.jpg">
 						<div class="cle"></div>
 					</div></a>
         <a href="vr360/case/10.html">
-					<img src="../../../assets/images/shejiksh/vr360/img10.jpg" class="anli-pic">
+					<img src="../../assets/images/shejiksh/vr360/img10.jpg" class="anli-pic">
 					<div class="anli-sum">
 						<div class="anli-wenzi">
 							<h1>丝路灵镜1.0：多人联机VR会议</h1>
 							<p>为房地产客户量身打造</p>
 						</div>
-						<img class="anli-arrow" src="../../../assets/images/shejiksh/vr360/arrow.jpg">
+						<img class="anli-arrow" src="../../assets/images/shejiksh/vr360/arrow.jpg">
 						<div class="cle"></div>
 					</div></a>
       </div>

@@ -10,60 +10,60 @@
     <!--案例-->
     <div class="sec anli">
       <div class="anli-title">
-        <img src="../../../assets/images/shejiksh/xiaoguotu/wuxing.png" class="xing1">
+        <img src="../../assets/images/shejiksh/xiaoguotu/wuxing.png" class="xing1">
         <h1>案例精选</h1>
-        <img src="../../../assets/images/shejiksh/xiaoguotu/wuxing.png">
+        <img src="../../assets/images/shejiksh/xiaoguotu/wuxing.png">
         <div class="cle"></div>
       </div>
       <p>严格把控项目制作，源自对作品的匠心追求</p>
       <a href="xiaoguotu/case/1.html">
-				<img src="../../../assets/images/shejiksh/xiaoguotu/img1.jpg" class="anli-pic">
+				<img src="../../assets/images/shejiksh/xiaoguotu/img1.jpg" class="anli-pic">
 				<div class="anli-sum">
 					<div class="anli-wenzi">
 						<h1>马来西亚高铁项目</h1>
 						<p>MyHSR Corp team， VERITAS and Ong & Ong， Systra S.A.， Jacobs Engineering Services Sdn. Bhd</p>
 					</div>
-					<img class="anli-arrow" src="../../../assets/images/shejiksh/xiaoguotu/arrow.jpg">
+					<img class="anli-arrow" src="../../assets/images/shejiksh/xiaoguotu/arrow.jpg">
 					<div class="cle"></div>
 				</div></a>
       <a href="xiaoguotu/case/2.html">
-				<img src="../../../assets/images/shejiksh/xiaoguotu/img2.jpg" class="anli-pic">
+				<img src="../../assets/images/shejiksh/xiaoguotu/img2.jpg" class="anli-pic">
 				<div class="anli-sum">
 					<div class="anli-wenzi">
 						<h1>台中银行项目</h1>
 						<p>Aedas Limited</p>
 					</div>
-					<img class="anli-arrow" src="../../../assets/images/shejiksh/xiaoguotu/arrow.jpg">
+					<img class="anli-arrow" src="../../assets/images/shejiksh/xiaoguotu/arrow.jpg">
 					<div class="cle"></div>
 				</div></a>
       <a href="xiaoguotu/case/3.html">
-				<img src="../../../assets/images/shejiksh/xiaoguotu/img3.jpg" class="anli-pic">
+				<img src="../../assets/images/shejiksh/xiaoguotu/img3.jpg" class="anli-pic">
 				<div class="anli-sum">
 					<div class="anli-wenzi">
 						<h1>千岛湖顾家酒店</h1>
 						<p>泛太</p>
 					</div>
-					<img class="anli-arrow" src="../../../assets/images/shejiksh/xiaoguotu/arrow.jpg">
+					<img class="anli-arrow" src="../../assets/images/shejiksh/xiaoguotu/arrow.jpg">
 					<div class="cle"></div>
 				</div></a>
       <a href="xiaoguotu/case/4.html" >
-				<img src="../../../assets/images/shejiksh/xiaoguotu/img4.jpg" class="anli-pic">
+				<img src="../../assets/images/shejiksh/xiaoguotu/img4.jpg" class="anli-pic">
 				<div class="anli-sum">
 					<div class="anli-wenzi">
 						<h1>武汉汉正街改造升级项目</h1>
 						<p>Aedas Limited</p>
 					</div>
-					<img class="anli-arrow" src="../../../assets/images/shejiksh/xiaoguotu/arrow.jpg">
+					<img class="anli-arrow" src="../../assets/images/shejiksh/xiaoguotu/arrow.jpg">
 					<div class="cle"></div>
 				</div></a>
       <a href="xiaoguotu/case/5.html" >
-				<img src="../../../assets/images/shejiksh/xiaoguotu/img5.jpg" class="anli-pic">
+				<img src="../../assets/images/shejiksh/xiaoguotu/img5.jpg" class="anli-pic">
 				<div class="anli-sum">
 					<div class="anli-wenzi">
 						<h1>珠海横琴科学城一期</h1>
 						<p>Aedas Limited</p>
 					</div>
-					<img class="anli-arrow" src="../../../assets/images/shejiksh/xiaoguotu/arrow.jpg">
+					<img class="anli-arrow" src="../../assets/images/shejiksh/xiaoguotu/arrow.jpg">
 					<div class="cle"></div>
 				</div></a>
     </div>

@@ -7,14 +7,14 @@
     </div>
     <div class="sec anli">
       <div class="anli-title">
-        <img src="../../../assets/images/chuangxin/yunxuanran/wuxing.png" class="xing1">
+        <img src="../../assets/images/chuangxin/yunxuanran/wuxing.png" class="xing1">
         <h1>案例精选</h1>
-        <img src="../../../assets/images/chuangxin/yunxuanran/wuxing.png">
+        <img src="../../assets/images/chuangxin/yunxuanran/wuxing.png">
         <div class="cle"></div>
       </div>
       <ul class="anli-list">
         <li>
-          <img src="../../../assets/images/chuangxin/yunxuanran/img1.jpg">
+          <img src="../../assets/images/chuangxin/yunxuanran/img1.jpg">
           <div class="anli-sum">
             <div class="anli-wenzi">
               <h1>《影》</h1>
@@ -23,7 +23,7 @@
           </div>
         </li>
         <li>
-          <img src="../../../assets/images/chuangxin/yunxuanran/img2.jpg">
+          <img src="../../assets/images/chuangxin/yunxuanran/img2.jpg">
           <div class="anli-sum">
             <div class="anli-wenzi">
               <h1>《狄仁杰之四大天王》</h1>
@@ -32,7 +32,7 @@
           </div>
         </li>
         <li>
-          <img src="../../../assets/images/chuangxin/yunxuanran/img3.jpg">
+          <img src="../../assets/images/chuangxin/yunxuanran/img3.jpg">
           <div class="anli-sum">
             <div class="anli-wenzi">
               <h1>《战狼2》</h1>
@@ -41,7 +41,7 @@
           </div>
         </li>
         <li>
-          <img src="../../../assets/images/chuangxin/yunxuanran/img4.jpg">
+          <img src="../../assets/images/chuangxin/yunxuanran/img4.jpg">
           <div class="anli-sum">
             <div class="anli-wenzi">
               <h1>《扶摇》</h1>
@@ -50,7 +50,7 @@
           </div>
         </li>
         <li>
-          <img src="../../../assets/images/chuangxin/yunxuanran/img5.jpg">
+          <img src="../../assets/images/chuangxin/yunxuanran/img5.jpg">
           <div class="anli-sum">
             <div class="anli-wenzi">
               <h1>《唐人街探案2》</h1>
@@ -59,7 +59,7 @@
           </div>
         </li>
         <li>
-          <img src="../../../assets/images/chuangxin/yunxuanran/img6.jpg">
+          <img src="../../assets/images/chuangxin/yunxuanran/img6.jpg">
           <div class="anli-sum">
             <div class="anli-wenzi">
               <h1>《大圣归来》</h1>
@@ -70,7 +70,7 @@
         <li>
           <ul v-if="moreCase">
             <li>
-              <img src="../../../assets/images/chuangxin/yunxuanran/img7.jpg">
+              <img src="../../assets/images/chuangxin/yunxuanran/img7.jpg">
               <div class="anli-sum">
                 <div class="anli-wenzi">
                   <h1>《巴霍巴利王》</h1>
@@ -79,7 +79,7 @@
               </div>
             </li>
             <li>
-              <img src="../../../assets/images/chuangxin/yunxuanran/img8.jpg">
+              <img src="../../assets/images/chuangxin/yunxuanran/img8.jpg">
               <div class="anli-sum">
                 <div class="anli-wenzi">
                   <h1>《爵迹》</h1>
@@ -99,7 +99,7 @@
       <p>瑞云——中国“自助式云渲染”的开创者
         <br>亚洲领先的云渲染农场</p>
       <div style="text-align: center;">
-        <img src="../../../assets/images/chuangxin/yunxuanran/ditu.jpg" alt="" style="width: 90%;">
+        <img src="../../assets/images/chuangxin/yunxuanran/ditu.jpg" alt="" style="width: 90%;">
       </div>
     </div>
     <site-map></site-map>

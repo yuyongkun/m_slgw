@@ -19,119 +19,119 @@
 		
 		<div class="sec anli">
 			<div class="anli-title">
-				<img src="../../../assets/images/duomeiti/shuziyingyuan/wuxing.png" class="xing1">
+				<img src="../../assets/images/duomeiti/shuziyingyuan/wuxing.png" class="xing1">
 				<h1>案例精选</h1>
-				<img src="../../../assets/images/duomeiti/shuziyingyuan/wuxing.png">
+				<img src="../../assets/images/duomeiti/shuziyingyuan/wuxing.png">
 				<div class="cle"></div>
 			</div>
 			<p>声光电的完美融合，满足眼球经济的最佳体验</p>
 			<a href="shuziyingyuan/case/1.html"> 
-			<img src="../../../assets/images/duomeiti/shuziyingyuan/img1.jpg" class="anli-pic">
+			<img src="../../assets/images/duomeiti/shuziyingyuan/img1.jpg" class="anli-pic">
 			<div class="anli-sum">
 				<div class="anli-wenzi">
 					<h1>首开华润城U-Space影院</h1>
 					<p>华润置地（深圳）有限公司</p>
 				</div>
-				<img class="anli-arrow" src="../../../assets/images/duomeiti/shuziyingyuan/arrow.jpg">
+				<img class="anli-arrow" src="../../assets/images/duomeiti/shuziyingyuan/arrow.jpg">
 				<div class="cle"></div>
 			</div></a>
 			<a href="shuziyingyuan/case/2.html"> 
-			<img src="../../../assets/images/duomeiti/shuziyingyuan/img2.jpg" class="anli-pic">
+			<img src="../../assets/images/duomeiti/shuziyingyuan/img2.jpg" class="anli-pic">
 			<div class="anli-sum">
 				<div class="anli-wenzi">
 					<h1>华润城360°球幕影院</h1>
 					<p>华润置地（深圳）有限公司</p>
 				</div>
-				<img class="anli-arrow" src="../../../assets/images/duomeiti/shuziyingyuan/arrow.jpg">
+				<img class="anli-arrow" src="../../assets/images/duomeiti/shuziyingyuan/arrow.jpg">
 				<div class="cle"></div>
 			</div></a>
 			<a href="shuziyingyuan/case/3.html"> 
-			<img src="../../../assets/images/duomeiti/shuziyingyuan/img3.jpg" class="anli-pic">
+			<img src="../../assets/images/duomeiti/shuziyingyuan/img3.jpg" class="anli-pic">
 			<div class="anli-sum">
 				<div class="anli-wenzi">
 					<h1>前海时代沉浸式三折幕与地幕影院</h1>
 					<p>深圳市地铁集团有限公司</p>
 				</div>
-				<img class="anli-arrow" src="../../../assets/images/duomeiti/shuziyingyuan/arrow.jpg">
+				<img class="anli-arrow" src="../../assets/images/duomeiti/shuziyingyuan/arrow.jpg">
 				<div class="cle"></div>
 			</div></a>
 			<a href="shuziyingyuan/case/4.html"> 
-			<img src="../../../assets/images/duomeiti/shuziyingyuan/img4.jpg" class="anli-pic">
+			<img src="../../assets/images/duomeiti/shuziyingyuan/img4.jpg" class="anli-pic">
 			<div class="anli-sum">
 				<div class="anli-wenzi">
 					<h1>信达中心杭州壹号院Mapping影院</h1>
 					<p>杭州信达奥体置业有限公司</p>
 				</div>
-				<img class="anli-arrow" src="../../../assets/images/duomeiti/shuziyingyuan/arrow.jpg">
+				<img class="anli-arrow" src="../../assets/images/duomeiti/shuziyingyuan/arrow.jpg">
 				<div class="cle"></div>
 			</div></a>
 			<a href="shuziyingyuan/case/5.html"> 
-			<img src="../../../assets/images/duomeiti/shuziyingyuan/img5.jpg" class="anli-pic">
+			<img src="../../assets/images/duomeiti/shuziyingyuan/img5.jpg" class="anli-pic">
 			<div class="anli-sum">
 				<div class="anli-wenzi">
 					<h1>宝安规划馆热气球影院</h1>
 					<p>宝安区政府</p>
 				</div>
-				<img class="anli-arrow" src="../../../assets/images/duomeiti/shuziyingyuan/arrow.jpg">
+				<img class="anli-arrow" src="../../assets/images/duomeiti/shuziyingyuan/arrow.jpg">
 				<div class="cle"></div>
 			</div></a>
 			
 			
 			<a href="shuziyingyuan/case/6.html"> 
-			<img src="../../../assets/images/duomeiti/shuziyingyuan/img6.jpg" class="anli-pic">
+			<img src="../../assets/images/duomeiti/shuziyingyuan/img6.jpg" class="anli-pic">
 			<div class="anli-sum">
 				<div class="anli-wenzi">
 					<h1>中粮天悦直角幕影院</h1>
 					<p>中粮地产集团深圳房地产开发有限公司</p>
 				</div>
-				<img class="anli-arrow" src="../../../assets/images/duomeiti/shuziyingyuan/arrow.jpg">
+				<img class="anli-arrow" src="../../assets/images/duomeiti/shuziyingyuan/arrow.jpg">
 				<div class="cle"></div>
 			</div></a>
 			
 			<div class="anli-yin">
 				
 				<a href="shuziyingyuan/case/7.html"> 
-				<img src="../../../assets/images/duomeiti/shuziyingyuan/img7.jpg" class="anli-pic">
+				<img src="../../assets/images/duomeiti/shuziyingyuan/img7.jpg" class="anli-pic">
 				<div class="anli-sum">
 					<div class="anli-wenzi">
 						<h1>武汉星汇云锦营销厅机械幕影院</h1>
 						<p>武汉越秀地产开发有限公司</p>
 					</div>
-					<img class="anli-arrow" src="../../../assets/images/duomeiti/shuziyingyuan/arrow.jpg">
+					<img class="anli-arrow" src="../../assets/images/duomeiti/shuziyingyuan/arrow.jpg">
 					<div class="cle"></div>
 				</div></a>
 				
 				<a href="shuziyingyuan/case/8.html"> 
-				<img src="../../../assets/images/duomeiti/shuziyingyuan/img8.jpg" class="anli-pic">
+				<img src="../../assets/images/duomeiti/shuziyingyuan/img8.jpg" class="anli-pic">
 				<div class="anli-sum">
 					<div class="anli-wenzi">
 						<h1>保利象屿公园悦府营销中心两折幕互动影院</h1>
 						<p>保利发展控股集团股份有限公司</p>
 					</div>
-					<img class="anli-arrow" src="../../../assets/images/duomeiti/shuziyingyuan/arrow.jpg">
+					<img class="anli-arrow" src="../../assets/images/duomeiti/shuziyingyuan/arrow.jpg">
 					<div class="cle"></div>
 				</div></a>
 				
 					<a href="shuziyingyuan/case/10.html"> 
-				<img src="../../../assets/images/duomeiti/shuziyingyuan/guangfoxsj.jpg" class="anli-pic">
+				<img src="../../assets/images/duomeiti/shuziyingyuan/guangfoxsj.jpg" class="anli-pic">
 				<div class="anli-sum">
 					<div class="anli-wenzi">
 						<h1>广佛新世界360度穹幕</h1>
 						<p>广佛新世界</p>
 					</div>
-					<img class="anli-arrow" src="../../../assets/images/duomeiti/shuziyingyuan/arrow.jpg">
+					<img class="anli-arrow" src="../../assets/images/duomeiti/shuziyingyuan/arrow.jpg">
 					<div class="cle"></div>
 				</div></a>
 				
 				
 					<a href="shuziyingyuan/case/11.html"> 
-				<img src="../../../assets/images/duomeiti/shuziyingyuan/11.jpg" class="anli-pic">
+				<img src="../../assets/images/duomeiti/shuziyingyuan/11.jpg" class="anli-pic">
 				<div class="anli-sum">
 					<div class="anli-wenzi">
 						<h1>武汉越秀金融汇倒扣盒子沉浸影院</h1>
 						<p>客户名称暂未公开</p>
 					</div>
-					<img class="anli-arrow" src="../../../assets/images/duomeiti/shuziyingyuan/arrow.jpg">
+					<img class="anli-arrow" src="../../assets/images/duomeiti/shuziyingyuan/arrow.jpg">
 					<div class="cle"></div>
 				</div></a>
 				
