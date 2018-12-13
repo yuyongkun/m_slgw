@@ -45,31 +45,36 @@
           <li> <a href="#">多媒体应用</a>
             <ul>
               <li>
-            
- <router-link to="/duomeiti/chengshixx.html">城市形象设计</router-link>
-               </li>
-              <li> <router-link to="/duomeiti/shuziyy.html">数字影院</router-link>
-           </li>
-              <li> 
-         
-              <router-link to="/duomeiti/yingshihd.html">影视动画</router-link>
-               </li>
-              <li> 
-            
-              <router-link to="/duomeiti/huddmt.html">互动多媒体</router-link>
+                <router-link to="/duomeiti/chengshixx.html">城市形象设计</router-link>
               </li>
-              <li> 
-      
-              <router-link to="/duomeiti/show.html">大型Show策划</router-link>
-               </li>
+              <li>
+                <router-link to="/duomeiti/shuziyy.html">数字影院</router-link>
+              </li>
+              <li>
+                <router-link to="/duomeiti/yingshihd.html">影视动画</router-link>
+              </li>
+              <li>
+                <router-link to="/duomeiti/huddmt.html">互动多媒体</router-link>
+              </li>
+              <li>
+                <router-link to="/duomeiti/show.html">大型Show策划</router-link>
+              </li>
             </ul>
           </li>
           <li> <a href="#">设计可视化</a>
             <ul>
-              <li><router-link to="/shejiksh/xiaoguotu.html">效果图</router-link> </li>
-              <li><router-link to="/shejiksh/sanweidh.html">三维动画</router-link> </li>
-              <li> <router-link to="/shejiksh/duomeitsp.html">多媒体视频</router-link> </li>
-              <li><router-link to="/shejiksh/vr360.html">360全景/VR/AR</router-link></li>
+              <li>
+                <router-link to="/shejiksh/xiaoguotu.html">效果图</router-link>
+              </li>
+              <li>
+                <router-link to="/shejiksh/sanweidh.html">三维动画</router-link>
+              </li>
+              <li>
+                <router-link to="/shejiksh/duomeitsp.html">多媒体视频</router-link>
+              </li>
+              <li>
+                <router-link to="/shejiksh/vr360.html">360全景/VR/AR</router-link>
+              </li>
             </ul>
           </li>
           <li> <a href="#">丝路教育</a>
@@ -83,19 +88,19 @@
           </li>
           <li> <a href="#">创新业务</a>
             <ul>
-              <li> 
-              <router-link to="/chuangxin/yunxuanran.html">云渲染</router-link>
+              <li>
+                <router-link to="/chuangxin/yunxuanran.html">云渲染</router-link>
               </li>
               <li>
-              <router-link to="/chuangxin/xshiyanshi.html">X 实验室</router-link>
+                <router-link to="/chuangxin/xshiyanshi.html">X 实验室</router-link>
               </li>
             </ul>
           </li>
           <li> <a href="#">联系我们</a>
             <ul>
-              <li> 
-              <router-link to="/contact/contact.html">联系方式</router-link>
-               </li>
+              <li>
+                <router-link to="/contact/contact.html">联系方式</router-link>
+              </li>
               <!--<li>
               <a href="contact/zxns.html">招贤纳士</a>
               </li>-->
@@ -130,4 +135,3 @@ export default {
 }
 
 </script>
-
