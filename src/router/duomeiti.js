@@ -36,7 +36,7 @@ export default [{
     component: Show
   },
   {
-    path: '/chengshixx/case/:id', //
+    path: '/chengshixx/case/:id', //案例详情
     name: 'Detail',
     meta: { title: "案例详情" },
     component: Detail,
