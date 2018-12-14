@@ -38,7 +38,7 @@ export default [{
   {
     path: '/chengshixx/case/:id', //
     name: 'Detail',
-    meta: { title: "多媒体详情" },
+    meta: { title: "案例详情" },
     component: Detail,
   },
 ]
