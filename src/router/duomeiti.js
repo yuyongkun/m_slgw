@@ -1,8 +1,9 @@
-import Chengshixx from '@/components/duomeiti/Chengshixx'
-import Shuziyy from '@/components/duomeiti/Shuziyy'
-import Yingshihd from '@/components/duomeiti/Yingshihd'
-import Huddmt from '@/components/duomeiti/Huddmt'
-import Show from '@/components/duomeiti/Show'
+import Chengshixx from '@/components/duomeiti/chengshixx/Chengshixx'
+import Huddmt from '@/components/duomeiti/huddmt/Huddmt'
+import Show from '@/components/duomeiti/show/Show'
+import Shuziyy from '@/components/duomeiti/shuziyy/Shuziyy'
+import Yingshihd from '@/components/duomeiti/yingshihd/Yingshihd'
+
 import Detail from '@/components/duomeiti/Detail'
 export default [{
     path: '/duomeiti/chengshixx.html', //城市形象设计
@@ -35,9 +36,9 @@ export default [{
     component: Show
   },
   {
-    path: '/duomeiti/case/:id', //
+    path: '/chengshixx/case/:id', //
     name: 'Detail',
-    meta: { title: "x实验室" },
+    meta: { title: "多媒体详情" },
     component: Detail,
   },
 ]

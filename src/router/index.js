@@ -13,7 +13,7 @@ Vue.use(Router)
 const router = new Router({
   mode: 'history',
   routes: [{
-      path: '/(index.html)*', //首页
+      path: '/$', //首页
       name: 'Index',
       meta: { title: "首页" },
       component: Index

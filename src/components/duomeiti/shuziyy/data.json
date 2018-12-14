@@ -1,0 +1,69 @@
+﻿{
+  "datalist": [
+  {
+    "id": "1",
+    "cover": "images/chuangxin/xshiyanshi/case/1/banner.jpg",
+    "coverTitle": "电磁感应互动触摸墙",
+    "videopath": "images/chuangxin/xshiyanshi/case/1/video.mp4",
+    "techapplication": "深圳国际双创周",
+    "applicacenario": "会展、创意活动",
+    "workproperty": "多媒体方案动画",
+    "projectdesc": "深圳作为全国双创周主会场之一，再掀“创客风暴”。今年智能硬件类产品展示明显增多，不仅有穿戴类的VR设备、智能手表，更有智能汽车、智能制作设备。丝路X实验室、丝路舞美、丝路数字视觉营销（ 展览展示）团队团结协作，创新打造的电磁感应互动绘画墙， 全息微缩舞台数字成像， 激光电视数字内容等组成的新媒体数字视觉互动长廊， 传递知识和理念，增强了互动，成为一道受到市民喜爱的现代化社交城市景观，也为观众打开一道想象力的大门。 ",
+    "achievements": [
+      "images/chuangxin/xshiyanshi/case/1/pic1.jpg",
+      "images/chuangxin/xshiyanshi/case/1/pic2.jpg",
+      "images/chuangxin/xshiyanshi/case/1/pic3.jpg"
+    ]
+  },
+  {
+    "id": "2",
+    "cover": "images/chuangxin/xshiyanshi/case/2/banner.jpg",
+    "coverTitle": "手势感应<br>LEAP MOTION系统",
+    "videopath": "images/chuangxin/xshiyanshi/case/2/video.mp4",
+    "techapplication": "深圳第十四届文博会",
+    "applicacenario": "会展、创意活动",
+    "workproperty": "手势感应",
+    "projectdesc": "此互动手势装置在文博会开幕第一天吸引众多媒体相继采访，此互动装置通过双眼红外摄像头图像识别计算系统，以超过每秒200帧的速度追踪手部动作，似的画面与手部动作完美同步。现场体验者以手部的互动方式：展开、握拳反掌、上下左右移动，来体验正前方屏幕中的内容切换。通过前方屏幕中场景科技元素，让体验者如穿梭在浩瀚的数字星河，感受手中“掌控”的数字体验。了解福田区文化创意行业息息相关的多面性。",
+    "achievements": [
+      "images/chuangxin/xshiyanshi/case/2/pic1.jpg",
+      "images/chuangxin/xshiyanshi/case/2/pic2.jpg"
+    ]
+  },
+  {
+    "id": "3",
+    "cover": "images/chuangxin/xshiyanshi/case/3/banner.jpg",
+    "coverTitle": "隔空交互墙",
+    "videopath": "images/chuangxin/xshiyanshi/case/3/video.mp4",
+    "techapplication": "客户名称暂未公开",
+    "applicacenario": "会展、创意活动",
+    "workproperty": "交互屏",
+    "projectdesc": "交互屏是一种很常见的信息交互手段，为人们所熟知。在这里，我们尝试把体验的距离拉远，这样，全局视角会给人更加不同的感受。这是我们开发这个案例的初衷。在测试中，我们发现，如果空间满足的话，距离屏幕的距离可以更远。这样，隔空操作的神奇感受会更加强烈。同时，需要在地面上做出指示和指引，方便降低学习成本。",
+    "achievements": [
+      "images/chuangxin/xshiyanshi/case/3/pic1.jpg",
+      "images/chuangxin/xshiyanshi/case/3/pic2.jpg",
+      "images/chuangxin/xshiyanshi/case/3/pic3.jpg",
+      "images/chuangxin/xshiyanshi/case/3/pic4.jpg",
+      "images/chuangxin/xshiyanshi/case/3/pic5.jpg",
+      "images/chuangxin/xshiyanshi/case/3/pic6.jpg"
+    ]
+  },
+  {
+    "id": "4",
+    "cover": "images/chuangxin/xshiyanshi/case/4/banner.jpg",
+    "coverTitle": "滚筒画",
+    "videopath": "images/chuangxin/xshiyanshi/case/4/video.mp4",
+    "techapplication": "客户名称暂未公开",
+    "applicacenario": "教育、艺术展览",
+    "workproperty": "教育互动绘画",
+    "projectdesc": "灵活运用了图像捕捉技术完成了这样一个小创新。通过手持粉刷滚轮涂出画幅局部，当涂画面积达到70%以上时，就会显示完整画幅和信息。这是一个可以广泛应用于儿童教育，文艺机构，美术展览等领域的互动展项。通过互动交互设计，可以拉近观众和高高在上的绘画艺术品的距离，寓教于乐，在娱乐中提高美学修养，增长美术知识。",
+    "achievements": [
+      "images/chuangxin/xshiyanshi/case/4/pic1.jpg",
+      "images/chuangxin/xshiyanshi/case/4/pic2.jpg",
+      "images/chuangxin/xshiyanshi/case/4/pic3.jpg",
+      "images/chuangxin/xshiyanshi/case/4/pic4.jpg",
+      "images/chuangxin/xshiyanshi/case/4/pic5.jpg",
+      "images/chuangxin/xshiyanshi/case/4/pic6.jpg"
+    ]
+  }]
+
+}

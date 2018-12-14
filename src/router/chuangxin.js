@@ -1,6 +1,6 @@
 import Xshiyanshi from '@/components/chuangxin/Xshiyanshi'
 import Yunxuanran from '@/components/chuangxin/Yunxuanran'
-// import Detail from '@/components/chuangxin/Detail'
+import Detail from '@/components/chuangxin/Detail'
 export default [{
     path: '/chuangxin/xshiyanshi.html', //X实验室
     name: 'Xshiyanshi',
@@ -13,10 +13,10 @@ export default [{
     meta: { title: "云渲染" },
     component: Yunxuanran
   },
-  // {
-  //   path: '/xshiyanshi/case/:id', //x实验室详情
-  //   name: 'Detail',
-  //   meta: { title: "x实验室" },
-  //   component: Detail,
-  // },
+  {
+    path: '/xshiyanshi/case/:id', //x实验室详情
+    name: 'Detail',
+    meta: { title: "x实验室" },
+    component: Detail,
+  },
 ]

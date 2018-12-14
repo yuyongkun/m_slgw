@@ -39,7 +39,7 @@ export default {
     }
   },
   created() {
-    let datalist = require('./data.json').datalist;
+    let datalist = require(`.${this.$route.path.split('/case')[0]}/data.json`).datalist;
     let id = this.$route.params.id.split('.html')[0];
     let achievements = [];
     datalist.forEach((item) => {
