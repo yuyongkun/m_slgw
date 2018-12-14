@@ -49,7 +49,7 @@
           <div class="cle"></div>
         </div>
       </router-link>
-      <router-link to="chengshixx/case/4.html">
+      <router-link to="/chengshixx/case/4.html">
         <img src="../../../assets/images/duomeiti/chengshixx/img4.jpg" class="anli-pic">
         <div class="anli-sum">
           <div class="anli-wenzi">
@@ -60,7 +60,7 @@
           <div class="cle"></div>
         </div>
       </router-link>
-      <router-link to="chengshixx/case/5.html">
+      <router-link to="/chengshixx/case/5.html">
         <img src="../../../assets/images/duomeiti/chengshixx/img5.jpg" class="anli-pic">
         <div class="anli-sum">
           <div class="anli-wenzi">
@@ -71,7 +71,7 @@
           <div class="cle"></div>
         </div>
         </router-link>
-        <router-link to="chengshixx/case/6.html">
+        <router-link to="/chengshixx/case/6.html">
           <img src="../../../assets/images/duomeiti/chengshixx/img6.jpg" class="anli-pic">
           <div class="anli-sum">
             <div class="anli-wenzi">
@@ -83,7 +83,7 @@
           </div>
         </router-link>
         <div class="anli-yin">
-          <router-link to="chengshixx/case/7.html">
+          <router-link to="/chengshixx/case/7.html">
             <img src="../../../assets/images/duomeiti/chengshixx/img7.jpg" class="anli-pic">
             <div class="anli-sum">
               <div class="anli-wenzi">
@@ -94,7 +94,7 @@
               <div class="cle"></div>
             </div>
           </router-link>
-          <router-link to="chengshixx/case/8.html">
+          <router-link to="/chengshixx/case/8.html">
             <img src="../../../assets/images/duomeiti/chengshixx/img8.jpg" class="anli-pic">
             <div class="anli-sum">
               <div class="anli-wenzi">
@@ -105,7 +105,7 @@
               <div class="cle"></div>
             </div>
           </router-link>
-          <router-link to="chengshixx/case/9.html">
+          <router-link to="/chengshixx/case/9.html">
             <img src="../../../assets/images/duomeiti/chengshixx/img9.jpg" class="anli-pic">
             <div class="anli-sum">
               <div class="anli-wenzi">
@@ -123,3 +123,22 @@
     <site-map></site-map>
   </div>
 </template>
+<script>
+export default {
+  mounted() {
+    $(".anli-yin").hide();
+    $(".btn-shouqi").hide();
+    $(".btn-jiazai").click(function() {
+      $(".anli-yin").show();
+$(".btn-shouqi").show();
+      $(".btn-jiazai").hide();
+    });
+    $(".btn-shouqi").click(function() {
+      $(".anli-yin").hide();
+      $(".btn-shouqi").hide();
+      $(".btn-jiazai").show();
+    });
+  }
+}
+
+</script>

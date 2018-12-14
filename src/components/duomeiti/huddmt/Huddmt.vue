@@ -24,7 +24,7 @@
 				<div class="cle"></div>
 			</div>
 			<p>互动创造感官延伸，创意点亮客户体验</p>
-            <a href="hudongduomeiti/case/0.html"> 
+            <router-link to="/huddmt/case/1.html">
 			<img src="../../../assets/images/duomeiti/hudongduomeiti/img0.jpg" class="anli-pic">
 			<div class="anli-sum">
 				<div class="anli-wenzi">
@@ -33,8 +33,9 @@
 				</div>
 				<img class="anli-arrow" src="../../../assets/images/duomeiti/hudongduomeiti/arrow.jpg">
 				<div class="cle"></div>
-			</div></a>
-			<a href="hudongduomeiti/case/1.html"> 
+			</div>
+		</router-link>
+			  <router-link to="/huddmt/case/2.html">
 			<img src="../../../assets/images/duomeiti/hudongduomeiti/img1.jpg" class="anli-pic">
 			<div class="anli-sum">
 				<div class="anli-wenzi">
@@ -43,18 +44,21 @@
 				</div>
 				<img class="anli-arrow" src="../../../assets/images/duomeiti/hudongduomeiti/arrow.jpg">
 				<div class="cle"></div>
-			</div></a>
-			<a href="hudongduomeiti/case/2.html"> 
+			</div>
+			</router-link>
+
+			<router-link to="/huddmt/case/3.html">
 			<img src="../../../assets/images/duomeiti/hudongduomeiti/img2.jpg" class="anli-pic">
 			<div class="anli-sum">
 				<div class="anli-wenzi">
 					<h1>双创周油墨导电墙</h1>
 					<p>深圳市工业设计行业协会</p>
 				</div>
-				<a href="hudongduomeiti/case/2.html"><img class="anli-arrow" src="../../../assets/images/duomeiti/hudongduomeiti/arrow.jpg"></a>
+				<img class="anli-arrow" src="../../../assets/images/duomeiti/hudongduomeiti/arrow.jpg">
 				<div class="cle"></div>
-			</div></a>
-			<a href="hudongduomeiti/case/3.html"> 
+			</div>
+		</router-link>
+			<router-link to="/huddmt/case/4.html">
 			<img src="../../../assets/images/duomeiti/hudongduomeiti/img3.jpg" class="anli-pic">
 			<div class="anli-sum">
 				<div class="anli-wenzi">
@@ -63,8 +67,9 @@
 				</div>
 				<img class="anli-arrow" src="../../../assets/images/duomeiti/hudongduomeiti/arrow.jpg">
 				<div class="cle"></div>
-			</div></a>
-			<a href="hudongduomeiti/case/4.html"> 
+			</div>
+			</router-link>
+			<router-link to="/huddmt/case/5.html">
 			<img src="../../../assets/images/duomeiti/hudongduomeiti/img4.jpg" class="anli-pic">
 			<div class="anli-sum">
 				<div class="anli-wenzi">
@@ -73,8 +78,9 @@
 				</div>
 				<img class="anli-arrow" src="../../../assets/images/duomeiti/hudongduomeiti/arrow.jpg">
 				<div class="cle"></div>
-			</div></a>
-			<a href="hudongduomeiti/case/5.html"> 
+			</div>
+		</router-link>
+			<router-link to="/huddmt/case/6.html">
 			<img src="../../../assets/images/duomeiti/hudongduomeiti/img5.jpg" class="anli-pic">
 			<div class="anli-sum">
 				<div class="anli-wenzi">
@@ -83,8 +89,8 @@
 				</div>
 				<img class="anli-arrow" src="../../../assets/images/duomeiti/hudongduomeiti/arrow.jpg">
 				<div class="cle"></div>
-			</div></a>
-			<a href="hudongduomeiti/case/6.html"> 
+			</div></router-link>
+			<router-link to="/huddmt/case/7.html">
 			<img src="../../../assets/images/duomeiti/hudongduomeiti/img6.jpg" class="anli-pic">
 			<div class="anli-sum">
 				<div class="anli-wenzi">
@@ -93,9 +99,9 @@
 				</div>
 				<img class="anli-arrow" src="../../../assets/images/duomeiti/hudongduomeiti/arrow.jpg">
 				<div class="cle"></div>
-			</div></a>
+			</div></router-link>
 			<div class="anli-yin">
-				<a href="hudongduomeiti/case/7.html"> 
+				<router-link to="/huddmt/case/8.html">
 				<img src="../../../assets/images/duomeiti/hudongduomeiti/img7.jpg" class="anli-pic">
 				<div class="anli-sum">
 					<div class="anli-wenzi">
@@ -104,8 +110,9 @@
 					</div>
 					<img class="anli-arrow" src="../../../assets/images/duomeiti/hudongduomeiti/arrow.jpg">
 					<div class="cle"></div>
-				</div></a>
-				<a href="hudongduomeiti/case/8.html"> 
+				</div>
+			</router-link>
+				<router-link to="/huddmt/case/9.html">
 				<img src="../../../assets/images/duomeiti/hudongduomeiti/img8.jpg" class="anli-pic">
 				<div class="anli-sum">
 					<div class="anli-wenzi">
@@ -114,7 +121,8 @@
 					</div>
 					<img class="anli-arrow" src="../../../assets/images/duomeiti/hudongduomeiti/arrow.jpg">
 					<div class="cle"></div>
-				</div></a>
+				</div>
+			</router-link>
 				<div class="btn btn-shouqi">收起更多案例</div>
 			</div>
 			<div class="btn btn-jiazai">加载更多案例</div>
@@ -122,3 +130,22 @@
 	<site-map></site-map>
 </div>
        </template>
+<script>
+export default {
+  mounted() {
+    $(".anli-yin").hide();
+    $(".btn-shouqi").hide();
+    $(".btn-jiazai").click(function() {
+      $(".anli-yin").show();
+$(".btn-shouqi").show();
+      $(".btn-jiazai").hide();
+    });
+    $(".btn-shouqi").click(function() {
+      $(".anli-yin").hide();
+      $(".btn-shouqi").hide();
+      $(".btn-jiazai").show();
+    });
+  }
+}
+
+</script>

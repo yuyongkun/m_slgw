@@ -20,7 +20,7 @@
 					<div class="cle"></div>
 				</div>
 				<p>非凡的影像画面，触碰心灵的视觉盛宴</p>
-				<a href="yingshidonghua/case/1.html"> 
+				<router-link to="/yingshihd/case/1.html">
 				<img src="../../../assets/images/duomeiti/yingshidonghua/img1.jpg" class="anli-pic">
 				<div class="anli-sum">
 					<div class="anli-wenzi">
@@ -29,8 +29,10 @@
 					</div>
 					<img class="anli-arrow" src="../../../assets/images/duomeiti/yingshidonghua/arrow.jpg">
 					<div class="cle"></div>
-				</div></a>
-				<a href="yingshidonghua/case/2.html"> 
+				</div>	
+			</router-link>
+
+				<router-link to="/yingshihd/case/2.html">
 				<img src="../../../assets/images/duomeiti/yingshidonghua/img2.jpg" class="anli-pic">
 				<div class="anli-sum">
 					<div class="anli-wenzi">
@@ -39,8 +41,11 @@
 					</div>
 					<img class="anli-arrow" src="../../../assets/images/duomeiti/yingshidonghua/arrow.jpg">
 					<div class="cle"></div>
-				</div></a>
-				<a href="yingshidonghua/case/3.html"> 
+				</div>
+			</router-link>
+
+
+				<router-link to="/yingshihd/case/3.html">
 				<img src="../../../assets/images/duomeiti/yingshidonghua/img3.jpg" class="anli-pic">
 				<div class="anli-sum">
 					<div class="anli-wenzi">
@@ -49,8 +54,10 @@
 					</div>
 					<img class="anli-arrow" src="../../../assets/images/duomeiti/yingshidonghua/arrow.jpg">
 					<div class="cle"></div>
-				</div></a>
-				<a href="yingshidonghua/case/4.html"> 
+				</div>
+				</router-link>
+
+				<router-link to="/yingshihd/case/4.html">
 				<img src="../../../assets/images/duomeiti/yingshidonghua/img4.jpg" class="anli-pic">
 				<div class="anli-sum">
 					<div class="anli-wenzi">
@@ -59,8 +66,10 @@
 					</div>
 					<img class="anli-arrow" src="../../../assets/images/duomeiti/yingshidonghua/arrow.jpg">
 					<div class="cle"></div>
-				</div></a>
-				<a href="yingshidonghua/case/5.html"> 
+				</div>
+				</router-link>
+
+				<router-link to="/yingshihd/case/5.html">
 				<img src="../../../assets/images/duomeiti/yingshidonghua/img5.jpg" class="anli-pic">
 				<div class="anli-sum">
 					<div class="anli-wenzi">
@@ -69,8 +78,10 @@
 					</div>
 					<img class="anli-arrow" src="../../../assets/images/duomeiti/yingshidonghua/arrow.jpg">
 					<div class="cle"></div>
-				</div></a>
-				<a href="yingshidonghua/case/6.html"> 
+				</div>
+				</router-link>
+
+				<router-link to="/yingshihd/case/6.html">
 				<img src="../../../assets/images/duomeiti/yingshidonghua/img6.jpg" class="anli-pic">
 				<div class="anli-sum">
 					<div class="anli-wenzi">
@@ -79,9 +90,11 @@
 					</div>
 					<img class="anli-arrow" src="../../../assets/images/duomeiti/yingshidonghua/arrow.jpg">
 					<div class="cle"></div>
-				</div></a>
+				</div>
+				</router-link>
+
 				<div class="anli-yin">
-					<a href="yingshidonghua/case/7.html"> 
+					<router-link to="/yingshihd/case/7.html">
 					<img src="../../../assets/images/duomeiti/yingshidonghua/img7.jpg" class="anli-pic">
 					<div class="anli-sum">
 						<div class="anli-wenzi">
@@ -90,8 +103,10 @@
 						</div>
 						<img class="anli-arrow" src="../../../assets/images/duomeiti/yingshidonghua/arrow.jpg">
 						<div class="cle"></div>
-					</div></a>
-					<a href="yingshidonghua/case/8.html"> 
+					</div>
+					</router-link>
+
+					<router-link to="/yingshihd/case/8.html">
 					<img src="../../../assets/images/duomeiti/yingshidonghua/img8.jpg" class="anli-pic">
 					<div class="anli-sum">
 						<div class="anli-wenzi">
@@ -100,8 +115,10 @@
 						</div>
 						<img class="anli-arrow" src="../../../assets/images/duomeiti/yingshidonghua/arrow.jpg">
 						<div class="cle"></div>
-					</div></a>
-					<a href="yingshidonghua/case/9.html"> 
+					</div>
+				</router-link>
+
+					<router-link to="/yingshihd/case/9.html">
 					<img src="../../../assets/images/duomeiti/yingshidonghua/img9.jpg" class="anli-pic">
 					<div class="anli-sum">
 						<div class="anli-wenzi">
@@ -110,8 +127,10 @@
 						</div>
 						<img class="anli-arrow" src="../../../assets/images/duomeiti/yingshidonghua/arrow.jpg">
 						<div class="cle"></div>
-					</div></a>
-					<a href="yingshidonghua/case/10.html"> 
+					</div>
+				</router-link>
+
+					<router-link to="/yingshihd/case/10.html">
 					<img src="../../../assets/images/duomeiti/yingshidonghua/img10.jpg" class="anli-pic">
 					<div class="anli-sum">
 						<div class="anli-wenzi">
@@ -120,7 +139,9 @@
 						</div>
 						<img class="anli-arrow" src="../../../assets/images/duomeiti/yingshidonghua/arrow.jpg">
 						<div class="cle"></div>
-					</div></a>
+					</div>
+				</router-link>
+
 					<div class="btn btn-shouqi">收起更多案例</div>
 				</div>
 				<div class="btn btn-jiazai">加载更多案例</div>
@@ -132,6 +153,24 @@
 
 
 
-	
+	<script>
+export default {
+  mounted() {
+    $(".anli-yin").hide();
+    $(".btn-shouqi").hide();
+    $(".btn-jiazai").click(function() {
+      $(".anli-yin").show();
+$(".btn-shouqi").show();
+      $(".btn-jiazai").hide();
+    });
+    $(".btn-shouqi").click(function() {
+      $(".anli-yin").hide();
+      $(".btn-shouqi").hide();
+      $(".btn-jiazai").show();
+    });
+  }
+}
+
+</script>
 
 			

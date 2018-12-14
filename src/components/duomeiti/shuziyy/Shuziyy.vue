@@ -25,7 +25,8 @@
 				<div class="cle"></div>
 			</div>
 			<p>声光电的完美融合，满足眼球经济的最佳体验</p>
-			<a href="shuziyingyuan/case/1.html"> 
+
+			<router-link to="/shuziyy/case/1.html">
 			<img src="../../../assets/images/duomeiti/shuziyingyuan/img1.jpg" class="anli-pic">
 			<div class="anli-sum">
 				<div class="anli-wenzi">
@@ -34,8 +35,11 @@
 				</div>
 				<img class="anli-arrow" src="../../../assets/images/duomeiti/shuziyingyuan/arrow.jpg">
 				<div class="cle"></div>
-			</div></a>
-			<a href="shuziyingyuan/case/2.html"> 
+			</div>
+			</router-link>
+
+
+			<router-link to="/shuziyy/case/2.html">
 			<img src="../../../assets/images/duomeiti/shuziyingyuan/img2.jpg" class="anli-pic">
 			<div class="anli-sum">
 				<div class="anli-wenzi">
@@ -44,8 +48,11 @@
 				</div>
 				<img class="anli-arrow" src="../../../assets/images/duomeiti/shuziyingyuan/arrow.jpg">
 				<div class="cle"></div>
-			</div></a>
-			<a href="shuziyingyuan/case/3.html"> 
+			</div>
+			</router-link>
+
+
+			<router-link to="/shuziyy/case/3.html">
 			<img src="../../../assets/images/duomeiti/shuziyingyuan/img3.jpg" class="anli-pic">
 			<div class="anli-sum">
 				<div class="anli-wenzi">
@@ -54,8 +61,11 @@
 				</div>
 				<img class="anli-arrow" src="../../../assets/images/duomeiti/shuziyingyuan/arrow.jpg">
 				<div class="cle"></div>
-			</div></a>
-			<a href="shuziyingyuan/case/4.html"> 
+			</div>
+			</router-link>
+
+
+			<router-link to="/shuziyy/case/4.html">
 			<img src="../../../assets/images/duomeiti/shuziyingyuan/img4.jpg" class="anli-pic">
 			<div class="anli-sum">
 				<div class="anli-wenzi">
@@ -64,8 +74,11 @@
 				</div>
 				<img class="anli-arrow" src="../../../assets/images/duomeiti/shuziyingyuan/arrow.jpg">
 				<div class="cle"></div>
-			</div></a>
-			<a href="shuziyingyuan/case/5.html"> 
+			</div>
+			</router-link>
+
+
+			<router-link to="/shuziyy/case/5.html">
 			<img src="../../../assets/images/duomeiti/shuziyingyuan/img5.jpg" class="anli-pic">
 			<div class="anli-sum">
 				<div class="anli-wenzi">
@@ -74,10 +87,11 @@
 				</div>
 				<img class="anli-arrow" src="../../../assets/images/duomeiti/shuziyingyuan/arrow.jpg">
 				<div class="cle"></div>
-			</div></a>
+			</div>
+			</router-link>
 			
 			
-			<a href="shuziyingyuan/case/6.html"> 
+			<router-link to="/shuziyy/case/6.html">
 			<img src="../../../assets/images/duomeiti/shuziyingyuan/img6.jpg" class="anli-pic">
 			<div class="anli-sum">
 				<div class="anli-wenzi">
@@ -86,11 +100,14 @@
 				</div>
 				<img class="anli-arrow" src="../../../assets/images/duomeiti/shuziyingyuan/arrow.jpg">
 				<div class="cle"></div>
-			</div></a>
+			</div>
+			</router-link>
+
+
 			
 			<div class="anli-yin">
 				
-				<a href="shuziyingyuan/case/7.html"> 
+				<router-link to="/shuziyy/case/7.html">
 				<img src="../../../assets/images/duomeiti/shuziyingyuan/img7.jpg" class="anli-pic">
 				<div class="anli-sum">
 					<div class="anli-wenzi">
@@ -99,9 +116,11 @@
 					</div>
 					<img class="anli-arrow" src="../../../assets/images/duomeiti/shuziyingyuan/arrow.jpg">
 					<div class="cle"></div>
-				</div></a>
+				</div>
+				</router-link>
+
 				
-				<a href="shuziyingyuan/case/8.html"> 
+				<router-link to="/shuziyy/case/8.html">
 				<img src="../../../assets/images/duomeiti/shuziyingyuan/img8.jpg" class="anli-pic">
 				<div class="anli-sum">
 					<div class="anli-wenzi">
@@ -110,9 +129,11 @@
 					</div>
 					<img class="anli-arrow" src="../../../assets/images/duomeiti/shuziyingyuan/arrow.jpg">
 					<div class="cle"></div>
-				</div></a>
+				</div>
+				</router-link>
+
 				
-					<a href="shuziyingyuan/case/10.html"> 
+					<router-link to="/shuziyy/case/9.html">
 				<img src="../../../assets/images/duomeiti/shuziyingyuan/guangfoxsj.jpg" class="anli-pic">
 				<div class="anli-sum">
 					<div class="anli-wenzi">
@@ -121,10 +142,13 @@
 					</div>
 					<img class="anli-arrow" src="../../../assets/images/duomeiti/shuziyingyuan/arrow.jpg">
 					<div class="cle"></div>
-				</div></a>
+				</div>
+				</router-link>
+
+
 				
 				
-					<a href="shuziyingyuan/case/11.html"> 
+					<router-link to="/shuziyy/case/10.html">
 				<img src="../../../assets/images/duomeiti/shuziyingyuan/11.jpg" class="anli-pic">
 				<div class="anli-sum">
 					<div class="anli-wenzi">
@@ -133,7 +157,8 @@
 					</div>
 					<img class="anli-arrow" src="../../../assets/images/duomeiti/shuziyingyuan/arrow.jpg">
 					<div class="cle"></div>
-				</div></a>
+				</div>
+				</router-link>
 				
 
 				<div class="btn btn-shouqi">收起更多案例</div>
@@ -143,3 +168,22 @@
 <site-map></site-map>
 </div>
        </template>
+<script>
+export default {
+  mounted() {
+    $(".anli-yin").hide();
+    $(".btn-shouqi").hide();
+    $(".btn-jiazai").click(function() {
+      $(".anli-yin").show();
+$(".btn-shouqi").show();
+      $(".btn-jiazai").hide();
+    });
+    $(".btn-shouqi").click(function() {
+      $(".anli-yin").hide();
+      $(".btn-shouqi").hide();
+      $(".btn-jiazai").show();
+    });
+  }
+}
+
+</script>

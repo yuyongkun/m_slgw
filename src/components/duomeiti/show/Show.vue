@@ -20,7 +20,9 @@
       <div class="cle"></div>
     </div>
     <p>将创意脑洞实现，为品牌制造声音</p>
-    <a href="daxingshow/case/0.html"> <img src="../../../assets/images/duomeiti/daxingshow/img0.jpg" class="anli-pic">
+
+    <router-link to="/show/case/1.html">
+      <img src="../../../assets/images/duomeiti/daxingshow/img0.jpg" class="anli-pic">
     <div class="anli-sum">
       <div class="anli-wenzi">
         <h1>科创嘉年华科幻剧场《明日之城》</h1>
@@ -29,8 +31,10 @@
       <img class="anli-arrow" src="../../../assets/images/duomeiti/daxingshow/arrow.jpg">
       <div class="cle"></div>
     </div>
-    </a>
-    <a href="daxingshow/case/01.html"> <img src="../../../assets/images/duomeiti/daxingshow/img01.jpg" class="anli-pic">
+    </router-link>
+
+    <router-link to="/show/case/2.html">
+      <img src="../../../assets/images/duomeiti/daxingshow/img01.jpg" class="anli-pic">
     <div class="anli-sum">
       <div class="anli-wenzi">
         <h1>力帆时骏新车发布会《雷霆神骏》</h1>
@@ -39,8 +43,10 @@
       <img class="anli-arrow" src="../../../assets/images/duomeiti/daxingshow/arrow.jpg">
       <div class="cle"></div>
     </div>
-    </a>
-    <a href="daxingshow/case/1.html"> <img src="../../../assets/images/duomeiti/daxingshow/img1.jpg" class="anli-pic">
+   </router-link>
+
+   <router-link to="/show/case/3.html">
+      <img src="../../../assets/images/duomeiti/daxingshow/img1.jpg" class="anli-pic">
     <div class="anli-sum">
       <div class="anli-wenzi">
         <h1>七夕无人机表演《星城热恋》</h1>
@@ -49,7 +55,10 @@
       <img class="anli-arrow" src="../../../assets/images/duomeiti/daxingshow/arrow.jpg">
       <div class="cle"></div>
     </div>
-    </a> <a href="daxingshow/case/2.html"> <img src="../../../assets/images/duomeiti/daxingshow/img2.jpg" class="anli-pic">
+    </router-link>
+
+     <router-link to="/show/case/4.html"> 
+      <img src="../../../assets/images/duomeiti/daxingshow/img2.jpg" class="anli-pic">
     <div class="anli-sum">
       <div class="anli-wenzi">
         <h1>太阳马戏《Kooza》全国巡演</h1>
@@ -58,7 +67,10 @@
       <img class="anli-arrow" src="../../../assets/images/duomeiti/daxingshow/arrow.jpg">
       <div class="cle"></div>
     </div>
-    </a> <a href="daxingshow/case/3.html"> <img src="../../../assets/images/duomeiti/daxingshow/img3.jpg" class="anli-pic">
+    </router-link>
+
+     <router-link to="/show/case/5.html">
+      <img src="../../../assets/images/duomeiti/daxingshow/img3.jpg" class="anli-pic">
     <div class="anli-sum">
       <div class="anli-wenzi">
         <h1>电建地产南京品牌发布会《悦动金陵》</h1>
@@ -67,7 +79,10 @@
       <img class="anli-arrow" src="../../../assets/images/duomeiti/daxingshow/arrow.jpg">
       <div class="cle"></div>
     </div>
-    </a> <a href="daxingshow/case/4.html"> <img src="../../../assets/images/duomeiti/daxingshow/img4.jpg" class="anli-pic">
+    </router-link>
+
+     <router-link to="/show/case/6.html">
+      <img src="../../../assets/images/duomeiti/daxingshow/img4.jpg" class="anli-pic">
     <div class="anli-sum">
       <div class="anli-wenzi">
         <h1>电建地产武汉品牌发布会《时空频率》</h1>
@@ -76,7 +91,10 @@
       <img class="anli-arrow" src="../../../assets/images/duomeiti/daxingshow/arrow.jpg">
       <div class="cle"></div>
     </div>
-    </a> <a href="daxingshow/case/5.html"> <img src="../../../assets/images/duomeiti/daxingshow/img5.jpg" class="anli-pic">
+    </router-link>
+
+     <router-link to="/show/case/7.html">
+      <img src="../../../assets/images/duomeiti/daxingshow/img5.jpg" class="anli-pic">
     <div class="anli-sum">
       <div class="anli-wenzi">
         <h1>水井坊钓鱼台酒店线下品鉴会</h1>
@@ -85,8 +103,11 @@
       <img class="anli-arrow" src="../../../assets/images/duomeiti/daxingshow/arrow.jpg">
       <div class="cle"></div>
     </div>
-    </a>
-    <div class="anli-yin"> <a href="daxingshow/case/6.html"> <img src="../../../assets/images/duomeiti/daxingshow/img6.jpg" class="anli-pic">
+    </router-link>
+
+    <div class="anli-yin"> 
+      <router-link to="/show/case/8.html">
+        <img src="../../../assets/images/duomeiti/daxingshow/img6.jpg" class="anli-pic">
       <div class="anli-sum">
         <div class="anli-wenzi">
           <h1>保利度假山海关发布会3D Mapping</h1>
@@ -95,7 +116,10 @@
         <img class="anli-arrow" src="../../../assets/images/duomeiti/daxingshow/arrow.jpg">
         <div class="cle"></div>
       </div>
-      </a> <a href="daxingshow/case/7.html"> <img src="../../../assets/images/duomeiti/daxingshow/img7.jpg" class="anli-pic">
+      </router-link>
+
+      <router-link to="/show/case/9.html">
+       <img src="../../../assets/images/duomeiti/daxingshow/img7.jpg" class="anli-pic">
       <div class="anli-sum">
         <div class="anli-wenzi">
           <h1>大宁金茂府品牌发布会《寻觅传奇》</h1>
@@ -104,7 +128,10 @@
         <img class="anli-arrow" src="../../../assets/images/duomeiti/daxingshow/arrow.jpg">
         <div class="cle"></div>
       </div>
-      </a> <a href="daxingshow/case/8.html"> <img src="../../../assets/images/duomeiti/daxingshow/img8.jpg" class="anli-pic">
+      </router-link>
+
+      <router-link to="/show/case/10.html">
+       <img src="../../../assets/images/duomeiti/daxingshow/img8.jpg" class="anli-pic">
       <div class="anli-sum">
         <div class="anli-wenzi">
           <h1>复华未来地产发布会</h1>
@@ -113,7 +140,10 @@
         <img class="anli-arrow" src="../../../assets/images/duomeiti/daxingshow/arrow.jpg">
         <div class="cle"></div>
       </div>
-      </a> <a href="daxingshow/case/9.html"> <img src="../../../assets/images/duomeiti/daxingshow/img9.jpg" class="anli-pic">
+      </router-link>
+
+       <router-link to="/show/case/11.html">
+       <img src="../../../assets/images/duomeiti/daxingshow/img9.jpg" class="anli-pic">
       <div class="anli-sum">
         <div class="anli-wenzi">
           <h1>碧桂园武汉品牌发布会</h1>
@@ -122,7 +152,9 @@
         <img class="anli-arrow" src="../../../assets/images/duomeiti/daxingshow/arrow.jpg">
         <div class="cle"></div>
       </div>
-      </a>
+      </router-link>
+
+
       <div class="btn btn-shouqi">收起更多案例</div>
     </div>
     <div class="btn btn-jiazai">加载更多案例</div>
@@ -130,3 +162,22 @@
   <site-map></site-map>
 </div>
        </template>
+       <script>
+export default {
+  mounted() {
+    $(".anli-yin").hide();
+    $(".btn-shouqi").hide();
+    $(".btn-jiazai").click(function() {
+      $(".anli-yin").show();
+$(".btn-shouqi").show();
+      $(".btn-jiazai").hide();
+    });
+    $(".btn-shouqi").click(function() {
+      $(".anli-yin").hide();
+      $(".btn-shouqi").hide();
+      $(".btn-jiazai").show();
+    });
+  }
+}
+
+</script>

@@ -36,9 +36,33 @@ export default [{
     component: Show
   },
   {
-    path: '/chengshixx/case/:id', //案例详情
+    path: '/chengshixx/case/:id', //城市形象案例详情
     name: 'Detail',
-    meta: { title: "案例详情" },
+    meta: { title: "城市形象案例详情" },
+    component: Detail,
+  },
+  {
+    path: '/huddmt/case/:id', //互动多媒体案例详情
+    name: 'Detail',
+    meta: { title: "互动多媒体案例详情" },
+    component: Detail,
+  },
+   {
+    path: '/yingshihd/case/:id', //影视动画案例详情
+    name: 'Detail',
+    meta: { title: "影视动画案例详情" },
+    component: Detail,
+  },
+  {
+    path: '/shuziyy/case/:id', //数字影院案例详情
+    name: 'Detail',
+    meta: { title: "数字影院案例详情" },
+    component: Detail,
+  },
+   {
+    path: '/show/case/:id', //大型Show策划案例详情
+    name: 'Detail',
+    meta: { title: "大型Show策划案例详情" },
     component: Detail,
   },
 ]
