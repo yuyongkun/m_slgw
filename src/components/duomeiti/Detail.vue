@@ -8,7 +8,7 @@
       <img class="video-play" id="video-play" src="../../assets/images/bofang.png">
     </div>
     <div class="sec jianjie">
-      <h1>技术应用</h1>
+      <h1>客户</h1>
       <p>{{techapplication}}</p>
       <h1>应用场景</h1>
       <p>{{applicacenario}}</p>
