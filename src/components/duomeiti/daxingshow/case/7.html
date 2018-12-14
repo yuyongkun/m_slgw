@@ -1,0 +1,76 @@
+<template>
+
+		<!--主体-->
+		<div class="container">
+
+<!--头图-->
+ 
+<div class="banner" style="position: relative;background: #000;">
+	<img src="7/banner.jpg" style="width: 100%;position: relative;opacity: 0.56;">
+    <div class="video-wrap">
+		<div class="mask"></div>
+		<!-- <video autoplay="" controls webkit-playsinline="" playsinline="true" src="1/video.mp4"></video> -->
+
+		<video id="my-video" class="video-js" controls preload="auto" width="640" height="264"
+	  		poster="MY_VIDEO_POSTER.jpg" data-setup="{}">
+		    <source src="7/video.mp4" type='video/mp4'>
+		    <source src="7/video.webm" type='video/webm'>
+		    <p class="vjs-no-js">
+		      To view this video please enable JavaScript, and consider upgrading to a web browser that
+		      <a href="https://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a>
+		    </p>
+	  	</video>
+	</div>
+	<div style="font-size: 8vw;font-weight: 600;text-align: center;position: absolute;top: 24vw;color: #fff;width: 100%;">大宁金茂府品牌发布会</br>《寻觅传奇》</div>
+     <img class="video-play" src="../../../../images/bofang.png" style="position: relative;display: block;position: absolute;top: 50vw;width: 14%;left: 50%;margin-left: -7%;">
+     </div>
+     <script src="https://vjs.zencdn.net/7.3.0/video.js"></script>
+<script>
+	// 实例化video插件
+	var player = videojs('my-video',{
+	     muted: false,
+	    controls : true/false,      
+	    // height:300, 
+	    // width:300,
+	    loop : true,
+	});
+	//显示视频弹框
+	$('.video-play').click(function(){
+		$('.video-wrap').show();
+		player.play();
+	});
+	//关闭视频弹框
+	$('.video-wrap .mask')[0].addEventListener('click',function(){
+		$('.video-wrap').hide();
+		player.pause();
+	});
+</script>
+
+<!--项目简介-->
+ 
+<div class="sec jianjie">
+	<h1>客户</h1>
+	<p>方兴地产（中国）有限公司</p>
+	<h1>应用场景</h1>
+	<p>发布会、年会</p>
+	<h1>作品属性</h1>
+	<p>舞台表演/发布会/数字舞台</p>
+	<h1>项目说明</h1>
+	<p>一场声光电的极致震撼舞台show，通过沉浸式的舞台画面设计与现代芭蕾的完美结合，将科技与经典交汇成传奇，正如大宁金茂府的品质，让观者在美的陶醉与科技的震撼之时，看到金茂品牌的成长价值。</p>
+</div>
+
+<!--配图-->
+<h1 style="margin-left: 10%;">成果展现</h1> 
+<div class="sec peitu">
+	<img src="7/img1.jpg">
+	<img src="7/img2.jpg">
+	<img src="7/img3.jpg">
+	<img src="7/img4.jpg">
+	<img src="7/img5.jpg">
+	<img src="7/img6.jpg">
+	<img src="7/img7.jpg">
+	<img src="7/img8.jpg">
+</div>
+</div>
+<site-map></site-map>
+       </template>

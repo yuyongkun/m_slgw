@@ -24,8 +24,7 @@
       <p>盛大召开，强势助力第十四届文博会</p>
     </div>
     <img src="../../assets/images/about/dashib/sijie1.jpg" style="width: 100%;margin-top: 4%;"> <img src="../../assets/images/about/dashib/sijie2.jpg" style="width: 100%;margin-top: 6%;">
-    <div style="background: url(dashib/dsbbj.jpg) top no-repeat; margin: 0 auto; background-size: 100%; height: 186vw;padding-top: 24%;">
-   
+    <div class="sijie-list" :style="sijiebgimg">
       <div class="sijie-3">
         <img id="video-play-1" class="video-play" src="../../assets/images/about/dashib/video1.jpg">
         <p style="padding-top: 4%;padding-bottom: 4%; padding-left: 4%;">最佳商业短片《深圳湾1号莱佛士公寓》</p>
@@ -44,8 +43,14 @@
   </div>
 </template>
 <script>
+let Sijiebgimg = require("../../assets/images/about/dashib/dsbbj.jpg")
 export default {
   name: "Index",
+  data() {
+    return {
+      sijiebgimg: `background-image:url(${Sijiebgimg})`
+    }
+  },
   mounted() {
     $('#video-play-1').videoOpt({
       videoPath: require('../../assets/media/dashib/video1.mp4')
@@ -60,8 +65,18 @@ export default {
 }
 
 </script>
- <style>
-    .sijie-3{
-      margin-top: 6%; width: 88%; margin: 0 auto;
-    }
-    </style>
+<style scoped>
+.sijie-3 {
+  margin-top: 6%;
+  width: 88%;
+  margin: 0 auto;
+}
+
+.sijie-list {
+  margin: 0 auto;
+  background-size: 100%;
+  height: 186vw;
+  padding-top: 24%;
+}
+
+</style>

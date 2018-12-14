@@ -83,6 +83,7 @@ nav:not(.mm-menu) {
 
 
 
+
 /*重置*/
 
 
@@ -103,6 +104,7 @@ nav:not(.mm-menu) {
 
 
 
+
 /*公用*/
 
 
@@ -118,6 +120,7 @@ nav:not(.mm-menu) {
 
 
 
+
 /*底部备案*/
 
 
@@ -128,6 +131,7 @@ nav:not(.mm-menu) {
   height: 16px;
   margin-top: 40px;
 }
+
 
 
 
@@ -152,6 +156,7 @@ nav:not(.mm-menu) {
   white-space: -moz-pre-wrap;
   word-wrap: break-word
 }
+
 
 
 
@@ -228,6 +233,10 @@ nav:not(.mm-menu) {
 }
 
 
+.container {
+  padding-top: 48px;
+}
+
 
 /*首页*/
 
@@ -239,7 +248,7 @@ nav:not(.mm-menu) {
   background: #fff;
   border-radius: 2vw;
   border-bottom: 2vw solid #d90000;
-  margin-top: 20px;
+  margin-top: 4vw;
 }
 
 .guanyu h1 {
@@ -258,6 +267,7 @@ nav:not(.mm-menu) {
   text-align: justify;
   padding: 0 6%;
 }
+
 
 
 
@@ -340,6 +350,7 @@ nav:not(.mm-menu) {
 
 
 
+
 /*云渲染 实力*/
 
 .shili {
@@ -366,6 +377,7 @@ nav:not(.mm-menu) {
 
 
 
+
 /*云渲染 团队*/
 
 .tuandui {
@@ -389,6 +401,7 @@ nav:not(.mm-menu) {
   text-align: justify;
   padding: 0 6%;
 }
+
 
 
 
@@ -526,6 +539,7 @@ nav:not(.mm-menu) {
 
 
 
+
 /*五大课程*/
 
 .xinzi {
@@ -565,6 +579,7 @@ nav:not(.mm-menu) {
   padding: 0;
   font-size: 3.5vw;
 }
+
 
 
 
@@ -642,6 +657,7 @@ nav:not(.mm-menu) {
 
 
 
+
 /*公司简介*/
 
 .wz {
@@ -704,6 +720,7 @@ nav:not(.mm-menu) {
 
 
 
+
 /*详情页*/
 
 .jianjie {
@@ -750,9 +767,10 @@ nav:not(.mm-menu) {
 
 
 
+
 /*视频插件*/
 
-.video-wrap {
+/*.video-wrap {
   display: none;
   width: 100%;
   position: absolute;
@@ -767,7 +785,7 @@ nav:not(.mm-menu) {
 
 .video-js {
   width: 100%;
-  margin-top: 100px;
+  margin-top: 25vh;
   background-color: transparent;
 }
 
@@ -790,4 +808,4 @@ nav:not(.mm-menu) {
   width: auto;
   max-width: 100%;
   height: auto;
-}
+}*/

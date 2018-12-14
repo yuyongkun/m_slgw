@@ -22,7 +22,6 @@ module.exports = {
   context: path.resolve(__dirname, '../'),
   entry: {
     app: './src/main.js',
-    vendor:['jquery']
   },
   externals: {
     'vue': 'Vue',
@@ -61,7 +60,7 @@ module.exports = {
         test: /\.(png|jpe?g|gif|svg)(\?.*)?$/,
         loader: 'url-loader',
         options: {
-          limit: 10000,
+          limit: 3000,
           name: utils.assetsPath('img/[name].[hash:7].[ext]')
         }
       },

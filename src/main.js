@@ -9,6 +9,7 @@ import './assets/css/style.css'
 import 'video.js/dist/video-js.css'
 import videojs from 'video.js'
 import './assets/js/video-global.js'
+import './assets/less/video_reset.less'
 
 Vue.config.productionTip = false
 window.videojs=videojs;
