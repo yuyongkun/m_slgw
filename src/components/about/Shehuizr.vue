@@ -16,8 +16,8 @@
       </p>
     </div>
     <!--section3-->
-    <div class="sec guanyu" style="padding:0;border-bottom: none;">
-      <p style="display: block;text-align:center;font-size:4vw; padding-top:4%;background-image:url(shehuizr/wzbg.jpg);background-repeat: no-repeat ;background-size:100% 100%;"> 有这样一群孩子
+    <div class="sec guanyu guanyu3" :style="bkg">
+      <p> 有这样一群孩子
         <br> 他们可能衣不蔽体，食不果腹，失学辍学...
         <br>
         <br> 有这样一群老师
@@ -58,6 +58,33 @@
         <p style="display:block;margin-top:10px;font-size:4vw;padding-left: 3%;">丝路代表走访沅陵一中</p>
       </div>
     </div>
-  <site-map></site-map>
+    <site-map></site-map>
   </div>
 </template>
+<script>
+export default {
+  data() {
+    return {
+      bkg: `background-image:url(${require('../../assets/images/about/shehuizr/wzbg.jpg')})`
+    }
+  },
+
+}
+</script>
+<style scoped>
+.guanyu3 {
+  padding: 0;
+  border-bottom: none;
+  background-repeat: no-repeat;
+  background-position: center top;
+  background-size: contain;
+}
+
+.guanyu3 p {
+  display: block;
+  text-align: center;
+  font-size: 4vw;
+  padding-top: 4%;
+}
+
+</style>

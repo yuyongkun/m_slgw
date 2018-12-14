@@ -43,12 +43,11 @@
   </div>
 </template>
 <script>
-let Sijiebgimg = require("../../assets/images/about/dashib/dsbbj.jpg")
 export default {
   name: "Index",
   data() {
     return {
-      sijiebgimg: `background-image:url(${Sijiebgimg})`
+      sijiebgimg: `background-image:url(${require("../../assets/images/about/dashib/dsbbj.jpg")})`
     }
   },
   mounted() {
