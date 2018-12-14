@@ -60,7 +60,7 @@
           <div class="cle"></div>
         </div>
       </router-link>
-      <router-linrouter-link to="chengshixx/case/5.html">
+      <router-link to="chengshixx/case/5.html">
         <img src="../../../assets/images/duomeiti/chengshixx/img5.jpg" class="anli-pic">
         <div class="anli-sum">
           <div class="anli-wenzi">
