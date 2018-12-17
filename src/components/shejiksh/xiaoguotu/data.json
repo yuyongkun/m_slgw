@@ -19,7 +19,7 @@
     "id": "2",
     "cover": "images/chuangxin/xshiyanshi/case/2/banner.jpg",
     "coverTitle": "手势感应<br>LEAP MOTION系统",
-    "videopath": "images/chuangxin/xshiyanshi/case/2/video.mp4",
+    "videopath": "images/chuangxin/xshiyanshi/case/1/video.mp4",
     "techapplication": "深圳第十四届文博会",
     "applicacenario": "会展、创意活动",
     "workproperty": "手势感应",
@@ -33,7 +33,7 @@
     "id": "3",
     "cover": "images/chuangxin/xshiyanshi/case/3/banner.jpg",
     "coverTitle": "隔空交互墙",
-    "videopath": "images/chuangxin/xshiyanshi/case/3/video.mp4",
+    "videopath": "images/chuangxin/xshiyanshi/case/1/video.mp4",
     "techapplication": "客户名称暂未公开",
     "applicacenario": "会展、创意活动",
     "workproperty": "交互屏",
@@ -51,7 +51,7 @@
     "id": "4",
     "cover": "images/chuangxin/xshiyanshi/case/4/banner.jpg",
     "coverTitle": "滚筒画",
-    "videopath": "images/chuangxin/xshiyanshi/case/4/video.mp4",
+    "videopath": "images/chuangxin/xshiyanshi/case/1/video.mp4",
     "techapplication": "客户名称暂未公开",
     "applicacenario": "教育、艺术展览",
     "workproperty": "教育互动绘画",
@@ -69,79 +69,7 @@
     "id": "5",
     "cover": "images/chuangxin/xshiyanshi/case/4/banner.jpg",
     "coverTitle": "滚筒画",
-    "videopath": "images/chuangxin/xshiyanshi/case/4/video.mp4",
-    "techapplication": "客户名称暂未公开",
-    "applicacenario": "教育、艺术展览",
-    "workproperty": "教育互动绘画",
-    "projectdesc": "灵活运用了图像捕捉技术完成了这样一个小创新。通过手持粉刷滚轮涂出画幅局部，当涂画面积达到70%以上时，就会显示完整画幅和信息。这是一个可以广泛应用于儿童教育，文艺机构，美术展览等领域的互动展项。通过互动交互设计，可以拉近观众和高高在上的绘画艺术品的距离，寓教于乐，在娱乐中提高美学修养，增长美术知识。",
-    "achievements": [
-      "images/chuangxin/xshiyanshi/case/4/pic1.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic2.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic3.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic4.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic5.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic6.jpg"
-    ]
-  },
-    {
-    "id": "6",
-    "cover": "images/chuangxin/xshiyanshi/case/4/banner.jpg",
-    "coverTitle": "滚筒画",
-    "videopath": "images/chuangxin/xshiyanshi/case/4/video.mp4",
-    "techapplication": "客户名称暂未公开",
-    "applicacenario": "教育、艺术展览",
-    "workproperty": "教育互动绘画",
-    "projectdesc": "灵活运用了图像捕捉技术完成了这样一个小创新。通过手持粉刷滚轮涂出画幅局部，当涂画面积达到70%以上时，就会显示完整画幅和信息。这是一个可以广泛应用于儿童教育，文艺机构，美术展览等领域的互动展项。通过互动交互设计，可以拉近观众和高高在上的绘画艺术品的距离，寓教于乐，在娱乐中提高美学修养，增长美术知识。",
-    "achievements": [
-      "images/chuangxin/xshiyanshi/case/4/pic1.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic2.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic3.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic4.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic5.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic6.jpg"
-    ]
-  },
-    {
-    "id": "7",
-    "cover": "images/chuangxin/xshiyanshi/case/4/banner.jpg",
-    "coverTitle": "滚筒画",
-    "videopath": "images/chuangxin/xshiyanshi/case/4/video.mp4",
-    "techapplication": "客户名称暂未公开",
-    "applicacenario": "教育、艺术展览",
-    "workproperty": "教育互动绘画",
-    "projectdesc": "灵活运用了图像捕捉技术完成了这样一个小创新。通过手持粉刷滚轮涂出画幅局部，当涂画面积达到70%以上时，就会显示完整画幅和信息。这是一个可以广泛应用于儿童教育，文艺机构，美术展览等领域的互动展项。通过互动交互设计，可以拉近观众和高高在上的绘画艺术品的距离，寓教于乐，在娱乐中提高美学修养，增长美术知识。",
-    "achievements": [
-      "images/chuangxin/xshiyanshi/case/4/pic1.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic2.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic3.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic4.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic5.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic6.jpg"
-    ]
-  },
-    {
-    "id": "8",
-    "cover": "images/chuangxin/xshiyanshi/case/4/banner.jpg",
-    "coverTitle": "滚筒画",
-    "videopath": "images/chuangxin/xshiyanshi/case/4/video.mp4",
-    "techapplication": "客户名称暂未公开",
-    "applicacenario": "教育、艺术展览",
-    "workproperty": "教育互动绘画",
-    "projectdesc": "灵活运用了图像捕捉技术完成了这样一个小创新。通过手持粉刷滚轮涂出画幅局部，当涂画面积达到70%以上时，就会显示完整画幅和信息。这是一个可以广泛应用于儿童教育，文艺机构，美术展览等领域的互动展项。通过互动交互设计，可以拉近观众和高高在上的绘画艺术品的距离，寓教于乐，在娱乐中提高美学修养，增长美术知识。",
-    "achievements": [
-      "images/chuangxin/xshiyanshi/case/4/pic1.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic2.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic3.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic4.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic5.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic6.jpg"
-    ]
-  },
-    {
-    "id": "9",
-    "cover": "images/chuangxin/xshiyanshi/case/4/banner.jpg",
-    "coverTitle": "滚筒画",
-    "videopath": "images/chuangxin/xshiyanshi/case/4/video.mp4",
+    "videopath": "images/chuangxin/xshiyanshi/case/1/video.mp4",
     "techapplication": "客户名称暂未公开",
     "applicacenario": "教育、艺术展览",
     "workproperty": "教育互动绘画",
@@ -155,8 +83,6 @@
       "images/chuangxin/xshiyanshi/case/4/pic6.jpg"
     ]
   }
-
-
 
 ]
 

@@ -7,6 +7,8 @@ import About from './about.js'
 import Chuangxin from './chuangxin.js'
 import Duomeiti from './duomeiti.js'
 import Shejiksh from './shejiksh.js'
+import Shuzizg from './shuzizg.js'
+import Silujiaoyu from './silujiaoyu.js'
 
 import Contact from '@/components/contact/Contact'
 
@@ -23,6 +25,8 @@ const router = new Router({
     ...Chuangxin,
     ...Duomeiti,
     ...Shejiksh,
+    ...Shuzizg,
+    ...Silujiaoyu,
     {
       path: '/contact/contact.html', //联系我们
       name: 'Contact',
