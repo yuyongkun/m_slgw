@@ -16,10 +16,12 @@
       <p>{{workproperty}}</p>
       <h1>项目说明</h1>
       <p>{{projectdesc}}</p>
+      <h1>成果展现</h1>
+      <p>{{show}}</p>
     </div>
     <!-- 成果展示 -->
     <div class="sec peitu">
-      <h1>成果展现</h1>
+     <!--  <h1>成果展现</h1> -->
       <img v-for="achiev in achievements" :src="achiev">
     </div>
   </div>
@@ -35,6 +37,7 @@ export default {
       applicacenario: '',
       workproperty: '',
       projectdesc: '',
+      show: '',
       achievements: [],
     }
   },
@@ -51,6 +54,7 @@ export default {
         this.applicacenario = item.applicacenario;
         this.workproperty = item.workproperty;
         this.projectdesc = item.projectdesc;
+        this.show = item.show;
         achievements = item.achievements;
       }
     });
