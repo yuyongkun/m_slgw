@@ -1,181 +1,181 @@
 ﻿{
   "datalist": [
-  {
-    "id": "1",
-    "cover": "images/chuangxin/xshiyanshi/case/1/banner.jpg",
-    "coverTitle": "电磁感应互动触摸墙",
-    "videopath": "images/chuangxin/xshiyanshi/case/1/video.mp4",
-    "techapplication": "深圳国际双创周",
-    "applicacenario": "会展、创意活动",
-    "workproperty": "多媒体方案动画",
-    "projectdesc": "深圳作为全国双创周主会场之一，再掀“创客风暴”。今年智能硬件类产品展示明显增多，不仅有穿戴类的VR设备、智能手表，更有智能汽车、智能制作设备。丝路X实验室、丝路舞美、丝路数字视觉营销（ 展览展示）团队团结协作，创新打造的电磁感应互动绘画墙， 全息微缩舞台数字成像， 激光电视数字内容等组成的新媒体数字视觉互动长廊， 传递知识和理念，增强了互动，成为一道受到市民喜爱的现代化社交城市景观，也为观众打开一道想象力的大门。 ",
-    "achievements": [
-      "images/chuangxin/xshiyanshi/case/1/pic1.jpg",
-      "images/chuangxin/xshiyanshi/case/1/pic2.jpg",
-      "images/chuangxin/xshiyanshi/case/1/pic3.jpg"
-    ]
-  },
-  {
-    "id": "2",
-    "cover": "images/chuangxin/xshiyanshi/case/2/banner.jpg",
-    "coverTitle": "手势感应<br>LEAP MOTION系统",
-    "videopath": "images/chuangxin/xshiyanshi/case/2/video.mp4",
-    "techapplication": "深圳第十四届文博会",
-    "applicacenario": "会展、创意活动",
-    "workproperty": "手势感应",
-    "projectdesc": "此互动手势装置在文博会开幕第一天吸引众多媒体相继采访，此互动装置通过双眼红外摄像头图像识别计算系统，以超过每秒200帧的速度追踪手部动作，似的画面与手部动作完美同步。现场体验者以手部的互动方式：展开、握拳反掌、上下左右移动，来体验正前方屏幕中的内容切换。通过前方屏幕中场景科技元素，让体验者如穿梭在浩瀚的数字星河，感受手中“掌控”的数字体验。了解福田区文化创意行业息息相关的多面性。",
-    "achievements": [
-      "images/chuangxin/xshiyanshi/case/2/pic1.jpg",
-      "images/chuangxin/xshiyanshi/case/2/pic2.jpg"
-    ]
-  },
-  {
-    "id": "3",
-    "cover": "images/chuangxin/xshiyanshi/case/3/banner.jpg",
-    "coverTitle": "隔空交互墙",
-    "videopath": "images/chuangxin/xshiyanshi/case/3/video.mp4",
-    "techapplication": "客户名称暂未公开",
-    "applicacenario": "会展、创意活动",
-    "workproperty": "交互屏",
-    "projectdesc": "交互屏是一种很常见的信息交互手段，为人们所熟知。在这里，我们尝试把体验的距离拉远，这样，全局视角会给人更加不同的感受。这是我们开发这个案例的初衷。在测试中，我们发现，如果空间满足的话，距离屏幕的距离可以更远。这样，隔空操作的神奇感受会更加强烈。同时，需要在地面上做出指示和指引，方便降低学习成本。",
-    "achievements": [
-      "images/chuangxin/xshiyanshi/case/3/pic1.jpg",
-      "images/chuangxin/xshiyanshi/case/3/pic2.jpg",
-      "images/chuangxin/xshiyanshi/case/3/pic3.jpg",
-      "images/chuangxin/xshiyanshi/case/3/pic4.jpg",
-      "images/chuangxin/xshiyanshi/case/3/pic5.jpg",
-      "images/chuangxin/xshiyanshi/case/3/pic6.jpg"
-    ]
-  },
-  {
-    "id": "4",
-    "cover": "images/chuangxin/xshiyanshi/case/4/banner.jpg",
-    "coverTitle": "滚筒画",
-    "videopath": "images/chuangxin/xshiyanshi/case/4/video.mp4",
-    "techapplication": "客户名称暂未公开",
-    "applicacenario": "教育、艺术展览",
-    "workproperty": "教育互动绘画",
-    "projectdesc": "灵活运用了图像捕捉技术完成了这样一个小创新。通过手持粉刷滚轮涂出画幅局部，当涂画面积达到70%以上时，就会显示完整画幅和信息。这是一个可以广泛应用于儿童教育，文艺机构，美术展览等领域的互动展项。通过互动交互设计，可以拉近观众和高高在上的绘画艺术品的距离，寓教于乐，在娱乐中提高美学修养，增长美术知识。",
-    "achievements": [
-      "images/chuangxin/xshiyanshi/case/4/pic1.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic2.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic3.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic4.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic5.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic6.jpg"
-    ]
-  },
     {
-    "id": "5",
-    "cover": "images/chuangxin/xshiyanshi/case/4/banner.jpg",
-    "coverTitle": "滚筒画",
-    "videopath": "images/chuangxin/xshiyanshi/case/4/video.mp4",
-    "techapplication": "客户名称暂未公开",
-    "applicacenario": "教育、艺术展览",
-    "workproperty": "教育互动绘画",
-    "projectdesc": "灵活运用了图像捕捉技术完成了这样一个小创新。通过手持粉刷滚轮涂出画幅局部，当涂画面积达到70%以上时，就会显示完整画幅和信息。这是一个可以广泛应用于儿童教育，文艺机构，美术展览等领域的互动展项。通过互动交互设计，可以拉近观众和高高在上的绘画艺术品的距离，寓教于乐，在娱乐中提高美学修养，增长美术知识。",
-    "achievements": [
-      "images/chuangxin/xshiyanshi/case/4/pic1.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic2.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic3.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic4.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic5.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic6.jpg"
-    ]
-  },
+      "id": "1",
+      "cover": "images/duomeiti/shuziyingyuan/case/1/banner.jpg",
+      "coverTitle": "首开华润城U-Space影院",
+      "videopath": "images/duomeiti/shuziyingyuan/case/1/video.mp4",
+      "techapplication": "华润置地（深圳）有限公司",
+      "applicacenario": "城市空间、商业广场",
+      "workproperty": "沉浸感、视觉冲击、震撼",
+      "projectdesc": "通过光线的串引，展现总部基地核心区的繁华，以及独一无二的高端地理位置，逐步开启城市中央尖峰住宅体验。以狮子的奔跑身影带动观众浏览城市的繁荣风光，呈现只此一处的上佳城居生活品质。",
+      "achievements": [
+        "images/duomeiti/shuziyingyuan/case/1/pic1.jpg",
+        "images/duomeiti/shuziyingyuan/case/1/pic2.jpg",
+        "images/duomeiti/shuziyingyuan/case/1/pic4.jpg",
+        "images/duomeiti/shuziyingyuan/case/1/pic5.jpg",
+        "images/duomeiti/shuziyingyuan/case/1/pic6.jpg"
+      ]
+    },
     {
-    "id": "6",
-    "cover": "images/chuangxin/xshiyanshi/case/4/banner.jpg",
-    "coverTitle": "滚筒画",
-    "videopath": "images/chuangxin/xshiyanshi/case/4/video.mp4",
-    "techapplication": "客户名称暂未公开",
-    "applicacenario": "教育、艺术展览",
-    "workproperty": "教育互动绘画",
-    "projectdesc": "灵活运用了图像捕捉技术完成了这样一个小创新。通过手持粉刷滚轮涂出画幅局部，当涂画面积达到70%以上时，就会显示完整画幅和信息。这是一个可以广泛应用于儿童教育，文艺机构，美术展览等领域的互动展项。通过互动交互设计，可以拉近观众和高高在上的绘画艺术品的距离，寓教于乐，在娱乐中提高美学修养，增长美术知识。",
-    "achievements": [
-      "images/chuangxin/xshiyanshi/case/4/pic1.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic2.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic3.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic4.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic5.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic6.jpg"
-    ]
-  },
+      "id": "2",
+      "cover": "images/duomeiti/shuziyingyuan/case/2/banner.jpg",
+      "coverTitle": "华润城-360°球幕影院",
+      "videopath": "images/duomeiti/shuziyingyuan/case/2/video.mp4",
+      "techapplication": "华润置地（深圳）有限公司",
+      "applicacenario": "城市空间、公共广场",
+      "workproperty": "全包围、近距离沉浸式、穿越感",
+      "projectdesc": "当华润与深圳在城市中央相遇，是人文的能量滋养与丰润珍稀的都市生活的相互融合。全包围式的球幕设计给人裸眼3D的漫游体验，不停创意转换的视觉画面给人惊喜的视觉冲击，并创造出精彩纷呈的城市生活体验。",
+      "achievements": [
+        "images/duomeiti/shuziyingyuan/case/2/pic1.jpg",
+        "images/duomeiti/shuziyingyuan/case/2/pic2.jpg",
+        "images/duomeiti/shuziyingyuan/case/2/pic3.jpg",
+        "images/duomeiti/shuziyingyuan/case/2/pic4.jpg",
+        "images/duomeiti/shuziyingyuan/case/2/pic5.jpg",
+        "images/duomeiti/shuziyingyuan/case/2/pic6.jpg"
+      ]
+    },
     {
-    "id": "7",
-    "cover": "images/chuangxin/xshiyanshi/case/4/banner.jpg",
-    "coverTitle": "滚筒画",
-    "videopath": "images/chuangxin/xshiyanshi/case/4/video.mp4",
-    "techapplication": "客户名称暂未公开",
-    "applicacenario": "教育、艺术展览",
-    "workproperty": "教育互动绘画",
-    "projectdesc": "灵活运用了图像捕捉技术完成了这样一个小创新。通过手持粉刷滚轮涂出画幅局部，当涂画面积达到70%以上时，就会显示完整画幅和信息。这是一个可以广泛应用于儿童教育，文艺机构，美术展览等领域的互动展项。通过互动交互设计，可以拉近观众和高高在上的绘画艺术品的距离，寓教于乐，在娱乐中提高美学修养，增长美术知识。",
-    "achievements": [
-      "images/chuangxin/xshiyanshi/case/4/pic1.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic2.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic3.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic4.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic5.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic6.jpg"
-    ]
-  },
+      "id": "3",
+      "cover": "images/duomeiti/shuziyingyuan/case/3/banner.jpg",
+      "coverTitle": "前海时代<br>三折幕与下沉式地幕影院",
+      "videopath": "images/duomeiti/shuziyingyuan/case/3/video.mp4",
+      "techapplication": "深圳市地铁集团有限公司",
+      "applicacenario": "城市空间、公共广场",
+      "workproperty": "城市漫游、俯视感、折幕",
+      "projectdesc": "前海自贸区在开发之际的首发项目，是在深圳问世的第一个拥有“前海开发概念”的商业综合体。以三折幕+下沉式地幕结合打造裸眼3D的视觉效果，并利用下沉式地幕制造临场沉浸感，精致震撼三维画面将前海的垂直开发、高效便捷TOD城市模式展现尽致。",
+      "achievements": [
+        "images/duomeiti/shuziyingyuan/case/3/pic1.jpg",
+        "images/duomeiti/shuziyingyuan/case/3/pic2.jpg",
+        "images/duomeiti/shuziyingyuan/case/3/pic3.jpg",
+        "images/duomeiti/shuziyingyuan/case/3/pic4.jpg",
+        "images/duomeiti/shuziyingyuan/case/3/pic5.jpg",
+        "images/duomeiti/shuziyingyuan/case/3/pic6.jpg"
+      ]
+    },
     {
-    "id": "8",
-    "cover": "images/chuangxin/xshiyanshi/case/4/banner.jpg",
-    "coverTitle": "滚筒画",
-    "videopath": "images/chuangxin/xshiyanshi/case/4/video.mp4",
-    "techapplication": "客户名称暂未公开",
-    "applicacenario": "教育、艺术展览",
-    "workproperty": "教育互动绘画",
-    "projectdesc": "灵活运用了图像捕捉技术完成了这样一个小创新。通过手持粉刷滚轮涂出画幅局部，当涂画面积达到70%以上时，就会显示完整画幅和信息。这是一个可以广泛应用于儿童教育，文艺机构，美术展览等领域的互动展项。通过互动交互设计，可以拉近观众和高高在上的绘画艺术品的距离，寓教于乐，在娱乐中提高美学修养，增长美术知识。",
-    "achievements": [
-      "images/chuangxin/xshiyanshi/case/4/pic1.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic2.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic3.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic4.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic5.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic6.jpg"
-    ]
-  },
+      "id": "4",
+      "cover": "images/duomeiti/shuziyingyuan/case/4/banner.jpg",
+      "coverTitle": "信达中心杭州壹号院<br>Mapping影院",
+      "videopath": "images/duomeiti/shuziyingyuan/case/4/video.mp4",
+      "techapplication": "杭州信达奥体置业有限公司",
+      "applicacenario": "展厅、大型活动",
+      "workproperty": "模型投影、立体、沉浸感",
+      "projectdesc": "在错落有致的建筑模型上，以3Dmapping的方式演绎出杭州三个时代的精彩更迭，在奥体板块之上打造全新的杭州城市新形象。立体的现实与虚拟画面完美融和，如同搭上穿越时空的视觉列车，精彩震撼。",
+      "achievements": [
+        "images/duomeiti/shuziyingyuan/case/4/pic1.jpg",
+        "images/duomeiti/shuziyingyuan/case/4/pic2.jpg",
+        "images/duomeiti/shuziyingyuan/case/4/pic3.jpg",
+        "images/duomeiti/shuziyingyuan/case/4/pic4.jpg",
+        "images/duomeiti/shuziyingyuan/case/4/pic5.jpg",
+        "images/duomeiti/shuziyingyuan/case/4/pic6.jpg"
+      ]
+    },
     {
-    "id": "9",
-    "cover": "images/chuangxin/xshiyanshi/case/4/banner.jpg",
-    "coverTitle": "滚筒画",
-    "videopath": "images/chuangxin/xshiyanshi/case/4/video.mp4",
-    "techapplication": "客户名称暂未公开",
-    "applicacenario": "教育、艺术展览",
-    "workproperty": "教育互动绘画",
-    "projectdesc": "灵活运用了图像捕捉技术完成了这样一个小创新。通过手持粉刷滚轮涂出画幅局部，当涂画面积达到70%以上时，就会显示完整画幅和信息。这是一个可以广泛应用于儿童教育，文艺机构，美术展览等领域的互动展项。通过互动交互设计，可以拉近观众和高高在上的绘画艺术品的距离，寓教于乐，在娱乐中提高美学修养，增长美术知识。",
-    "achievements": [
-      "images/chuangxin/xshiyanshi/case/4/pic1.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic2.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic3.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic4.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic5.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic6.jpg"
-    ]
-  },
+      "id": "5",
+      "cover": "images/duomeiti/shuziyingyuan/case/5/banner.jpg",
+      "coverTitle": "宝安规划馆热气球影院",
+      "videopath": "images/duomeiti/shuziyingyuan/case/5/video.mp4",
+      "techapplication": "宝安区政府",
+      "applicacenario": "展馆展会",
+      "workproperty": "场景感、视觉体验、身临其境、趣味",
+      "projectdesc": "在宝安规划馆中，适合全年龄段参与的充满趣味性与科普性的数字影院。影片以乘坐热气球的形式展开，利用超长碗幕制造了场景性与沉浸感，让观众在观看影片时如同搭上热气球般，在上面观看宝安的现在与未来规划，开启一段城市漫游之旅。",
+      "achievements": [
+        "images/duomeiti/shuziyingyuan/case/5/pic1.jpg",
+        "images/duomeiti/shuziyingyuan/case/5/pic2.jpg",
+        "images/duomeiti/shuziyingyuan/case/5/pic3.jpg",
+        "images/duomeiti/shuziyingyuan/case/5/pic4.jpg",
+        "images/duomeiti/shuziyingyuan/case/5/pic5.jpg",
+        "images/duomeiti/shuziyingyuan/case/5/pic6.jpg"
+      ]
+    },
     {
-    "id": "10",
-    "cover": "images/chuangxin/xshiyanshi/case/4/banner.jpg",
-    "coverTitle": "滚筒画",
-    "videopath": "images/chuangxin/xshiyanshi/case/4/video.mp4",
-    "techapplication": "客户名称暂未公开",
-    "applicacenario": "教育、艺术展览",
-    "workproperty": "教育互动绘画",
-    "projectdesc": "灵活运用了图像捕捉技术完成了这样一个小创新。通过手持粉刷滚轮涂出画幅局部，当涂画面积达到70%以上时，就会显示完整画幅和信息。这是一个可以广泛应用于儿童教育，文艺机构，美术展览等领域的互动展项。通过互动交互设计，可以拉近观众和高高在上的绘画艺术品的距离，寓教于乐，在娱乐中提高美学修养，增长美术知识。",
-    "achievements": [
-      "images/chuangxin/xshiyanshi/case/4/pic1.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic2.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic3.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic4.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic5.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic6.jpg"
-    ]
-  }
+      "id": "6",
+      "cover": "images/duomeiti/shuziyingyuan/case/6/banner.jpg",
+      "coverTitle": "中粮天悦直角幕影院",
+      "videopath": "images/duomeiti/shuziyingyuan/case/6/video.mp4",
+      "techapplication": "中粮地产集团深圳房地产开发有限公司",
+      "applicacenario": "城市宣传、区域招商",
+      "workproperty": "多屏互动、两折幕、主题定制",
+      "projectdesc": "本片主题是“让世界共同想像”，视觉设计左右屏互动传递价值信息，中间建筑投影依托产业支撑，展现项目的写字楼、公寓业态，突出中粮天悦壹号为新安片区所带来新的商务风潮。充分结合了影视厅播放环境，围绕“湾区资产·世界想象”的核心概念，生动阐述出项目区位价值。",
+      "achievements": [
+        "images/duomeiti/shuziyingyuan/case/6/pic1.jpg",
+        "images/duomeiti/shuziyingyuan/case/6/pic2.jpg",
+        "images/duomeiti/shuziyingyuan/case/6/pic3.jpg",
+        "images/duomeiti/shuziyingyuan/case/6/pic4.jpg",
+        "images/duomeiti/shuziyingyuan/case/6/pic5.jpg",
+        "images/duomeiti/shuziyingyuan/case/6/pic6.jpg"
+      ]
+    },
+    {
+      "id": "7",
+      "cover": "images/duomeiti/shuziyingyuan/case/7/banner.jpg",
+      "coverTitle": "武汉星汇云锦营销厅",
+      "videopath": "images/duomeiti/shuziyingyuan/case/7/video.mp4",
+      "techapplication": "武汉越秀地产开发有限公司",
+      "applicacenario": "展厅、售楼处、营销厅 ",
+      "workproperty": "多屏互动、主题定制",
+      "projectdesc": "武汉星汇云锦营销厅3屏联动机械幕影院，多触点澎湃视觉体验，令业主畅享尊贵品牌感受。",
+      "achievements": [
+        "images/duomeiti/shuziyingyuan/case/7/pic1.jpg",
+        "images/duomeiti/shuziyingyuan/case/7/pic2.jpg",
+        "images/duomeiti/shuziyingyuan/case/7/pic3.jpg",
+        "images/duomeiti/shuziyingyuan/case/7/pic4.jpg",
+        "images/duomeiti/shuziyingyuan/case/7/pic5.jpg",
+        "images/duomeiti/shuziyingyuan/case/7/pic6.jpg"
+      ]
+    },
+    {
+      "id": "8",
+      "cover": "images/duomeiti/shuziyingyuan/case/8/banner.jpg",
+      "coverTitle": "保利象屿公园悦府营销中心<br>两折幕互动影院",
+      "videopath": "images/duomeiti/shuziyingyuan/case/8/video.mp4",
+      "techapplication": "保利发展控股集团股份有限公司",
+      "applicacenario": "营销中心、售楼处",
+      "workproperty": "多屏互动、主题定制",
+      "projectdesc": "两折幕互动影院精心设计，配合公园悦府主题定制的宣传影片，打造保利住宅精致生活的临场感。",
+      "achievements": [
+        "images/duomeiti/shuziyingyuan/case/8/pic1.jpg",
+        "images/duomeiti/shuziyingyuan/case/8/pic2.jpg",
+        "images/duomeiti/shuziyingyuan/case/8/pic3.jpg",
+        "images/duomeiti/shuziyingyuan/case/8/pic4.jpg",
+        "images/duomeiti/shuziyingyuan/case/8/pic5.jpg",
+        "images/duomeiti/shuziyingyuan/case/8/pic6.jpg"
 
+      ]
+    },
+    {
+      "id": "9",
+      "cover": "images/duomeiti/shuziyingyuan/case/10/banner.jpg",
+      "coverTitle": "广佛新世界<br>360度穹幕",
+      "videopath": "images/duomeiti/shuziyingyuan/case/10/video.mp4",
+      "techapplication": "广佛新世界",
+      "applicacenario": "营销中心、展厅、商场",
+      "workproperty": "穹幕投影",
+      "projectdesc": "丝路为广佛新世界展厅所制作的公众体验影厅，利用巨大的屏幕以及立体声效果制造身临其境的真实感觉，唯美清新的三维动画更让观众眼前一亮，使其对项目体验充满兴趣。穹幕尤其适于表现宇宙、大地、海洋等大场面的影片，能够让时空在眼前包围式地变幻，给人以震撼、新奇的视觉享受，渲染现场气氛。",
+      "achievements": [
+        "images/duomeiti/shuziyingyuan/case/10/pic1.jpg",
+        "images/duomeiti/shuziyingyuan/case/10/pic2.jpg",
+        "images/duomeiti/shuziyingyuan/case/10/pic3.jpg"
+      ]
+    },
+    {
+      "id": "10",
+      "cover": "images/duomeiti/shuziyingyuan/case/11/banner.jpg",
+      "coverTitle": "武汉越秀金融汇<br>倒扣盒子沉浸影院",
+      "videopath": "images/duomeiti/shuziyingyuan/case/11/video.mp4",
+      "techapplication": "暂未公开",
+      "applicacenario": "商业场所、营销中心、展馆",
+      "workproperty": "倒扣盒子设计、异性幕、沉浸影院",
+      "projectdesc": "项目中汉口精武路的城市肌理生态圈，形成了物理属性、生态属性、生活属性的“微城市”概念。因地制宜，考虑多个因素如应景的结构、感性的场景以及理性的布局，为了让观众更加融入地体验金融汇未来生活状态与畅想，设计了倒扣“Box”的LED幕，打造出展厅的标志展项，让体验变得新奇有趣而沉浸震撼。",
+      "achievements": [
+        "images/duomeiti/shuziyingyuan/case/11/pic1.jpg",
+        "images/duomeiti/shuziyingyuan/case/11/pic2.jpg",
+        "images/duomeiti/shuziyingyuan/case/11/pic3.jpg",
+        "images/duomeiti/shuziyingyuan/case/11/pic4.jpg"
+      ]
+    }
 
-
-]
+  ]
 
 }

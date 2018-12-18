@@ -57,7 +57,7 @@
 				</div>
 			</router-link>
 
-			<router-link to="/qiyezg/case/7.html">
+			<router-link to="/qiyezg/case/4.html">
 				<img src="../../../assets/images/shuzizg/qiyezg/img7.jpg" class="anli-pic">
 				<div class="anli-sum">
 					<div class="anli-wenzi">
@@ -69,7 +69,7 @@
 				</div>
 			</router-link>
 
-			<router-link to="/qiyezg/case/4.html">
+			<router-link to="/qiyezg/case/5.html">
 				<img src="../../../assets/images/shuzizg/qiyezg/img4.jpg" class="anli-pic">
 				<div class="anli-sum">
 					<div class="anli-wenzi">
@@ -81,7 +81,7 @@
 				</div>
 			</router-link>
 
-			<router-link to="/qiyezg/case/5.html">
+			<router-link to="/qiyezg/case/6.html">
 				<img src="../../../assets/images/shuzizg/qiyezg/img5.jpg" class="anli-pic">
 				<div class="anli-sum">
 					<div class="anli-wenzi">
@@ -93,7 +93,7 @@
 				</div>
 			</router-link>
 
-			<router-link to="/qiyezg/case/6.html">
+			<router-link to="/qiyezg/case/7.html">
 				<img src="../../../assets/images/shuzizg/qiyezg/img6.jpg" class="anli-pic">
 				<div class="anli-sum">
 					<div class="anli-wenzi">
@@ -123,6 +123,7 @@
 			</div>
 			<div class="btn btn-jiazai">加载更多案例</div>
 		</div>
+		 <site-map></site-map>
 	</div>
 </template>
 <script>

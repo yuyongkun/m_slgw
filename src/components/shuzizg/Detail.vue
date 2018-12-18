@@ -4,8 +4,10 @@
       <div class="banner-cover">
         <img :src="cover">
       </div>
+      <div class="wenzi">
       <div class="b-title" v-html="coverTitle"></div>
-      <img class="video-play" id="video-play" src="../../assets/images/bofang.png">
+      <img v-if="videopath" class="video-play" id="video-play" src="../../assets/images/bofang.png">
+    </div>
     </div>
     <div class="sec jianjie">
       <h1>客户</h1>
@@ -13,7 +15,7 @@
       <h1>应用场景</h1>
       <p>{{applicacenario}}</p>
       <h1>作品属性</h1>
-      <p>{{workproperty}}</p>
+      <p v-html="workproperty"></p>
       <h1>项目说明</h1>
       <p>{{projectdesc}}</p>
       <h1>成果展现</h1>
@@ -22,52 +24,59 @@
     <!-- 成果展示 -->
     <div class="sec peitu">
      <!--  <h1>成果展现</h1> -->
-      <img v-for="achiev in achievements" :src="achiev">
-    </div>
-  </div>
+     <img v-for="achiev in achievements" :src="achiev">
+   </div>
+   <site-map></site-map>
+ </div>
 </template>
 <script>
-export default {
-  data() {
-    return {
-      cover: '',
-      coverTitle: '',
-      videopath: '',
-      techapplication: '',
-      applicacenario: '',
-      workproperty: '',
-      projectdesc: '',
-      show: '',
-      achievements: [],
-    }
-  },
-  created() {
-    let datalist = require(`.${this.$route.path.split('/case')[0]}/data.json`).datalist;
-    let id = this.$route.params.id.split('.html')[0];
-    let achievements = [];
-    datalist.forEach((item) => {
-      if (item.id === id) {
-        this.cover = require(`@/assets/${item.cover}`);
-        this.coverTitle = item.coverTitle;
-        this.videopath = require(`@/assets/${item.videopath}`);
-        this.techapplication = item.techapplication;
-        this.applicacenario = item.applicacenario;
-        this.workproperty = item.workproperty;
-        this.projectdesc = item.projectdesc;
-        this.show = item.show;
-        achievements = item.achievements;
+  export default {
+    data() {
+      return {
+        cover: '',
+        coverTitle: '',
+        videopath: '',
+        techapplication: '',
+        applicacenario: '',
+        workproperty: '',
+        projectdesc: '',
+        show: '',
+        achievements: [],
       }
-    });
-    achievements.forEach((item) => {
-      this.achievements.push(require(`@/assets/${item}`));
-    });
-  },
-  mounted() {
-    $('#video-play').videoOpt({
-      videoPath: this.videopath
-    });
+    },
+    created() {
+      let datalist = require(`.${this.$route.path.split('/case')[0]}/data.json`).datalist;
+      let id = this.$route.params.id.split('.html')[0];
+      let achievements = [];
+      datalist.forEach((item) => {
+        if (item.id === id) {
+          this.cover = require(`@/assets/${item.cover}`);
+          this.coverTitle = item.coverTitle;
+          if(item.videopath){
+            this.videopath = require(`@/assets/${item.videopath}`);
+          }
+          
+          this.techapplication = item.techapplication;
+          this.applicacenario = item.applicacenario;
+          this.workproperty = item.workproperty;
+          this.projectdesc = item.projectdesc;
+          this.show = item.show;
+          achievements = item.achievements;
+        }
+      });
+      achievements.forEach((item) => {
+        this.achievements.push(require(`@/assets/${item}`));
+      });
+    },
+    mounted() {
+      if(this.videopath){
+        $('#video-play').videoOpt({
+          videoPath: this.videopath
+        });
+      }
+      
+    }
   }
-}
 
 </script>
 <style scoped>
@@ -84,32 +93,6 @@ export default {
   left: 0;
   top: 0;
   background: rgba(0, 0, 0, 0.3);
-}
-
-.banner img {
-  display: block;
-  width: 100%;
-  position: relative;
-}
-
-.banner .b-title {
-  font-size: 8vw;
-  font-weight: 600;
-  text-align: center;
-  position: absolute;
-  top: 30vw;
-  color: rgb(255, 255, 255);
-  width: 100%;
-}
-
-.banner .video-play {
-  position: relative;
-  display: block;
-  position: absolute;
-  top: 50vw;
-  width: 14%;
-  left: 50%;
-  margin-left: -7%;
 }
 
 .peitu h1 {

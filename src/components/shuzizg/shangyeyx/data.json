@@ -1,163 +1,147 @@
-﻿{
+﻿
+{
   "datalist": [
-  {
-    "id": "1",
-    "cover": "images/chuangxin/xshiyanshi/case/1/banner.jpg",
-    "coverTitle": "电磁感应互动触摸墙",
-    "videopath": "images/chuangxin/xshiyanshi/case/1/video.mp4",
-    "techapplication": "深圳国际双创周",
-    "applicacenario": "会展、创意活动",
-    "workproperty": "多媒体方案动画",
-    "projectdesc": "深圳作为全国双创周主会场之一，再掀“创客风暴”。今年智能硬件类产品展示明显增多，不仅有穿戴类的VR设备、智能手表，更有智能汽车、智能制作设备。丝路X实验室、丝路舞美、丝路数字视觉营销（ 展览展示）团队团结协作，创新打造的电磁感应互动绘画墙， 全息微缩舞台数字成像， 激光电视数字内容等组成的新媒体数字视觉互动长廊， 传递知识和理念，增强了互动，成为一道受到市民喜爱的现代化社交城市景观，也为观众打开一道想象力的大门。 ",
-    "achievements": [
-      "images/chuangxin/xshiyanshi/case/1/pic1.jpg",
-      "images/chuangxin/xshiyanshi/case/1/pic2.jpg",
-      "images/chuangxin/xshiyanshi/case/1/pic3.jpg"
-    ]
-  },
-  {
-    "id": "2",
-    "cover": "images/chuangxin/xshiyanshi/case/2/banner.jpg",
-    "coverTitle": "手势感应<br>LEAP MOTION系统",
-    "videopath": "images/chuangxin/xshiyanshi/case/2/video.mp4",
-    "techapplication": "深圳第十四届文博会",
-    "applicacenario": "会展、创意活动",
-    "workproperty": "手势感应",
-    "projectdesc": "此互动手势装置在文博会开幕第一天吸引众多媒体相继采访，此互动装置通过双眼红外摄像头图像识别计算系统，以超过每秒200帧的速度追踪手部动作，似的画面与手部动作完美同步。现场体验者以手部的互动方式：展开、握拳反掌、上下左右移动，来体验正前方屏幕中的内容切换。通过前方屏幕中场景科技元素，让体验者如穿梭在浩瀚的数字星河，感受手中“掌控”的数字体验。了解福田区文化创意行业息息相关的多面性。",
-    "achievements": [
-      "images/chuangxin/xshiyanshi/case/2/pic1.jpg",
-      "images/chuangxin/xshiyanshi/case/2/pic2.jpg"
-    ]
-  },
-  {
-    "id": "3",
-    "cover": "images/chuangxin/xshiyanshi/case/3/banner.jpg",
-    "coverTitle": "隔空交互墙",
-    "videopath": "images/chuangxin/xshiyanshi/case/3/video.mp4",
-    "techapplication": "客户名称暂未公开",
-    "applicacenario": "会展、创意活动",
-    "workproperty": "交互屏",
-    "projectdesc": "交互屏是一种很常见的信息交互手段，为人们所熟知。在这里，我们尝试把体验的距离拉远，这样，全局视角会给人更加不同的感受。这是我们开发这个案例的初衷。在测试中，我们发现，如果空间满足的话，距离屏幕的距离可以更远。这样，隔空操作的神奇感受会更加强烈。同时，需要在地面上做出指示和指引，方便降低学习成本。",
-    "achievements": [
-      "images/chuangxin/xshiyanshi/case/3/pic1.jpg",
-      "images/chuangxin/xshiyanshi/case/3/pic2.jpg",
-      "images/chuangxin/xshiyanshi/case/3/pic3.jpg",
-      "images/chuangxin/xshiyanshi/case/3/pic4.jpg",
-      "images/chuangxin/xshiyanshi/case/3/pic5.jpg",
-      "images/chuangxin/xshiyanshi/case/3/pic6.jpg"
-    ]
-  },
-  {
-    "id": "4",
-    "cover": "images/chuangxin/xshiyanshi/case/4/banner.jpg",
-    "coverTitle": "滚筒画",
-    "videopath": "images/chuangxin/xshiyanshi/case/4/video.mp4",
-    "techapplication": "客户名称暂未公开",
-    "applicacenario": "教育、艺术展览",
-    "workproperty": "教育互动绘画",
-    "projectdesc": "灵活运用了图像捕捉技术完成了这样一个小创新。通过手持粉刷滚轮涂出画幅局部，当涂画面积达到70%以上时，就会显示完整画幅和信息。这是一个可以广泛应用于儿童教育，文艺机构，美术展览等领域的互动展项。通过互动交互设计，可以拉近观众和高高在上的绘画艺术品的距离，寓教于乐，在娱乐中提高美学修养，增长美术知识。",
-    "achievements": [
-      "images/chuangxin/xshiyanshi/case/4/pic1.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic2.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic3.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic4.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic5.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic6.jpg"
-    ]
-  },
     {
-    "id": "5",
-    "cover": "images/chuangxin/xshiyanshi/case/4/banner.jpg",
-    "coverTitle": "滚筒画",
-    "videopath": "images/chuangxin/xshiyanshi/case/4/video.mp4",
-    "techapplication": "客户名称暂未公开",
-    "applicacenario": "教育、艺术展览",
-    "workproperty": "教育互动绘画",
-    "projectdesc": "灵活运用了图像捕捉技术完成了这样一个小创新。通过手持粉刷滚轮涂出画幅局部，当涂画面积达到70%以上时，就会显示完整画幅和信息。这是一个可以广泛应用于儿童教育，文艺机构，美术展览等领域的互动展项。通过互动交互设计，可以拉近观众和高高在上的绘画艺术品的距离，寓教于乐，在娱乐中提高美学修养，增长美术知识。",
-    "achievements": [
-      "images/chuangxin/xshiyanshi/case/4/pic1.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic2.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic3.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic4.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic5.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic6.jpg"
-    ]
-  },
+      "id": "1",
+      "cover": "images/shuzizg/shangyeyx/case/2/banner.jpg",
+      "coverTitle": "重庆龙湖TOD展厅",
+      "techapplication": "龙湖地产",
+      "applicacenario": "重庆市沙坪坝高铁",
+      "workproperty": "TOD模式、投影沙盘、空间展项设计、<br>互动体验设计",
+      "projectdesc": "位于重庆市沙坪坝高铁上的综合体项目，是国内目前唯一一个将高铁、城轨枢纽、成熟核心商圈相结合的TOD项目。",
+      "show": "充分将TOD模式的“垂直体开发、轨道交通、发散性网络”的开发理念与展陈内容进行提炼，融入展示空间中。在动静结合的体验动线上，从寓意上的大到小，循序渐进的将访客带入高纬度的速度、高效、科技的未来空间。在不同的篇章分别采用了机械移动滑轨屏、投影球幕、剖面模型与透明屏、异形的沉浸式投影沙盘等不同展现方式，为访客带来信息有效传达的参观体验。",
+      "achievements": [
+        "images/shuzizg/shangyeyx/case/2/pic1.jpg",
+        "images/shuzizg/shangyeyx/case/2/pic2.jpg",
+        "images/shuzizg/shangyeyx/case/2/pic3.jpg",
+        "images/shuzizg/shangyeyx/case/2/pic4.jpg",
+        "images/shuzizg/shangyeyx/case/2/pic5.jpg"
+      ]
+    },
     {
-    "id": "6",
-    "cover": "images/chuangxin/xshiyanshi/case/4/banner.jpg",
-    "coverTitle": "滚筒画",
-    "videopath": "images/chuangxin/xshiyanshi/case/4/video.mp4",
-    "techapplication": "客户名称暂未公开",
-    "applicacenario": "教育、艺术展览",
-    "workproperty": "教育互动绘画",
-    "projectdesc": "灵活运用了图像捕捉技术完成了这样一个小创新。通过手持粉刷滚轮涂出画幅局部，当涂画面积达到70%以上时，就会显示完整画幅和信息。这是一个可以广泛应用于儿童教育，文艺机构，美术展览等领域的互动展项。通过互动交互设计，可以拉近观众和高高在上的绘画艺术品的距离，寓教于乐，在娱乐中提高美学修养，增长美术知识。",
-    "achievements": [
-      "images/chuangxin/xshiyanshi/case/4/pic1.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic2.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic3.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic4.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic5.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic6.jpg"
-    ]
-  },
+      "id": "2",
+      "cover": "images/shuzizg/shangyeyx/case/5/banner.jpg",
+      "coverTitle": "深圳湾超级总部基地展厅<br>《瑧湾汇》",  
+      "videopath": "images/shuzizg/shangyeyx/case/5/video.mp4",
+      "techapplication": "万科集团",
+      "applicacenario": "深圳湾超级总部基地",
+      "workproperty": "天幕、主幕与数字沙盘三位一体设计",
+      "projectdesc": "深圳湾超级总部基地的形象封面；位于粤港澳大湾区深圳湾超级总部基地定位的黄金地段，属于万科高端“瑧”系列产品。",
+      "show": "天幕、主幕与数字沙盘三维一体的多媒体数字“秀”相得益彰，项目解析以视觉化的语言在上中下三个维度的光影交错融合，触发更多层次的感官体验表达；沙盘的区域动态灯光配合主屏幕内容，进行逐一的展示；天幕形成的开场与结束画面又形成了写意的艺术波浪。",  
+      "achievements": [
+        "images/shuzizg/shangyeyx/case/5/pic1.jpg",
+        "images/shuzizg/shangyeyx/case/5/pic2.jpg",
+        "images/shuzizg/shangyeyx/case/5/pic3.jpg",
+        "images/shuzizg/shangyeyx/case/5/pic4.jpg",
+        "images/shuzizg/shangyeyx/case/5/pic5.jpg"
+      ]
+    },
     {
-    "id": "7",
-    "cover": "images/chuangxin/xshiyanshi/case/4/banner.jpg",
-    "coverTitle": "滚筒画",
-    "videopath": "images/chuangxin/xshiyanshi/case/4/video.mp4",
-    "techapplication": "客户名称暂未公开",
-    "applicacenario": "教育、艺术展览",
-    "workproperty": "教育互动绘画",
-    "projectdesc": "灵活运用了图像捕捉技术完成了这样一个小创新。通过手持粉刷滚轮涂出画幅局部，当涂画面积达到70%以上时，就会显示完整画幅和信息。这是一个可以广泛应用于儿童教育，文艺机构，美术展览等领域的互动展项。通过互动交互设计，可以拉近观众和高高在上的绘画艺术品的距离，寓教于乐，在娱乐中提高美学修养，增长美术知识。",
-    "achievements": [
-      "images/chuangxin/xshiyanshi/case/4/pic1.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic2.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic3.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic4.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic5.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic6.jpg"
-    ]
-  },
+      "id": "3",
+      "cover": "images/shuzizg/shangyeyx/case/4/banner.jpg",
+      "coverTitle": "杭州保利融信<br>大国璟展厅",
+      "videopath": "images/shuzizg/shangyeyx/case/4/video.mp4",
+      "techapplication": "保利地产",
+      "applicacenario": "萧山市",
+      "workproperty": "博物馆概念、历史藏品、立体体验",
+      "projectdesc": "位于杭州萧山，此次以“博物馆”概念打造项目营销体验中心，将项目的东方文化属性包装成精致的“展品”，巧妙的融入在空间中。",
+      "show": "项目的数字化，展示巧妙的融合空间布局，为文化空间画龙点睛；历史藏品以触摸互动的虚拟方式，打造立体体验的首个新中式文化博物馆。",    
+      "achievements": [
+        "images/shuzizg/shangyeyx/case/4/pic1.jpg",
+        "images/shuzizg/shangyeyx/case/4/pic2.jpg",
+        "images/shuzizg/shangyeyx/case/4/pic3.jpg",
+        "images/shuzizg/shangyeyx/case/4/pic4.jpg",
+        "images/shuzizg/shangyeyx/case/4/pic5.jpg"
+      ]
+    },
     {
-    "id": "8",
-    "cover": "images/chuangxin/xshiyanshi/case/4/banner.jpg",
-    "coverTitle": "滚筒画",
-    "videopath": "images/chuangxin/xshiyanshi/case/4/video.mp4",
-    "techapplication": "客户名称暂未公开",
-    "applicacenario": "教育、艺术展览",
-    "workproperty": "教育互动绘画",
-    "projectdesc": "灵活运用了图像捕捉技术完成了这样一个小创新。通过手持粉刷滚轮涂出画幅局部，当涂画面积达到70%以上时，就会显示完整画幅和信息。这是一个可以广泛应用于儿童教育，文艺机构，美术展览等领域的互动展项。通过互动交互设计，可以拉近观众和高高在上的绘画艺术品的距离，寓教于乐，在娱乐中提高美学修养，增长美术知识。",
-    "achievements": [
-      "images/chuangxin/xshiyanshi/case/4/pic1.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic2.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic3.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic4.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic5.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic6.jpg"
-    ]
-  },
+      "id": "4",
+      "cover": "images/shuzizg/shangyeyx/case/1/banner.jpg",
+      "coverTitle": "保利和光尘樾",
+      "videopath": "images/shuzizg/shangyeyx/case/1/video.mp4",
+      "techapplication": "保利发展控股集团股份有限公司",
+      "applicacenario": "宣传、展示",
+      "workproperty": "LED竖条屏、营销厅展项设计",
+      "projectdesc": "该项目是保利地产高端产品——“和光”系列，TOD住宅。在设计理念上，项目采用现代建筑风格，注重建筑、自然、光影与人的互动。",
+      "show": "将光作为整体核心要素，聚焦在建筑、自然、光影与人的交流上。从“光之序-生命之光-文明之光-美学之光”四个维度阐述生命本质、良渚文化以及建筑生活之美。其中采用了全定制尺寸超窄LED竖条屏视频，最窄宽度仅8公分，以展现“光”的形态。", 
+      "achievements": [
+        "images/shuzizg/shangyeyx/case/1/pic1.jpg",
+        "images/shuzizg/shangyeyx/case/1/pic2.jpg",
+        "images/shuzizg/shangyeyx/case/1/pic3.jpg",
+        "images/shuzizg/shangyeyx/case/1/pic4.jpg",
+        "images/shuzizg/shangyeyx/case/1/pic4.jpg"
+        
+      ]
+    },
     {
-    "id": "9",
-    "cover": "images/chuangxin/xshiyanshi/case/4/banner.jpg",
-    "coverTitle": "滚筒画",
-    "videopath": "images/chuangxin/xshiyanshi/case/4/video.mp4",
-    "techapplication": "客户名称暂未公开",
-    "applicacenario": "教育、艺术展览",
-    "workproperty": "教育互动绘画",
-    "projectdesc": "灵活运用了图像捕捉技术完成了这样一个小创新。通过手持粉刷滚轮涂出画幅局部，当涂画面积达到70%以上时，就会显示完整画幅和信息。这是一个可以广泛应用于儿童教育，文艺机构，美术展览等领域的互动展项。通过互动交互设计，可以拉近观众和高高在上的绘画艺术品的距离，寓教于乐，在娱乐中提高美学修养，增长美术知识。",
-    "achievements": [
-      "images/chuangxin/xshiyanshi/case/4/pic1.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic2.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic3.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic4.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic5.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic6.jpg"
-    ]
-  }
-
-
-
-]
+      "id": "5",
+      "cover": "images/shuzizg/shangyeyx/case/3/banner.jpg",
+      "coverTitle": "福田活力新都",
+      "techapplication": "海岸集团",
+      "applicacenario": "参观、展示",
+      "workproperty": "展示设计、三折幕、led造型天幕",	
+      "projectdesc": "位于深圳福田粤港澳大湾区，当属片区规划升级的湾区活力代表，体现新经济、新产业、新模式的策源地。",
+      "show": "“艺术造型三折幕+led造型天幕”让空间包裹感体验感强烈。巧用空间位置关系，设计的通电玻璃形成的机械翻转屏让观者从“旧貌新颜”中迎接未来。", 
+      "achievements": [
+        "images/shuzizg/shangyeyx/case/3/pic1.jpg",
+        
+        "images/shuzizg/shangyeyx/case/3/pic3.jpg",
+        "images/shuzizg/shangyeyx/case/3/pic4.jpg",
+        "images/shuzizg/shangyeyx/case/3/pic5.jpg"
+      ]
+    },
+    {
+      "id": "6",
+      "cover": "images/shuzizg/shangyeyx/case/7/banner.jpg",
+      "coverTitle": "广州金茂府品牌馆",
+      "techapplication": "中国金茂（集团）有限公司",
+      "applicacenario": "广州广钢老城区的影剧院",
+      "workproperty": "品牌展示、钻石巨幕",
+      "projectdesc": "金茂府华南首发，展厅选址于广州广钢老城区的影剧院。采用得天独厚的特别展示空间载体，以及适合营造“老影片”讲故事的策展方式。",
+      "show": "扁平化设计与天花形成完美空间呼应，以科技技术手段贯穿展厅体验；感应门禁+雾幕投影 ，钻石巨幕华南首创，呈现精彩纷呈的品牌发布会。", 
+      "achievements": [
+        "images/shuzizg/shangyeyx/case/7/pic1.jpg",
+        "images/shuzizg/shangyeyx/case/7/pic2.jpg",
+        "images/shuzizg/shangyeyx/case/7/pic3.jpg",
+        "images/shuzizg/shangyeyx/case/7/pic4.jpg",
+        "images/shuzizg/shangyeyx/case/7/pic5.jpg"
+      ]
+    },
+    {
+      "id": "7",
+      "cover": "images/shuzizg/shangyeyx/case/8/banner.jpg",
+      "coverTitle": "武汉华侨城原岸",
+      "techapplication": "武汉华侨城实业发展有限公司",
+      "applicacenario": "武汉东湖旅游风景区",
+      "workproperty": "数字沙盘、L幕、亚克力地图",
+      "projectdesc": "位于武汉东湖旅游风景区，成为一线湖景资源的文旅地标。对外展示东湖旅游规划、生态景观、文化资源的详细信息。",
+      "show": "利用数字沙盘、L幕、亚克力地图等数字视觉技术，从建筑美学、视听美学、品牌美学等五个方面，构建一座东湖“美学生活馆”。", 	
+      "achievements": [
+        "images/shuzizg/shangyeyx/case/8/pic1.jpg",
+        "images/shuzizg/shangyeyx/case/8/pic2.jpg",
+        "images/shuzizg/shangyeyx/case/8/pic3.jpg",
+        "images/shuzizg/shangyeyx/case/8/pic4.jpg",
+        "images/shuzizg/shangyeyx/case/8/pic5.jpg"
+      ]
+    },
+    {
+      "id": "8",
+      "cover": "images/shuzizg/shangyeyx/case/9/banner.jpg",
+      "coverTitle": "珠海星艺文创展厅",
+      "videopath": "images/shuzizg/shangyeyx/case/9/video.mp4",
+      "techapplication": "珠海横琴星艺文创天地公司",
+      "applicacenario": "横琴岛",
+      "workproperty": "创意异形幕、文创",
+      "projectdesc": "横琴岛上第一个文旅综合项目，与香港新世界合作。丝路提出了极富科幻的设计+创意异形幕，让未来粤港澳一体化的文娱事业文化走向新启示、新高度。",
+      "show": "三折幕+纱幕，打造多重视效的视觉层次；角色元素与大场景之间的灵活切换，呈现CG大片。", 
+      "achievements": [
+        "images/shuzizg/shangyeyx/case/9/pic1.jpg",
+        "images/shuzizg/shangyeyx/case/9/pic2.jpg",
+        "images/shuzizg/shangyeyx/case/9/pic3.jpg",
+        "images/shuzizg/shangyeyx/case/9/pic23.jpg"	
+      ]
+    }
+    
+  ]
 
 }

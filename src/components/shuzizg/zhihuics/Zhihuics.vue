@@ -104,9 +104,10 @@
 
 			</div>
 
-
+<site-map></site-map>
 		</div>
 		<!--主体-->
 
 	</template>	
+
 

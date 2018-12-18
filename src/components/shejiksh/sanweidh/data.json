@@ -2,105 +2,108 @@
   "datalist": [
   {
     "id": "1",
-    "cover": "images/chuangxin/xshiyanshi/case/1/banner.jpg",
-    "coverTitle": "电磁感应互动触摸墙",
-    "videopath": "images/chuangxin/xshiyanshi/case/1/video.mp4",
-    "techapplication": "深圳国际双创周",
-    "applicacenario": "会展、创意活动",
-    "workproperty": "多媒体方案动画",
-    "projectdesc": "深圳作为全国双创周主会场之一，再掀“创客风暴”。今年智能硬件类产品展示明显增多，不仅有穿戴类的VR设备、智能手表，更有智能汽车、智能制作设备。丝路X实验室、丝路舞美、丝路数字视觉营销（ 展览展示）团队团结协作，创新打造的电磁感应互动绘画墙， 全息微缩舞台数字成像， 激光电视数字内容等组成的新媒体数字视觉互动长廊， 传递知识和理念，增强了互动，成为一道受到市民喜爱的现代化社交城市景观，也为观众打开一道想象力的大门。 ",
+    "cover": "images/shejiksh/sanweidh/case/1/banner.jpg",
+    "coverTitle": "青少年体育运动训练基地</br>工程施工项目",
+	"videopath": "images/shejiksh/sanweidh/case/1/video.mp4",
+    "techapplication": "中建八局第一建设有限公司",
+    "applicacenario": "政府汇报",
+    "workproperty": "动画+多媒体",
+    "projectdesc": "此项目为政府汇报视频，包含多媒体动画制作。该项目滨州国际足球运动小镇规划面积31.04平方公里，是我区实施新旧动能转换、助力产业转型发展的骨干项目、龙头项目。项目以体育为核心，整合思源湖万亩林场、思源湖水库、温泉岛度假村等资源，大力发展“足球+N”复合产业，着力打造“国家级运动休闲特色小镇、国家体育产业示范基地、国家级体育旅游示范基地”。",
     "achievements": [
-      "images/chuangxin/xshiyanshi/case/1/pic1.jpg",
-      "images/chuangxin/xshiyanshi/case/1/pic2.jpg",
-      "images/chuangxin/xshiyanshi/case/1/pic3.jpg"
+      "images/shejiksh/sanweidh/case/1/pic1.jpg",
+      "images/shejiksh/sanweidh/case/1/pic2.jpg",
+      "images/shejiksh/sanweidh/case/1/pic3.jpg",
+	  "images/shejiksh/sanweidh/case/1/pic4.jpg",
+	  "images/shejiksh/sanweidh/case/1/pic5.jpg"
     ]
   },
   {
     "id": "2",
-    "cover": "images/chuangxin/xshiyanshi/case/2/banner.jpg",
-    "coverTitle": "手势感应<br>LEAP MOTION系统",
-    "videopath": "images/chuangxin/xshiyanshi/case/2/video.mp4",
-    "techapplication": "深圳第十四届文博会",
-    "applicacenario": "会展、创意活动",
-    "workproperty": "手势感应",
-    "projectdesc": "此互动手势装置在文博会开幕第一天吸引众多媒体相继采访，此互动装置通过双眼红外摄像头图像识别计算系统，以超过每秒200帧的速度追踪手部动作，似的画面与手部动作完美同步。现场体验者以手部的互动方式：展开、握拳反掌、上下左右移动，来体验正前方屏幕中的内容切换。通过前方屏幕中场景科技元素，让体验者如穿梭在浩瀚的数字星河，感受手中“掌控”的数字体验。了解福田区文化创意行业息息相关的多面性。",
+    "cover": "images/shejiksh/sanweidh/case/2/banner.jpg",
+    "coverTitle": "十里风荷项目",
+	"videopath": "images/shejiksh/sanweidh/case/2/video.mp4",
+    "techapplication": "上海翼天集团",
+    "applicacenario": "发布会",
+    "workproperty": "动画",
+    "projectdesc": "十里风荷项目是大美上饶，十里槠溪的第一站，项目基地处于城郊旅游休闲带和信江城市发展轴之间，承接城市空间发展及旅游活力升级需求，基地北侧处于灵山旅游服务板块（左溪小镇、前汪村），对接休闲度假，田园观光以及主题游乐等产业，南侧处于中心城板块(槠溪湿地公园)，对接健康养生、城市服务配套等产业。上饶780多万人口，城市人口仅占100来万， 中心城市的人口集聚能力差，缺乏经济及产业活力， 城市需配套活力升级，开创旅游度假新方式， 创造传统文化的现代精髓体验，整合多元化创新发展模式。 ",
     "achievements": [
-      "images/chuangxin/xshiyanshi/case/2/pic1.jpg",
-      "images/chuangxin/xshiyanshi/case/2/pic2.jpg"
+      "images/shejiksh/sanweidh/case/2/pic1.jpg",
+      "images/shejiksh/sanweidh/case/2/pic2.jpg",
+      "images/shejiksh/sanweidh/case/2/pic3.jpg",
+	  "images/shejiksh/sanweidh/case/2/pic4.jpg",
+	  "images/shejiksh/sanweidh/case/2/pic5.jpg"
     ]
   },
   {
     "id": "3",
-    "cover": "images/chuangxin/xshiyanshi/case/3/banner.jpg",
-    "coverTitle": "隔空交互墙",
-    "videopath": "images/chuangxin/xshiyanshi/case/3/video.mp4",
-    "techapplication": "客户名称暂未公开",
-    "applicacenario": "会展、创意活动",
-    "workproperty": "交互屏",
-    "projectdesc": "交互屏是一种很常见的信息交互手段，为人们所熟知。在这里，我们尝试把体验的距离拉远，这样，全局视角会给人更加不同的感受。这是我们开发这个案例的初衷。在测试中，我们发现，如果空间满足的话，距离屏幕的距离可以更远。这样，隔空操作的神奇感受会更加强烈。同时，需要在地面上做出指示和指引，方便降低学习成本。",
+    "cover": "images/shejiksh/sanweidh/case/3/banner.jpg",
+    "coverTitle": "凯德来福士广场</br>灯光项目",
+    "videopath": "images/shejiksh/sanweidh/case/3/video.mp4",
+    "techapplication": "客户保密",
+    "applicacenario": "发布会",
+    "workproperty": "动画",
+    "projectdesc": "重庆来福士广场，位于两江汇流的朝天门。由世界著名建筑大师摩西·萨夫迪设计，由新加坡凯德集团投资建设。整个项目寓意“扬帆远航”的重庆精神，诠释了“古渝雄关”的壮美气势，建成后将成为重庆的标志性建筑和国际性城市名片。",
     "achievements": [
-      "images/chuangxin/xshiyanshi/case/3/pic1.jpg",
-      "images/chuangxin/xshiyanshi/case/3/pic2.jpg",
-      "images/chuangxin/xshiyanshi/case/3/pic3.jpg",
-      "images/chuangxin/xshiyanshi/case/3/pic4.jpg",
-      "images/chuangxin/xshiyanshi/case/3/pic5.jpg",
-      "images/chuangxin/xshiyanshi/case/3/pic6.jpg"
+      "images/shejiksh/sanweidh/case/3/pic1.jpg",
+      "images/shejiksh/sanweidh/case/3/pic2.jpg",
+      "images/shejiksh/sanweidh/case/3/pic3.jpg",
+      "images/shejiksh/sanweidh/case/3/pic4.jpg",
+	  "images/shejiksh/sanweidh/case/3/pic5.jpg"
     ]
   },
   {
     "id": "4",
-    "cover": "images/chuangxin/xshiyanshi/case/4/banner.jpg",
-    "coverTitle": "滚筒画",
-    "videopath": "images/chuangxin/xshiyanshi/case/4/video.mp4",
-    "techapplication": "客户名称暂未公开",
-    "applicacenario": "教育、艺术展览",
-    "workproperty": "教育互动绘画",
-    "projectdesc": "灵活运用了图像捕捉技术完成了这样一个小创新。通过手持粉刷滚轮涂出画幅局部，当涂画面积达到70%以上时，就会显示完整画幅和信息。这是一个可以广泛应用于儿童教育，文艺机构，美术展览等领域的互动展项。通过互动交互设计，可以拉近观众和高高在上的绘画艺术品的距离，寓教于乐，在娱乐中提高美学修养，增长美术知识。",
+    "cover": "images/shejiksh/sanweidh/case/4/banner.jpg",
+    "coverTitle": "北京新机场非主基地项目</br>概念设计",
+	"videopath": "images/shejiksh/sanweidh/case/4/video.mp4",
+    "techapplication": "中国电子工程设计院有限公司",
+    "applicacenario": "政府汇报",
+    "workproperty": "动画+多媒体",
+    "projectdesc": "此项目为政府汇报视频，包含多媒体动画制作。北京新机场非主基地项目位于北京市大兴区榆垡镇。通过京开高速可到达北京市城市核心区，通过规划场前快速联络线可到达新机场航站楼。用地面积：总用地面积约7.1公顷。建设规模：计容建筑面积约19.88万平方米。业态组成：办公、出勤楼、配套设施。",
     "achievements": [
-      "images/chuangxin/xshiyanshi/case/4/pic1.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic2.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic3.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic4.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic5.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic6.jpg"
+      "images/shejiksh/sanweidh/case/4/pic1.jpg",
+      "images/shejiksh/sanweidh/case/4/pic2.jpg",
+      "images/shejiksh/sanweidh/case/4/pic3.jpg",
+      "images/shejiksh/sanweidh/case/4/pic4.jpg",
+	  "images/shejiksh/sanweidh/case/4/pic5.jpg"
     ]
   },
     {
     "id": "5",
-    "cover": "images/chuangxin/xshiyanshi/case/4/banner.jpg",
-    "coverTitle": "滚筒画",
-    "videopath": "images/chuangxin/xshiyanshi/case/4/video.mp4",
-    "techapplication": "客户名称暂未公开",
-    "applicacenario": "教育、艺术展览",
-    "workproperty": "教育互动绘画",
-    "projectdesc": "灵活运用了图像捕捉技术完成了这样一个小创新。通过手持粉刷滚轮涂出画幅局部，当涂画面积达到70%以上时，就会显示完整画幅和信息。这是一个可以广泛应用于儿童教育，文艺机构，美术展览等领域的互动展项。通过互动交互设计，可以拉近观众和高高在上的绘画艺术品的距离，寓教于乐，在娱乐中提高美学修养，增长美术知识。",
+    "cover": "images/shejiksh/sanweidh/case/6/banner.jpg",
+    "coverTitle": "金种子酒博物馆",
+	"videopath": "images/shejiksh/sanweidh/case/6/video.mp4",
+    "techapplication": "雄国集团",
+    "applicacenario": "投标、汇报",
+    "workproperty": "动画",
+    "projectdesc": "项目是雄国集团的金种子酒博物馆，设计初衷博物馆外形就是以一颗刚刚发芽的金色种子为寓意，代表着本集团蒸蒸日上，厚积薄发的雄心。",
     "achievements": [
-      "images/chuangxin/xshiyanshi/case/4/pic1.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic2.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic3.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic4.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic5.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic6.jpg"
+      "images/shejiksh/sanweidh/case/6/pic1.jpg",
+      "images/shejiksh/sanweidh/case/6/pic2.jpg",
+	  "images/shejiksh/sanweidh/case/6/pic3.jpg",
+	  "images/shejiksh/sanweidh/case/6/pic4.jpg",
+	  "images/shejiksh/sanweidh/case/6/pic5.jpg",
+	  "images/shejiksh/sanweidh/case/6/pic6.jpg",
+	  "images/shejiksh/sanweidh/case/6/pic7.jpg"
     ]
   },
     {
     "id": "6",
-    "cover": "images/chuangxin/xshiyanshi/case/4/banner.jpg",
-    "coverTitle": "滚筒画",
-    "videopath": "images/chuangxin/xshiyanshi/case/4/video.mp4",
-    "techapplication": "客户名称暂未公开",
-    "applicacenario": "教育、艺术展览",
-    "workproperty": "教育互动绘画",
-    "projectdesc": "灵活运用了图像捕捉技术完成了这样一个小创新。通过手持粉刷滚轮涂出画幅局部，当涂画面积达到70%以上时，就会显示完整画幅和信息。这是一个可以广泛应用于儿童教育，文艺机构，美术展览等领域的互动展项。通过互动交互设计，可以拉近观众和高高在上的绘画艺术品的距离，寓教于乐，在娱乐中提高美学修养，增长美术知识。",
+    "cover": "images/shejiksh/sanweidh/case/9/banner.jpg",
+    "coverTitle": "镇江图书馆",
+	"videopath": "images/shejiksh/sanweidh/case/9/video.mp4",
+    "techapplication": "东大创作所",
+    "applicacenario": "投标、汇报",
+    "workproperty": "动画",
+    "projectdesc": "镇江图书馆为南京东南大学创作所设计项目，地处镇江行政中心正南方，周边地税大厦、中国移动、体育会展中心环伺，毗邻南山风景区。项目立面以山川、水为元素设计，远眺如群山峻岭连绵不绝，近视如湖光浩渺，碧波无垠；屋顶花园引用流水元素，赋予高山流水，淡薄致远之书香文化气息。内部设计打破常规，大胆通透，给人一种明亮、舒适、轻松、自然之感。夜晚华灯初上，镇江图书馆远近之间仿若“拂月西粼照银纱，似水云云幻长山”。",
     "achievements": [
-      "images/chuangxin/xshiyanshi/case/4/pic1.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic2.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic3.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic4.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic5.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic6.jpg"
+      "images/shejiksh/sanweidh/case/9/pic1.jpg",
+      "images/shejiksh/sanweidh/case/9/pic2.jpg",
+      "images/shejiksh/sanweidh/case/9/pic3.jpg",
+      "images/shejiksh/sanweidh/case/9/pic4.jpg"
     ]
   }
+
 
 
 ]

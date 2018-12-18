@@ -33,7 +33,7 @@
 				</div>
 			</router-link>
 			
-			<router-link to="/shangyeyx/case/5.html">
+			<router-link to="/shangyeyx/case/2.html">
 				<img src="../../../assets/images/shuzizg/shangyeyx/img5.jpg" class="anli-pic">
 				<div class="anli-sum">
 					<div class="anli-wenzi">
@@ -45,7 +45,7 @@
 				</div>
 			</router-link>	
 			
-			<router-link to="/shangyeyx/case/4.html">
+			<router-link to="/shangyeyx/case/3.html">
 				<img src="../../../assets/images/shuzizg/shangyeyx/img4.jpg" class="anli-pic">
 				<div class="anli-sum">
 					<div class="anli-wenzi">
@@ -58,7 +58,7 @@
 			</router-link>	
 			
 			
-			<router-link to="/shangyeyx/case/1.html">
+			<router-link to="/shangyeyx/case/4.html">
 				<img src="../../../assets/images/shuzizg/shangyeyx/img1.jpg" class="anli-pic">
 				<div class="anli-sum">
 					<div class="anli-wenzi">
@@ -70,7 +70,7 @@
 				</div>
 			</router-link>	
 			
-			<router-link to="/shangyeyx/case/3.html">
+			<router-link to="/shangyeyx/case/5.html">
 				<img src="../../../assets/images/shuzizg/shangyeyx/img3.jpg" class="anli-pic">
 				<div class="anli-sum">
 					<div class="anli-wenzi">
@@ -85,7 +85,7 @@
 			
 			
 			<div class="anli-yin">
-				<router-link to="/shangyeyx/case/7.html">
+				<router-link to="/shangyeyx/case/6.html">
 					<img src="../../../assets/images/shuzizg/shangyeyx/img7.jpg" class="anli-pic">
 					<div class="anli-sum">
 						<div class="anli-wenzi">
@@ -96,7 +96,7 @@
 						<div class="cle"></div>
 					</div>
 				</router-link>
-				<router-link to="/shangyeyx/case/8.html">
+				<router-link to="/shangyeyx/case/7.html">
 					<img src="../../../assets/images/shuzizg/shangyeyx/img8.jpg" class="anli-pic">
 					<div class="anli-sum">
 						<div class="anli-wenzi">
@@ -107,7 +107,7 @@
 						<div class="cle"></div>
 					</div>
 				</router-link>
-				<router-link to="/shangyeyx/case/9.html">
+				<router-link to="/shangyeyx/case/8.html">
 					<img src="../../../assets/images/shuzizg/shangyeyx/img9.jpg" class="anli-pic">
 					<div class="anli-sum">
 						<div class="anli-wenzi">
@@ -123,7 +123,7 @@
 			</div>
 			<div class="btn btn-jiazai">加载更多案例</div>
 		</div>
-		
+		<site-map></site-map>
 	</div>
 </template>
 <script>

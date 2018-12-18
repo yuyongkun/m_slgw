@@ -35,6 +35,7 @@
 				</div>
 			</router-link>
 
+
 			<router-link to="/guihua/case/2.html">
 				<img src="../../../assets/images/shuzizg/guihua/img6.jpg" class="anli-pic">
 				<div class="anli-sum">
@@ -47,17 +48,7 @@
 				</div>
 			</router-link>
 
-			<router-link to="/guihua/case/3.html">
-				<img src="../../../assets/images/shuzizg/guihua/img4.jpg" class="anli-pic">
-				<div class="anli-sum">
-					<div class="anli-wenzi">
-						<h1>郑州航空港城市会客厅</h1>
-						<p>郑州航空港经济综合实验区规划局</p>
-					</div>
-					<img class="anli-arrow" src="../../../assets/images/shuzizg/guihua/arrow.jpg">
-					<div class="cle"></div>
-				</div>
-			</router-link>
+			
 
 			<router-link to="/guihua/case/4.html">
 				<img src="../../../assets/images/shuzizg/guihua/img3.jpg" class="anli-pic">
@@ -65,6 +56,18 @@
 					<div class="anli-wenzi">
 						<h1>前海蛇口自贸区展示馆</h1>
 						<p>深圳前海管理局</p>
+					</div>
+					<img class="anli-arrow" src="../../../assets/images/shuzizg/guihua/arrow.jpg">
+					<div class="cle"></div>
+				</div>
+			</router-link>
+
+			<router-link to="/guihua/case/3.html">
+				<img src="../../../assets/images/shuzizg/guihua/img4.jpg" class="anli-pic">
+				<div class="anli-sum">
+					<div class="anli-wenzi">
+						<h1>郑州航空港城市会客厅</h1>
+						<p>郑州航空港经济综合实验区规划局</p>
 					</div>
 					<img class="anli-arrow" src="../../../assets/images/shuzizg/guihua/arrow.jpg">
 					<div class="cle"></div>
@@ -157,6 +160,7 @@
 			</div>
 			<div class="btn btn-jiazai">加载更多案例</div>
 		</div>
+		 <site-map></site-map>
 	</div>
 </template>	
 <script>

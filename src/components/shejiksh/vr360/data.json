@@ -1,180 +1,222 @@
-﻿{
+﻿
+{
   "datalist": [
   {
     "id": "1",
-    "cover": "images/chuangxin/xshiyanshi/case/1/banner.jpg",
-    "coverTitle": "电磁感应互动触摸墙",
-    "videopath": "images/chuangxin/xshiyanshi/case/1/video.mp4",
-    "techapplication": "深圳国际双创周",
-    "applicacenario": "会展、创意活动",
-    "workproperty": "多媒体方案动画",
-    "projectdesc": "深圳作为全国双创周主会场之一，再掀“创客风暴”。今年智能硬件类产品展示明显增多，不仅有穿戴类的VR设备、智能手表，更有智能汽车、智能制作设备。丝路X实验室、丝路舞美、丝路数字视觉营销（ 展览展示）团队团结协作，创新打造的电磁感应互动绘画墙， 全息微缩舞台数字成像， 激光电视数字内容等组成的新媒体数字视觉互动长廊， 传递知识和理念，增强了互动，成为一道受到市民喜爱的现代化社交城市景观，也为观众打开一道想象力的大门。 ",
+    "cover": "images/shejiksh/vr360/case/1/banner.jpg",
+    "coverTitle": "华远中国府演示屏",
+    "videopath": "images/shejiksh/vr360/case/1/video.mp4",
+    "techapplication": "华远地产",
+    "applicacenario": "展示设计、数字投影沙盘、互动展项",
+    "workproperty": "虚拟漫游沙盘系统与人机交互演示屏",
+    "projectdesc": "这套看房系统集合了项目的地理位置、户型设计、楼层等多种详细的产品信息，并能让用户以不同的角度极尽真实地感受到产品的全方面，如采光、景致、高度、装修风格、园林装饰等。集功能性与美观性于一体的营销工具，帮助营销人员快速直接地展现产品特性。 ",
     "achievements": [
-      "images/chuangxin/xshiyanshi/case/1/pic1.jpg",
-      "images/chuangxin/xshiyanshi/case/1/pic2.jpg",
-      "images/chuangxin/xshiyanshi/case/1/pic3.jpg"
+      "images/shejiksh/vr360/case/1/pic1.jpg",
+      "images/shejiksh/vr360/case/1/pic2.jpg",
+      "images/shejiksh/vr360/case/1/pic3.jpg",
+      "images/shejiksh/vr360/case/1/pic4.jpg",
+      "images/dshejiksh/vr360/case/1/pic5.jpg",
+      "images/dshejiksh/vr360/case/1/pic6.jpg"
     ]
   },
   {
     "id": "2",
-    "cover": "images/chuangxin/xshiyanshi/case/2/banner.jpg",
-    "coverTitle": "手势感应<br>LEAP MOTION系统",
-    "videopath": "images/chuangxin/xshiyanshi/case/2/video.mp4",
-    "techapplication": "深圳第十四届文博会",
-    "applicacenario": "会展、创意活动",
-    "workproperty": "手势感应",
-    "projectdesc": "此互动手势装置在文博会开幕第一天吸引众多媒体相继采访，此互动装置通过双眼红外摄像头图像识别计算系统，以超过每秒200帧的速度追踪手部动作，似的画面与手部动作完美同步。现场体验者以手部的互动方式：展开、握拳反掌、上下左右移动，来体验正前方屏幕中的内容切换。通过前方屏幕中场景科技元素，让体验者如穿梭在浩瀚的数字星河，感受手中“掌控”的数字体验。了解福田区文化创意行业息息相关的多面性。",
+    "cover": "images/shejiksh/vr360/case/2/banner.jpg",
+	"coverTitle": "顺络电子汽车产品<br>触控系统",  
+	"videopath": "images/shejiksh/vr360/case/2/video.mp4",  
+    "techapplication": "顺络电子",
+    "applicacenario": "企业展厅、产品营销厅、网站项目展示",
+    "workproperty": "人机交互触控系统",
+    "projectdesc": "这是为顺络电子深圳展厅所设计的产品触控系统，访客可根据自身兴趣或需求与屏幕互动，查看产品的详细信息、汽车的应用详情等。汽车透视的三维效果呈现清晰地将产品应用情况呈现眼前，让信息获取与交流充满互动性、趣味性以及探索性。这类系统不仅可用在汽车上，还可应用到各行各业的产品展示上，比传统的平面展示更为生动直观。", 
     "achievements": [
-      "images/chuangxin/xshiyanshi/case/2/pic1.jpg",
-      "images/chuangxin/xshiyanshi/case/2/pic2.jpg"
+      "images/shejiksh/vr360/case/2/pic1.jpg",
+      "images/shejiksh/vr360/case/2/pic2.jpg",
+      "images/shejiksh/vr360/case/2/pic3.jpg",
+      "images/shejiksh/vr360/case/2/pic4.jpg",
+      "images/shejiksh/vr360/case/2/pic5.jpg",
+      "images/shejiksh/vr360/case/2/pic6.jpg"
     ]
   },
   {
     "id": "3",
-    "cover": "images/chuangxin/xshiyanshi/case/3/banner.jpg",
-    "coverTitle": "隔空交互墙",
-    "videopath": "images/chuangxin/xshiyanshi/case/3/video.mp4",
-    "techapplication": "客户名称暂未公开",
-    "applicacenario": "会展、创意活动",
-    "workproperty": "交互屏",
-    "projectdesc": "交互屏是一种很常见的信息交互手段，为人们所熟知。在这里，我们尝试把体验的距离拉远，这样，全局视角会给人更加不同的感受。这是我们开发这个案例的初衷。在测试中，我们发现，如果空间满足的话，距离屏幕的距离可以更远。这样，隔空操作的神奇感受会更加强烈。同时，需要在地面上做出指示和指引，方便降低学习成本。",
+    "cover": "images/shejiksh/vr360/case/3/banner.jpg",
+    "coverTitle": "综合保税区规划馆沙盘<br>AR望远镜",
+    "videopath": "images/shejiksh/vr360/case/3/video.mp4",
+    "techapplication": "昆明综合保税区",
+    "applicacenario": "展厅或营销厅中的大型、大区位沙盘、儿童乐园、主题展览",
+    "workproperty": "AR望远镜",
+    "projectdesc": "本案适用于展厅或营销厅中的大型、大区位沙盘，让访客在参观时不仅能看到宏观区位，更能深入了解微观信息。通过移动望远镜的角度，可以看到虚拟的画面信息，为参观体验增加趣味性、探索性以及便利性。在互动的同时，访客也因此对项目地段产生更多印象与记忆，营销人员亦能更有效地为客户说明区位价值。", 
     "achievements": [
-      "images/chuangxin/xshiyanshi/case/3/pic1.jpg",
-      "images/chuangxin/xshiyanshi/case/3/pic2.jpg",
-      "images/chuangxin/xshiyanshi/case/3/pic3.jpg",
-      "images/chuangxin/xshiyanshi/case/3/pic4.jpg",
-      "images/chuangxin/xshiyanshi/case/3/pic5.jpg",
-      "images/chuangxin/xshiyanshi/case/3/pic6.jpg"
+      "images/shejiksh/vr360/case/3/pic1.jpg",
+      "images/shejiksh/vr360/case/3/pic2.jpg",
+      "images/shejiksh/vr360/case/3/pic3.jpg",
+      "images/shejiksh/vr360/case/3/pic4.jpg",
+      "images/shejiksh/vr360/case/3/pic5.jpg",
+      "images/shejiksh/vr360/case/3/pic6.jpg" 
     ]
   },
   {
     "id": "4",
-    "cover": "images/chuangxin/xshiyanshi/case/4/banner.jpg",
-    "coverTitle": "滚筒画",
-    "videopath": "images/chuangxin/xshiyanshi/case/4/video.mp4",
-    "techapplication": "客户名称暂未公开",
-    "applicacenario": "教育、艺术展览",
-    "workproperty": "教育互动绘画",
-    "projectdesc": "灵活运用了图像捕捉技术完成了这样一个小创新。通过手持粉刷滚轮涂出画幅局部，当涂画面积达到70%以上时，就会显示完整画幅和信息。这是一个可以广泛应用于儿童教育，文艺机构，美术展览等领域的互动展项。通过互动交互设计，可以拉近观众和高高在上的绘画艺术品的距离，寓教于乐，在娱乐中提高美学修养，增长美术知识。",
+    "cover": "images/shejiksh/vr360/case/4/banner.jpg",
+    "coverTitle": "世茂·前海中心<br>移动端看房系统",
+    "videopath": "images/shejiksh/vr360/case/4/video.mp4",
+    "techapplication": "世贸集团",
+    "applicacenario": "地产展厅、营销厅、网站项目展示",
+    "workproperty": "移动看房系统",
+    "projectdesc": "本案从区位价值、地块价值、项目价值以及品牌价值四大方面展现项目优势，针对置业顾问提供定向传播，访客大数据分析及客源管理，让用户的分享可追溯，分析访客行为数据，并通过有趣直观的呈现方式将大量的数据信息传达到客户手中，让客户产生深刻的印象。具体的数据信息与宏观价值为主要展现内容，客户通过互动能对项目产生初步印象，促进他们下一步深入的了解。良好的营销环境与手段能大大地提升销售效率与成交率。",
     "achievements": [
-      "images/chuangxin/xshiyanshi/case/4/pic1.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic2.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic3.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic4.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic5.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic6.jpg"
+      "images/shejiksh/vr360/case/4/pic1.jpg",
+      "images/shejiksh/vr360/case/4/pic2.jpg",
+      "images/shejiksh/vr360/case/4/pic3.jpg",
+      "images/shejiksh/vr360/case/4/pic4.jpg",
+      "images/shejiksh/vr360/case/4/pic5.jpg",
+      "images/shejiksh/vr360/case/4/pic6.jpg"
     ]
   },
     {
     "id": "5",
-    "cover": "images/chuangxin/xshiyanshi/case/4/banner.jpg",
-    "coverTitle": "滚筒画",
-    "videopath": "images/chuangxin/xshiyanshi/case/4/video.mp4",
-    "techapplication": "客户名称暂未公开",
-    "applicacenario": "教育、艺术展览",
-    "workproperty": "教育互动绘画",
-    "projectdesc": "灵活运用了图像捕捉技术完成了这样一个小创新。通过手持粉刷滚轮涂出画幅局部，当涂画面积达到70%以上时，就会显示完整画幅和信息。这是一个可以广泛应用于儿童教育，文艺机构，美术展览等领域的互动展项。通过互动交互设计，可以拉近观众和高高在上的绘画艺术品的距离，寓教于乐，在娱乐中提高美学修养，增长美术知识。",
+    "cover": "images/shejiksh/vr360/case/5/banner.jpg",
+    "coverTitle": "华润城球幕互动<br>IPAD操控幕",
+    "videopath": "images/shejiksh/vr360/case/5/video.mp4",
+    "techapplication": "华润集团",
+    "applicacenario": "地产展厅、营销厅",
+    "workproperty": "球幕互动IPAD操控幕",	
+    "projectdesc": "本案以大包围的球幕为展现形式，将看房系统嵌入其中。此款设计能让多位访客在不需佩戴任何头戴式设备的情况下，沉浸的、真实的感受到产品的设计、风格以及位置等。不需要到样板间，也能将样板间展示得十分清晰、直观，助力营销最后一公里。此款设计适用于没有样板间或异地营销的产品，让无法看到实物的访客增加购买信心。这类产品不仅可应用于球幕，还可应用于其他各类异形幕，集影片观看与互动与一体。", 
     "achievements": [
-      "images/chuangxin/xshiyanshi/case/4/pic1.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic2.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic3.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic4.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic5.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic6.jpg"
+      "images/shejiksh/vr360/case/5/pic1.jpg",
+      "images/shejiksh/vr360/case/5/pic2.jpg",
+      "images/shejiksh/vr360/case/5/pic3.jpg",
+      "images/shejiksh/vr360/case/5/pic4.jpg",
+      "images/shejiksh/vr360/case/5/pic5.jpg",
+      "images/shejiksh/vr360/case/5/pic6.jpg"
+     
     ]
   },
     {
     "id": "6",
-    "cover": "images/chuangxin/xshiyanshi/case/4/banner.jpg",
-    "coverTitle": "滚筒画",
-    "videopath": "images/chuangxin/xshiyanshi/case/4/video.mp4",
-    "techapplication": "客户名称暂未公开",
-    "applicacenario": "教育、艺术展览",
-    "workproperty": "教育互动绘画",
-    "projectdesc": "灵活运用了图像捕捉技术完成了这样一个小创新。通过手持粉刷滚轮涂出画幅局部，当涂画面积达到70%以上时，就会显示完整画幅和信息。这是一个可以广泛应用于儿童教育，文艺机构，美术展览等领域的互动展项。通过互动交互设计，可以拉近观众和高高在上的绘画艺术品的距离，寓教于乐，在娱乐中提高美学修养，增长美术知识。",
+    "cover": "images/shejiksh/vr360/case/6/banner.jpg",
+    "coverTitle": "兰亭雅居VR互动屏",
+	"videopath": "images/shejiksh/vr360/case/6/video.mp4",	
+    "techapplication": "新奥地产",
+    "applicacenario": "地产展厅、营销厅、网站项目展示",
+    "workproperty": "VR互动屏",
+    "projectdesc": "本案操控界面以中国风园林风为设计理念，契合项目的格调。从区位规划、项目鸟瞰、园林漫游到户型漫游一应俱全，让客户能从多方位、多角度地深入了解项目详情。漫游的动画创作接近人在行走中的视角，还融入景色的四季变换，充满沉浸感与真实感。不同的户型分布、具体户型展示，楼层透视等设计让客户如上帝般随心所欲地浏览产品信息，让营销人员与客户的交流与答疑畅通无阻。",
     "achievements": [
-      "images/chuangxin/xshiyanshi/case/4/pic1.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic2.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic3.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic4.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic5.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic6.jpg"
+      "images/shejiksh/vr360/case/6/pic1.jpg",
+      "images/shejiksh/vr360/case/6/pic2.jpg",
+      "images/shejiksh/vr360/case/6/pic3.jpg",
+      "images/shejiksh/vr360/case/6/pic4.jpg",
+      "images/shejiksh/vr360/case/6/pic5.jpg",
+      "images/shejiksh/vr360/case/6/pic6.jpg"
     ]
   },
     {
     "id": "7",
-    "cover": "images/chuangxin/xshiyanshi/case/4/banner.jpg",
-    "coverTitle": "滚筒画",
-    "videopath": "images/chuangxin/xshiyanshi/case/4/video.mp4",
-    "techapplication": "客户名称暂未公开",
-    "applicacenario": "教育、艺术展览",
-    "workproperty": "教育互动绘画",
-    "projectdesc": "灵活运用了图像捕捉技术完成了这样一个小创新。通过手持粉刷滚轮涂出画幅局部，当涂画面积达到70%以上时，就会显示完整画幅和信息。这是一个可以广泛应用于儿童教育，文艺机构，美术展览等领域的互动展项。通过互动交互设计，可以拉近观众和高高在上的绘画艺术品的距离，寓教于乐，在娱乐中提高美学修养，增长美术知识。",
+    "cover": "images/shejiksh/vr360/case/7/banner.jpg",
+    "coverTitle": "深圳宝安区城市规划馆<br>AR望远镜",
+    "videopath": "images/shejiksh/vr360/case/7/video.mp4",
+    "techapplication": "深圳宝安区政府",
+    "applicacenario": "展厅或营销厅中的大型、大区位沙盘、儿童乐园、主题展览",
+    "workproperty": "AR望远镜",
+    "projectdesc": "宝安区城市规划馆以“滨海宝安，产业名城，活力之区”作为策展主题，本案位于展馆中的大型、大区位沙盘，让访客在参观时不仅能看到宏观宝安区整体，更能深入了解微观规划信息。通过移动望远镜的角度，可以看到虚拟的画面信息，为参观体验增加趣味性、探索性以及便利性。在互动的同时，访客也因此对项目地段产生更多印象与记忆，能更有效地让访客说明区位价值。 ", 	
     "achievements": [
-      "images/chuangxin/xshiyanshi/case/4/pic1.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic2.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic3.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic4.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic5.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic6.jpg"
+      "images/shejiksh/vr360/case/7/pic1.jpg",
+      "images/shejiksh/vr360/case/7/pic2.jpg",
+      "images/shejiksh/vr360/case/7/pic3.jpg",
+      "images/shejiksh/vr360/case/7/pic4.jpg",
+      "images/shejiksh/vr360/case/7/pic5.jpg",
+      "images/shejiksh/vr360/case/7/pic6.jpg",
+      "images/shejiksh/vr360/case/7/pic7.jpg",
+      "images/shejiksh/vr360/case/7/pic8.jpg"
     ]
   },
     {
     "id": "8",
-    "cover": "images/chuangxin/xshiyanshi/case/4/banner.jpg",
-    "coverTitle": "滚筒画",
-    "videopath": "images/chuangxin/xshiyanshi/case/4/video.mp4",
-    "techapplication": "客户名称暂未公开",
-    "applicacenario": "教育、艺术展览",
-    "workproperty": "教育互动绘画",
-    "projectdesc": "灵活运用了图像捕捉技术完成了这样一个小创新。通过手持粉刷滚轮涂出画幅局部，当涂画面积达到70%以上时，就会显示完整画幅和信息。这是一个可以广泛应用于儿童教育，文艺机构，美术展览等领域的互动展项。通过互动交互设计，可以拉近观众和高高在上的绘画艺术品的距离，寓教于乐，在娱乐中提高美学修养，增长美术知识。",
+    "cover": "images/shejiksh/vr360/case/8/banner.jpg",
+    "coverTitle": "龙光·玖龙玺移动端<br>看房系统",
+    "techapplication": "金骏地产",
+    "applicacenario": "地产展厅、营销厅、网站项目展示",
+    "workproperty": "移动端看房系统",
+    "projectdesc": "龙光·玖龙荟整体定位为全体验式港铁连体MALL，参考海岸城打造大品牌生活方式 ，汇聚多元业态，本案从周边环境、商业综合体表现、园林规划及社区配置展现项目优势，针对置业顾问提供定向传播，具体的数据信息与宏观价值为主要展现内容，客户通过互动能对项目产生初步印象，促进他们下一步深入的了解。良好的营销环境与手段能大大地提升销售效率与成交率。", 
     "achievements": [
-      "images/chuangxin/xshiyanshi/case/4/pic1.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic2.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic3.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic4.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic5.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic6.jpg"
+      "images/shejiksh/vr360/case/8/pic1.jpg",
+      "images/shejiksh/vr360/case/8/pic2.jpg",
+      "images/shejiksh/vr360/case/8/pic3.jpg",
+      "images/shejiksh/vr360/case/8/pic4.jpg",
+      "images/shejiksh/vr360/case/8/pic5.jpg",
+      "images/shejiksh/vr360/case/8/pic6.jpg",
+      "images/shejiksh/vr360/case/8/pic7.jpg"
+     
+		
     ]
   },
     {
     "id": "9",
-    "cover": "images/chuangxin/xshiyanshi/case/4/banner.jpg",
-    "coverTitle": "滚筒画",
-    "videopath": "images/chuangxin/xshiyanshi/case/4/video.mp4",
-    "techapplication": "客户名称暂未公开",
-    "applicacenario": "教育、艺术展览",
-    "workproperty": "教育互动绘画",
-    "projectdesc": "灵活运用了图像捕捉技术完成了这样一个小创新。通过手持粉刷滚轮涂出画幅局部，当涂画面积达到70%以上时，就会显示完整画幅和信息。这是一个可以广泛应用于儿童教育，文艺机构，美术展览等领域的互动展项。通过互动交互设计，可以拉近观众和高高在上的绘画艺术品的距离，寓教于乐，在娱乐中提高美学修养，增长美术知识。",
+    "cover": "images/shejiksh/vr360/case/9/banner.jpg",
+    "coverTitle": "鲁能VR看房系统",
+	"videopath": "images/shejiksh/vr360/case/9/video.mp4",
+    "techapplication": "鲁能集团",
+    "applicacenario": "地产展厅、营销厅",
+    "workproperty": "VR看房系统",
+    "projectdesc": "这套VR看房系统集合了项目的地理位置、户型设计、楼层等多种详细的产品信息，并能让用户以不同的角度极尽真实的感受到产品的全方面，如采光、景致、高度、装修风格、园林装饰等。集功能性与美观性于一体的营销工具，帮助营销人员快速直接地展现产品特性。 ",	
     "achievements": [
-      "images/chuangxin/xshiyanshi/case/4/pic1.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic2.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic3.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic4.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic5.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic6.jpg"
+      "images/shejiksh/vr360/case/9/pic1.jpg",
+      "images/shejiksh/vr360/case/9/pic2.jpg",
+      "images/shejiksh/vr360/case/9/pic3.jpg",
+      "images/shejiksh/vr360/case/9/pic4.jpg",
+      "images/shejiksh/vr360/case/9/pic5.jpg",
+      "images/shejiksh/vr360/case/9/pic6.jpg"
+     
+     
     ]
   },
-    {
+  
+	  
+	{
     "id": "10",
-    "cover": "images/chuangxin/xshiyanshi/case/4/banner.jpg",
-    "coverTitle": "滚筒画",
-    "videopath": "images/chuangxin/xshiyanshi/case/4/video.mp4",
-    "techapplication": "客户名称暂未公开",
-    "applicacenario": "教育、艺术展览",
-    "workproperty": "教育互动绘画",
-    "projectdesc": "灵活运用了图像捕捉技术完成了这样一个小创新。通过手持粉刷滚轮涂出画幅局部，当涂画面积达到70%以上时，就会显示完整画幅和信息。这是一个可以广泛应用于儿童教育，文艺机构，美术展览等领域的互动展项。通过互动交互设计，可以拉近观众和高高在上的绘画艺术品的距离，寓教于乐，在娱乐中提高美学修养，增长美术知识。",
+    "cover": "images/shejiksh/vr360/case/10/banner.jpg",
+    "coverTitle": "丝路灵镜1.0：多人联机<br>VR会议系统",
+	"videopath": "images/shejiksh/vr360/case/10/video.mp4",
+    "techapplication": "为房地产客户量身打造",
+    "applicacenario": "地产展厅、营销厅、办公区域",
+    "workproperty": "VR会议系统",
+    "projectdesc": "本项目为房地产商客户量身打造的多人联机VR系统，包含了VR虚拟沙盘、数字城市区位配套漫游、虚拟项目沙盘业态导览、虚拟样板间、虚拟IMAX影院、虚拟会议室等。我们可以根据商业客户的切身需求、设置热点、定制空间、定制体验像电影盗梦空间一样，满足您在不同空间中随意切换、沉浸式体验、直观获取信息和伙伴信息同步分享等诸多个性化需求。这就是我们新推出的丝路灵境1.0：多人联机VR系统。无论您在哪里，只要人手配备一台电脑、高性能网速、VR眼镜，就可以享受以下前所未有的感观体验。打破地域、时间界限，多人同时进入同一个虚拟的会议空间。在虚拟的世界里，人与人之间面对面地展示、互动、交流。由会议主持人演示，大家在虚拟世界里自由地观看和讨论，进行优雅的社交体验。三维虚拟图形图像创建的场景灵活多样，展示比现实更详尽、更宏观的信息。 ",	
     "achievements": [
-      "images/chuangxin/xshiyanshi/case/4/pic1.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic2.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic3.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic4.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic5.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic6.jpg"
+      "images/shejiksh/vr360/case/10/pic1.jpg",
+      "images/shejiksh/vr360/case/10/pic2.jpg",
+      "images/shejiksh/vr360/case/10/pic3.jpg",
+      "images/shejiksh/vr360/case/10/pic4.jpg",
+      "images/shejiksh/vr360/case/10/pic5.jpg",
+      "images/shejiksh/vr360/case/10/pic6.jpg",
+      "images/shejiksh/vr360/case/10/pic7.jpg",
+      "images/shejiksh/vr360/case/10/pic8.jpg"
+     
     ]
-  }
+  } , 
 
-
+	  
+	  	{
+    "id": "11",
+    "cover": "images/duomeiti/daxingshow/case/9/banner.jpg",
+    "coverTitle": "碧桂园武汉品牌发布会",
+	"videopath": "images/duomeiti/daxingshow/case/9/video.mp4",
+    "techapplication": "太仓娄碧桂园房地产开发有限公司",
+    "applicacenario": "发布会、年会、大型活动",
+    "workproperty": "舞台表演",
+    "projectdesc": "将数字内容与表演者内容完美结合，营造亦幻亦真的魔幻体验，表演者恰到好处的演绎，恰似节目的名字，让每一位观众的心都沉浸在魔幻之中，这也是碧桂园碧定中心想要传达给观众的。 ",	
+    "achievements": [
+      "images/duomeiti/daxingshow/case/9/pic1.jpg",
+      "images/duomeiti/daxingshow/case/9/pic2.jpg",
+      "images/duomeiti/daxingshow/case/9/pic3.jpg",
+      "images/duomeiti/daxingshow/case/9/pic4.jpg",
+      "images/duomeiti/daxingshow/case/9/pic5.jpg",
+      "images/duomeiti/daxingshow/case/9/pic6.jpg",
+      "images/duomeiti/daxingshow/case/9/pic7.jpg",
+      "images/duomeiti/daxingshow/case/9/pic8.jpg"
+     
+    ]
+  }  
+	  
 
 ]
 

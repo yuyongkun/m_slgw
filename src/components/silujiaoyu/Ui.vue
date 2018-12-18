@@ -116,5 +116,6 @@
 			</div>
 			<div class="btn">预约七天免费试听</div>
 		</div>
+		<site-map></site-map>
 	</div>
 </template>

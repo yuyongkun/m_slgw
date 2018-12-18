@@ -1,181 +1,209 @@
 ﻿{
   "datalist": [
-  {
-    "id": "1",
-    "cover": "images/chuangxin/xshiyanshi/case/1/banner.jpg",
-    "coverTitle": "电磁感应互动触摸墙",
-    "videopath": "images/chuangxin/xshiyanshi/case/1/video.mp4",
-    "techapplication": "深圳国际双创周",
-    "applicacenario": "会展、创意活动",
-    "workproperty": "多媒体方案动画",
-    "projectdesc": "深圳作为全国双创周主会场之一，再掀“创客风暴”。今年智能硬件类产品展示明显增多，不仅有穿戴类的VR设备、智能手表，更有智能汽车、智能制作设备。丝路X实验室、丝路舞美、丝路数字视觉营销（ 展览展示）团队团结协作，创新打造的电磁感应互动绘画墙， 全息微缩舞台数字成像， 激光电视数字内容等组成的新媒体数字视觉互动长廊， 传递知识和理念，增强了互动，成为一道受到市民喜爱的现代化社交城市景观，也为观众打开一道想象力的大门。 ",
-    "achievements": [
-      "images/chuangxin/xshiyanshi/case/1/pic1.jpg",
-      "images/chuangxin/xshiyanshi/case/1/pic2.jpg",
-      "images/chuangxin/xshiyanshi/case/1/pic3.jpg"
-    ]
-  },
-  {
-    "id": "2",
-    "cover": "images/chuangxin/xshiyanshi/case/2/banner.jpg",
-    "coverTitle": "手势感应<br>LEAP MOTION系统",
-    "videopath": "images/chuangxin/xshiyanshi/case/2/video.mp4",
-    "techapplication": "深圳第十四届文博会",
-    "applicacenario": "会展、创意活动",
-    "workproperty": "手势感应",
-    "projectdesc": "此互动手势装置在文博会开幕第一天吸引众多媒体相继采访，此互动装置通过双眼红外摄像头图像识别计算系统，以超过每秒200帧的速度追踪手部动作，似的画面与手部动作完美同步。现场体验者以手部的互动方式：展开、握拳反掌、上下左右移动，来体验正前方屏幕中的内容切换。通过前方屏幕中场景科技元素，让体验者如穿梭在浩瀚的数字星河，感受手中“掌控”的数字体验。了解福田区文化创意行业息息相关的多面性。",
-    "achievements": [
-      "images/chuangxin/xshiyanshi/case/2/pic1.jpg",
-      "images/chuangxin/xshiyanshi/case/2/pic2.jpg"
-    ]
-  },
-  {
-    "id": "3",
-    "cover": "images/chuangxin/xshiyanshi/case/3/banner.jpg",
-    "coverTitle": "隔空交互墙",
-    "videopath": "images/chuangxin/xshiyanshi/case/3/video.mp4",
-    "techapplication": "客户名称暂未公开",
-    "applicacenario": "会展、创意活动",
-    "workproperty": "交互屏",
-    "projectdesc": "交互屏是一种很常见的信息交互手段，为人们所熟知。在这里，我们尝试把体验的距离拉远，这样，全局视角会给人更加不同的感受。这是我们开发这个案例的初衷。在测试中，我们发现，如果空间满足的话，距离屏幕的距离可以更远。这样，隔空操作的神奇感受会更加强烈。同时，需要在地面上做出指示和指引，方便降低学习成本。",
-    "achievements": [
-      "images/chuangxin/xshiyanshi/case/3/pic1.jpg",
-      "images/chuangxin/xshiyanshi/case/3/pic2.jpg",
-      "images/chuangxin/xshiyanshi/case/3/pic3.jpg",
-      "images/chuangxin/xshiyanshi/case/3/pic4.jpg",
-      "images/chuangxin/xshiyanshi/case/3/pic5.jpg",
-      "images/chuangxin/xshiyanshi/case/3/pic6.jpg"
-    ]
-  },
-  {
-    "id": "4",
-    "cover": "images/chuangxin/xshiyanshi/case/4/banner.jpg",
-    "coverTitle": "滚筒画",
-    "videopath": "images/chuangxin/xshiyanshi/case/4/video.mp4",
-    "techapplication": "客户名称暂未公开",
-    "applicacenario": "教育、艺术展览",
-    "workproperty": "教育互动绘画",
-    "projectdesc": "灵活运用了图像捕捉技术完成了这样一个小创新。通过手持粉刷滚轮涂出画幅局部，当涂画面积达到70%以上时，就会显示完整画幅和信息。这是一个可以广泛应用于儿童教育，文艺机构，美术展览等领域的互动展项。通过互动交互设计，可以拉近观众和高高在上的绘画艺术品的距离，寓教于乐，在娱乐中提高美学修养，增长美术知识。",
-    "achievements": [
-      "images/chuangxin/xshiyanshi/case/4/pic1.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic2.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic3.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic4.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic5.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic6.jpg"
-    ]
-  },
     {
-    "id": "5",
-    "cover": "images/chuangxin/xshiyanshi/case/4/banner.jpg",
-    "coverTitle": "滚筒画",
-    "videopath": "images/chuangxin/xshiyanshi/case/4/video.mp4",
-    "techapplication": "客户名称暂未公开",
-    "applicacenario": "教育、艺术展览",
-    "workproperty": "教育互动绘画",
-    "projectdesc": "灵活运用了图像捕捉技术完成了这样一个小创新。通过手持粉刷滚轮涂出画幅局部，当涂画面积达到70%以上时，就会显示完整画幅和信息。这是一个可以广泛应用于儿童教育，文艺机构，美术展览等领域的互动展项。通过互动交互设计，可以拉近观众和高高在上的绘画艺术品的距离，寓教于乐，在娱乐中提高美学修养，增长美术知识。",
-    "achievements": [
-      "images/chuangxin/xshiyanshi/case/4/pic1.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic2.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic3.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic4.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic5.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic6.jpg"
-    ]
-  },
+      "id": "1",
+      "cover": "images/duomeiti/yingshidonghua/case/1/banner.jpg",
+      "coverTitle": "汉京中心宣传片",
+      "videopath": "images/duomeiti/yingshidonghua/case/1/video.mp4",
+      "techapplication": "汉京集团",
+      "applicacenario": "营销厅 各类视频媒介",
+      "workproperty": "宣传片",
+      "projectdesc": "以视觉的力量，用镜头代替旁白，以光影讲述情绪，为汉京中心注入新的生命情绪，为建筑奏响“尽致锋芒”的城市礼序。用不一样的手法与角度去雕刻一座建筑的性格与文化，制造每一个与众不同。",
+      "achievements": [
+        "images/duomeiti/yingshidonghua/case/1/img1.jpg",
+        "images/duomeiti/yingshidonghua/case/1/img2.jpg",
+        "images/duomeiti/yingshidonghua/case/1/img3.jpg",
+        "images/duomeiti/yingshidonghua/case/1/img4.jpg",
+        "images/duomeiti/yingshidonghua/case/1/img5.jpg",
+        "images/duomeiti/yingshidonghua/case/1/img6.jpg",
+        "images/duomeiti/yingshidonghua/case/1/img7.jpg"
+      ]
+    },
     {
-    "id": "6",
-    "cover": "images/chuangxin/xshiyanshi/case/4/banner.jpg",
-    "coverTitle": "滚筒画",
-    "videopath": "images/chuangxin/xshiyanshi/case/4/video.mp4",
-    "techapplication": "客户名称暂未公开",
-    "applicacenario": "教育、艺术展览",
-    "workproperty": "教育互动绘画",
-    "projectdesc": "灵活运用了图像捕捉技术完成了这样一个小创新。通过手持粉刷滚轮涂出画幅局部，当涂画面积达到70%以上时，就会显示完整画幅和信息。这是一个可以广泛应用于儿童教育，文艺机构，美术展览等领域的互动展项。通过互动交互设计，可以拉近观众和高高在上的绘画艺术品的距离，寓教于乐，在娱乐中提高美学修养，增长美术知识。",
-    "achievements": [
-      "images/chuangxin/xshiyanshi/case/4/pic1.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic2.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic3.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic4.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic5.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic6.jpg"
-    ]
-  },
+      "id": "2",
+      "cover": "images/duomeiti/yingshidonghua/case/2/banner.jpg",
+      "coverTitle": "真理永恒",
+      "videopath": "images/duomeiti/yingshidonghua/case/2/video.mp4",
+      "techapplication": "新华社",
+      "applicacenario": "十九大相关活动、国内外各大媒体",
+      "workproperty": "十九大宣传片、文化、历史、定格动画",
+      "projectdesc": "以一本书的奇幻漂流为主线索，生动再现马克思主义中国化以及中国特色社会主义理论体系诞生的全过程。以书页定格动画、CG动画与老照片相结合的形式来展现中国特色社会主义理论的起源，以及在革命发展过程，并用这套理论体系所带来的成果彰显中国自信。",
+      "achievements": [
+        "images/duomeiti/yingshidonghua/case/2/img1.jpg",
+        "images/duomeiti/yingshidonghua/case/2/img2.jpg",
+        "images/duomeiti/yingshidonghua/case/2/img3.jpg",
+        "images/duomeiti/yingshidonghua/case/2/img4.jpg",
+        "images/duomeiti/yingshidonghua/case/2/img5.jpg",
+        "images/duomeiti/yingshidonghua/case/2/img6.jpg",
+        "images/duomeiti/yingshidonghua/case/2/img7.jpg",
+        "images/duomeiti/yingshidonghua/case/2/img8.jpg"
+      ]
+    },
     {
-    "id": "7",
-    "cover": "images/chuangxin/xshiyanshi/case/4/banner.jpg",
-    "coverTitle": "滚筒画",
-    "videopath": "images/chuangxin/xshiyanshi/case/4/video.mp4",
-    "techapplication": "客户名称暂未公开",
-    "applicacenario": "教育、艺术展览",
-    "workproperty": "教育互动绘画",
-    "projectdesc": "灵活运用了图像捕捉技术完成了这样一个小创新。通过手持粉刷滚轮涂出画幅局部，当涂画面积达到70%以上时，就会显示完整画幅和信息。这是一个可以广泛应用于儿童教育，文艺机构，美术展览等领域的互动展项。通过互动交互设计，可以拉近观众和高高在上的绘画艺术品的距离，寓教于乐，在娱乐中提高美学修养，增长美术知识。",
-    "achievements": [
-      "images/chuangxin/xshiyanshi/case/4/pic1.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic2.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic3.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic4.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic5.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic6.jpg"
-    ]
-  },
+      "id": "3",
+      "cover": "images/duomeiti/yingshidonghua/case/3/banner.jpg",
+      "coverTitle": "上合之合",
+      "videopath": "images/duomeiti/yingshidonghua/case/3/video.mp4",
+      "techapplication": "新华社",
+      "applicacenario": "上合青岛峰会、国内外各大媒体",
+      "workproperty": "上合峰会宣传片、国际盛事",
+      "projectdesc": "《上合之合》寓意上海合作组织的亲密合作、和睦融洽。以水墨相融的表现手法，展现了中国传统文化以及“和合”的精神，也是在点滴中寓意着八国和谐相容的关系。水墨3D结合，虽耗时但却能拥有更直观、更具冲击力的观感，宛如观看电影般，让内容“活”了起来。",
+      "achievements": [
+        "images/duomeiti/yingshidonghua/case/3/img1.jpg",
+        "images/duomeiti/yingshidonghua/case/3/img2.jpg",
+        "images/duomeiti/yingshidonghua/case/3/img3.jpg",
+        "images/duomeiti/yingshidonghua/case/3/img4.jpg",
+        "images/duomeiti/yingshidonghua/case/3/img5.jpg",
+        "images/duomeiti/yingshidonghua/case/3/img6.jpg",
+        "images/duomeiti/yingshidonghua/case/3/img7.jpg",
+        "images/duomeiti/yingshidonghua/case/3/img8.jpg"
+      ]
+    },
     {
-    "id": "8",
-    "cover": "images/chuangxin/xshiyanshi/case/4/banner.jpg",
-    "coverTitle": "滚筒画",
-    "videopath": "images/chuangxin/xshiyanshi/case/4/video.mp4",
-    "techapplication": "客户名称暂未公开",
-    "applicacenario": "教育、艺术展览",
-    "workproperty": "教育互动绘画",
-    "projectdesc": "灵活运用了图像捕捉技术完成了这样一个小创新。通过手持粉刷滚轮涂出画幅局部，当涂画面积达到70%以上时，就会显示完整画幅和信息。这是一个可以广泛应用于儿童教育，文艺机构，美术展览等领域的互动展项。通过互动交互设计，可以拉近观众和高高在上的绘画艺术品的距离，寓教于乐，在娱乐中提高美学修养，增长美术知识。",
-    "achievements": [
-      "images/chuangxin/xshiyanshi/case/4/pic1.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic2.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic3.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic4.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic5.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic6.jpg"
-    ]
-  },
+      "id": "4",
+      "cover": "images/duomeiti/yingshidonghua/case/4/banner.jpg",
+      "coverTitle": "保利·堂悦品牌宣传片",
+      "videopath": "images/duomeiti/yingshidonghua/case/4/video.mp4",
+      "techapplication": "保利发展控股集团股份有限公司",
+      "applicacenario": "品牌活动、各类视频媒介",
+      "workproperty": "品牌宣传片、营销展厅",
+      "projectdesc": "以一个精致无比、晶莹剔透的玉佩开篇，栩栩如生的玉鹤展翅飞翔，生动而尊贵地彰显了“堂悦”产品的名门身份。活字印刷工艺、长城建筑画面串联转变，展现了保利“和者筑善”的品牌理念，让住宅成为文化底蕴的载体。",
+      "achievements": [
+        "images/duomeiti/yingshidonghua/case/4/img1.jpg",
+        "images/duomeiti/yingshidonghua/case/4/img2.jpg",
+        "images/duomeiti/yingshidonghua/case/4/img3.jpg",
+        "images/duomeiti/yingshidonghua/case/4/img4.jpg",
+        "images/duomeiti/yingshidonghua/case/4/img5.jpg",
+        "images/duomeiti/yingshidonghua/case/4/img6.jpg",
+        "images/duomeiti/yingshidonghua/case/4/img7.jpg"
+      ]
+    },
     {
-    "id": "9",
-    "cover": "images/chuangxin/xshiyanshi/case/4/banner.jpg",
-    "coverTitle": "滚筒画",
-    "videopath": "images/chuangxin/xshiyanshi/case/4/video.mp4",
-    "techapplication": "客户名称暂未公开",
-    "applicacenario": "教育、艺术展览",
-    "workproperty": "教育互动绘画",
-    "projectdesc": "灵活运用了图像捕捉技术完成了这样一个小创新。通过手持粉刷滚轮涂出画幅局部，当涂画面积达到70%以上时，就会显示完整画幅和信息。这是一个可以广泛应用于儿童教育，文艺机构，美术展览等领域的互动展项。通过互动交互设计，可以拉近观众和高高在上的绘画艺术品的距离，寓教于乐，在娱乐中提高美学修养，增长美术知识。",
-    "achievements": [
-      "images/chuangxin/xshiyanshi/case/4/pic1.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic2.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic3.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic4.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic5.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic6.jpg"
-    ]
-  },
+      "id": "5",
+      "cover": "images/duomeiti/yingshidonghua/case/5/banner.jpg",
+      "coverTitle": "南方航空安全须知宣传影片",
+      "videopath": "images/duomeiti/yingshidonghua/case/5/video.mp4",
+      "techapplication": "南方航空",
+      "applicacenario": "国内国际客机起飞前乘机安全宣传",
+      "workproperty": "安全宣传片",
+      "projectdesc": "南方航空沿用至今的安全须知宣传影片。以水墨风格美观而简约地展现了繁琐的安全须知要点，既优美又直观易懂，在传达了安全信息的同时向世界呈现了中国风以及南方之美。",
+      "achievements": [
+        "images/duomeiti/yingshidonghua/case/5/img1.jpg",
+        "images/duomeiti/yingshidonghua/case/5/img2.jpg",
+        "images/duomeiti/yingshidonghua/case/5/img3.jpg",
+        "images/duomeiti/yingshidonghua/case/5/img4.jpg",
+        "images/duomeiti/yingshidonghua/case/5/img5.jpg",
+        "images/duomeiti/yingshidonghua/case/5/img6.jpg",
+        "images/duomeiti/yingshidonghua/case/5/img7.jpg",
+        "images/duomeiti/yingshidonghua/case/5/img8.jpg"
+      ]
+    },
     {
-    "id": "10",
-    "cover": "images/chuangxin/xshiyanshi/case/4/banner.jpg",
-    "coverTitle": "滚筒画",
-    "videopath": "images/chuangxin/xshiyanshi/case/4/video.mp4",
-    "techapplication": "客户名称暂未公开",
-    "applicacenario": "教育、艺术展览",
-    "workproperty": "教育互动绘画",
-    "projectdesc": "灵活运用了图像捕捉技术完成了这样一个小创新。通过手持粉刷滚轮涂出画幅局部，当涂画面积达到70%以上时，就会显示完整画幅和信息。这是一个可以广泛应用于儿童教育，文艺机构，美术展览等领域的互动展项。通过互动交互设计，可以拉近观众和高高在上的绘画艺术品的距离，寓教于乐，在娱乐中提高美学修养，增长美术知识。",
-    "achievements": [
-      "images/chuangxin/xshiyanshi/case/4/pic1.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic2.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic3.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic4.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic5.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic6.jpg"
-    ]
-  }
+      "id": "6",
+      "cover": "images/duomeiti/yingshidonghua/case/6/banner.jpg",
+      "coverTitle": "港珠澳大桥钢箱梁制</br>造演示影片",
+      "videopath": "images/duomeiti/yingshidonghua/case/6/video.mp4",
+      "techapplication": "客戶暂未公开",
+      "applicacenario": "工程项目竞标",
+      "workproperty": "设计方案提案片",
+      "projectdesc": "港珠澳大桥跨越伶仃洋，东接香港，西接广东珠海和澳门，总长约55公里，对连接粤港澳三地并保持区域的繁荣稳定具有重大意义。丝路视觉作为建筑动画技术的领航者，为港珠澳大桥前期设计提报方案提供三维效果动画影片，为港珠澳大桥插上“视觉的翅膀”。如今港珠澳大桥正式开通，丝路视觉对其的美好祝愿也一同飞驰翱翔。",
+      "achievements": [
+        "images/duomeiti/yingshidonghua/case/6/img1.jpg",
+        "images/duomeiti/yingshidonghua/case/6/img2.jpg",
+        "images/duomeiti/yingshidonghua/case/6/img3.jpg",
+        "images/duomeiti/yingshidonghua/case/6/img4.jpg",
+        "images/duomeiti/yingshidonghua/case/6/img5.jpg",
+        "images/duomeiti/yingshidonghua/case/6/img6.jpg",
+        "images/duomeiti/yingshidonghua/case/6/img7.jpg",
+        "images/duomeiti/yingshidonghua/case/6/img8.jpg"
+      ]
+    },
+    {
+      "id": "7",
+      "cover": "images/duomeiti/yingshidonghua/case/7/banner.jpg",
+      "coverTitle": "乾隆南巡图</br>第十二卷：回鸾",
+      "videopath": "images/duomeiti/yingshidonghua/case/7/video.mp4",
+      "techapplication": "中国国家博物馆 ",
+      "applicacenario": "博物馆数字互动公众体验",
+      "workproperty": "文物复原、数字复原影片",
+      "projectdesc": "中国国家博物馆“永久珍藏”的一级展品，《乾隆南巡图》第十二卷回鸾的数字复原影片。将尘封已久的历史以全新的数字视觉科技重新呈现在世人眼前，将静态的古老画卷无限逼真地复原为动态影片，让世界更清楚地看到中国渊源已久的历史文化，为中国优秀传统文化传承贡献一份力量",
+      "achievements": [
+        "images/duomeiti/yingshidonghua/case/7/img1.jpg",
+        "images/duomeiti/yingshidonghua/case/7/img2.jpg",
+        "images/duomeiti/yingshidonghua/case/7/img3.jpg",
+        "images/duomeiti/yingshidonghua/case/7/img4.jpg",
+        "images/duomeiti/yingshidonghua/case/7/img5.jpg",
+        "images/duomeiti/yingshidonghua/case/7/img6.jpg",
+        "images/duomeiti/yingshidonghua/case/7/img7.jpg",
+        "images/duomeiti/yingshidonghua/case/7/img8.jpg"
+      ]
+    },
+    {
+      "id": "8",
+      "cover": "images/duomeiti/yingshidonghua/case/8/banner.jpg",
+      "coverTitle": "建发家居「木竟」</br>紫檀宣传片",
+      "videopath": "images/duomeiti/yingshidonghua/case/8/video.mp4",
+      "techapplication": "厦门建发集团有限公司",
+      "applicacenario": "营销场所、各类视频媒介",
+      "workproperty": "产品宣传片",
+      "projectdesc": "影片从“材、质、藏、制、艺、道”六个方面描述了一场时间与工艺、价值与艺术、人与自然、传统与现代的对话。细腻、精致的画面将紫檀的质感表现得淋漓尽致，慢而不燥的镜头将产品技艺娓娓道来，如同讲故事般让影片更具观赏意味。",
+      "achievements": [
+        "images/duomeiti/yingshidonghua/case/8/img1.jpg",
+        "images/duomeiti/yingshidonghua/case/8/img2.jpg",
+        "images/duomeiti/yingshidonghua/case/8/img3.jpg",
+        "images/duomeiti/yingshidonghua/case/8/img4.jpg",
+        "images/duomeiti/yingshidonghua/case/8/img5.jpg",
+        "images/duomeiti/yingshidonghua/case/8/img6.jpg",
+        "images/duomeiti/yingshidonghua/case/8/img7.jpg",
+        "images/duomeiti/yingshidonghua/case/8/img8.jpg"
+
+      ]
+    },
+    {
+      "id": "9",
+      "cover": "images/duomeiti/yingshidonghua/case/9/banner.jpg",
+      "coverTitle": "清远长隆国际森林度假区</br>规划宣传片",
+      "videopath": "images/duomeiti/yingshidonghua/case/9/video.mp4",
+      "techapplication": "清远长隆投资有限公司",
+      "applicacenario": "营销场所、各类视频媒介",
+      "workproperty": "主题乐园宣传片",
+      "projectdesc": "影片开篇清晰地展现了项目优秀的地理位置，从宏观到微观，从全局大景致到不同人群的游玩场景，把度假区每个规划与亮点都以精致细腻的三维动画清晰生动地展现眼前，如同看到了未来壮观而美好的清远娱乐王国。",
+      "achievements": [
+        "images/duomeiti/yingshidonghua/case/9/img1.jpg",
+        "images/duomeiti/yingshidonghua/case/9/img2.jpg",
+        "images/duomeiti/yingshidonghua/case/9/img3.jpg",
+        "images/duomeiti/yingshidonghua/case/9/img4.jpg",
+        "images/duomeiti/yingshidonghua/case/9/img5.jpg",
+        "images/duomeiti/yingshidonghua/case/9/img6.jpg",
+        "images/duomeiti/yingshidonghua/case/9/img7.jpg",
+        "images/duomeiti/yingshidonghua/case/9/img8.jpg"
+
+      ]
+    },
+    {
+      "id": "10",
+      "cover": "images/duomeiti/yingshidonghua/case/10/banner.jpg",
+      "coverTitle": "深圳湾湾汇招商片",
+      "videopath": "images/duomeiti/yingshidonghua/case/10/video.mp4",
+      "techapplication": "深圳市地铁集团有限公司",
+      "applicacenario": "营销场所、各类视频媒介",
+      "workproperty": "招商宣传片",
+      "projectdesc": "无限璀璨，汇于一湾。以一封邀请函为开篇，深圳湾以其独有的魅力聚集世界各地的精英，为他们开启不同的高端生活方式。这是一个成功人士的美好故事，同时也是见证深圳湾璀璨的影片。",
+      "achievements": [
+        "images/duomeiti/yingshidonghua/case/10/img1.jpg",
+        "images/duomeiti/yingshidonghua/case/10/img2.jpg",
+        "images/duomeiti/yingshidonghua/case/10/img3.jpg",
+        "images/duomeiti/yingshidonghua/case/10/img4.jpg",
+        "images/duomeiti/yingshidonghua/case/10/img5.jpg",
+        "images/duomeiti/yingshidonghua/case/10/img6.jpg",
+        "images/duomeiti/yingshidonghua/case/10/img7.jpg",
+        "images/duomeiti/yingshidonghua/case/10/img8.jpg"
+
+      ]
+    }
 
 
 
-]
+  ]
 
 }

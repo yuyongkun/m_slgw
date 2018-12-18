@@ -1,198 +1,227 @@
-﻿{
+﻿
+{
   "datalist": [
   {
     "id": "1",
-    "cover": "images/chuangxin/xshiyanshi/case/1/banner.jpg",
-    "coverTitle": "电磁感应互动触摸墙",
-    "videopath": "images/chuangxin/xshiyanshi/case/1/video.mp4",
-    "techapplication": "深圳国际双创周",
-    "applicacenario": "会展、创意活动",
-    "workproperty": "多媒体方案动画",
-    "projectdesc": "深圳作为全国双创周主会场之一，再掀“创客风暴”。今年智能硬件类产品展示明显增多，不仅有穿戴类的VR设备、智能手表，更有智能汽车、智能制作设备。丝路X实验室、丝路舞美、丝路数字视觉营销（ 展览展示）团队团结协作，创新打造的电磁感应互动绘画墙， 全息微缩舞台数字成像， 激光电视数字内容等组成的新媒体数字视觉互动长廊， 传递知识和理念，增强了互动，成为一道受到市民喜爱的现代化社交城市景观，也为观众打开一道想象力的大门。 ",
+    "cover": "images/duomeiti/daxingshow/case/0/banner.jpg",
+    "coverTitle": "科创嘉年华科幻剧场<br>《明日之城》",
+    "videopath": "images/duomeiti/daxingshow/case/0/video.mp4",
+    "techapplication": "上汽集团",
+    "applicacenario": "品牌活动、汽车发布会、大型展览活动",
+    "workproperty": "沉浸式科幻舞台、多屏幕互动、剧场式演绎",
+    "projectdesc": "这次丝路视觉为上汽创作的超时空沉浸式科幻舞台秀《明日之城》，是一场集舞蹈语言、数字内容、视觉科技、音乐、灯光于一体的震撼表演，将冰屏、地幕、纱幕、四分之一的球幕以及圆屏高度结合、灵活运用，为观众带来超强的沉浸感、科幻感以及场景感体验。 ",
     "achievements": [
-      "images/chuangxin/xshiyanshi/case/1/pic1.jpg",
-      "images/chuangxin/xshiyanshi/case/1/pic2.jpg",
-      "images/chuangxin/xshiyanshi/case/1/pic3.jpg"
+      "images/duomeiti/daxingshow/case/0/img1.jpg",
+      "images/duomeiti/daxingshow/case/0/img2.jpg",
+      "images/duomeiti/daxingshow/case/0/img3.jpg",
+      "images/duomeiti/daxingshow/case/0/img4.jpg",
+      "images/dduomeiti/daxingshow/case/0/img5.jpg"
     ]
   },
   {
     "id": "2",
-    "cover": "images/chuangxin/xshiyanshi/case/2/banner.jpg",
-    "coverTitle": "手势感应<br>LEAP MOTION系统",
-    "videopath": "images/chuangxin/xshiyanshi/case/2/video.mp4",
-    "techapplication": "深圳第十四届文博会",
-    "applicacenario": "会展、创意活动",
-    "workproperty": "手势感应",
-    "projectdesc": "此互动手势装置在文博会开幕第一天吸引众多媒体相继采访，此互动装置通过双眼红外摄像头图像识别计算系统，以超过每秒200帧的速度追踪手部动作，似的画面与手部动作完美同步。现场体验者以手部的互动方式：展开、握拳反掌、上下左右移动，来体验正前方屏幕中的内容切换。通过前方屏幕中场景科技元素，让体验者如穿梭在浩瀚的数字星河，感受手中“掌控”的数字体验。了解福田区文化创意行业息息相关的多面性。",
+    "cover": "images/duomeiti/daxingshow/case/01/banner.jpg",
+	"coverTitle": "力帆时骏新车发布会<br>《雷霆神骏》",  
+	"videopath": "images/duomeiti/daxingshow/case/01/video.mp4",  
+    "techapplication": "力帆时骏集团",
+    "applicacenario": "产品发布会、商业活动、媒体活动",
+    "workproperty": "数字舞台、产品震撼亮相",
+    "projectdesc": "因地制宜，利用舞台以及三折幕结合，创造了一个具有沉浸感的产品开场秀。将舞者的表演与三维数字内容完美配合，营造出真假难辨的魔幻舞台，为产品的出场与亮相制造气氛，带动观众的现场情绪。最后，将产品从三维中“变”到现实中来，惊艳而震撼。", 
     "achievements": [
-      "images/chuangxin/xshiyanshi/case/2/pic1.jpg",
-      "images/chuangxin/xshiyanshi/case/2/pic2.jpg"
+      "images/duomeiti/daxingshow/case/01/img1.jpg",
+      "images/duomeiti/daxingshow/case/01/img2.jpg",
+      "images/duomeiti/daxingshow/case/01/img3.jpg",
+      "images/duomeiti/daxingshow/case/01/img4.jpg",
+      "images/duomeiti/daxingshow/case/01/img5.jpg",
+      "images/duomeiti/daxingshow/case/01/img6.jpg",
+      "images/duomeiti/daxingshow/case/01/img7.jpg",
+      "images/duomeiti/daxingshow/case/01/img7.jpg"
     ]
   },
   {
     "id": "3",
-    "cover": "images/chuangxin/xshiyanshi/case/3/banner.jpg",
-    "coverTitle": "隔空交互墙",
-    "videopath": "images/chuangxin/xshiyanshi/case/3/video.mp4",
-    "techapplication": "客户名称暂未公开",
-    "applicacenario": "会展、创意活动",
-    "workproperty": "交互屏",
-    "projectdesc": "交互屏是一种很常见的信息交互手段，为人们所熟知。在这里，我们尝试把体验的距离拉远，这样，全局视角会给人更加不同的感受。这是我们开发这个案例的初衷。在测试中，我们发现，如果空间满足的话，距离屏幕的距离可以更远。这样，隔空操作的神奇感受会更加强烈。同时，需要在地面上做出指示和指引，方便降低学习成本。",
+    "cover": "images/duomeiti/daxingshow/case/1/banner.jpg",
+    "coverTitle": "星城热恋",
+    "videopath": "images/duomeiti/daxingshow/case/1/video.mp4",
+    "techapplication": "暂未公开",
+    "applicacenario": "城市公共空间",
+    "workproperty": "城市事件、无人机表演",
+    "projectdesc": "这是由丝路视觉编创与艺术指导的777架无人机表演《星城热恋》，在2018年8月17日湖南卫视七夕特别节目《2018快乐中国—爱情歌会》中直播亮相。无人机在天空的每个舞步，展现的每个图案都经过丝路视觉精心酝酿与设计，在巨大的天幕舞台上用五彩迷人的灯光与绚烂斑斓的舞步演绎着七夕故事。", 
     "achievements": [
-      "images/chuangxin/xshiyanshi/case/3/pic1.jpg",
-      "images/chuangxin/xshiyanshi/case/3/pic2.jpg",
-      "images/chuangxin/xshiyanshi/case/3/pic3.jpg",
-      "images/chuangxin/xshiyanshi/case/3/pic4.jpg",
-      "images/chuangxin/xshiyanshi/case/3/pic5.jpg",
-      "images/chuangxin/xshiyanshi/case/3/pic6.jpg"
+      "images/duomeiti/daxingshow/case/1/img1.jpg",
+      "images/duomeiti/daxingshow/case/1/img2.jpg",
+      "images/duomeiti/daxingshow/case/1/img3.jpg",
+      "images/duomeiti/daxingshow/case/1/img4.jpg",
+      "images/duomeiti/daxingshow/case/1/img5.jpg",
+      "images/duomeiti/daxingshow/case/1/img6.jpg",
+      "images/duomeiti/daxingshow/case/1/img7.jpg",
+      "images/duomeiti/daxingshow/case/1/img8.jpg"
     ]
   },
   {
     "id": "4",
-    "cover": "images/chuangxin/xshiyanshi/case/4/banner.jpg",
-    "coverTitle": "滚筒画",
-    "videopath": "images/chuangxin/xshiyanshi/case/4/video.mp4",
-    "techapplication": "客户名称暂未公开",
-    "applicacenario": "教育、艺术展览",
-    "workproperty": "教育互动绘画",
-    "projectdesc": "灵活运用了图像捕捉技术完成了这样一个小创新。通过手持粉刷滚轮涂出画幅局部，当涂画面积达到70%以上时，就会显示完整画幅和信息。这是一个可以广泛应用于儿童教育，文艺机构，美术展览等领域的互动展项。通过互动交互设计，可以拉近观众和高高在上的绘画艺术品的距离，寓教于乐，在娱乐中提高美学修养，增长美术知识。",
+    "cover": "images/duomeiti/daxingshow/case/2/banner.jpg",
+    "coverTitle": "太阳马戏全国巡演发布会",
+    "videopath": "images/duomeiti/daxingshow/case/2/video.mp4",
+    "techapplication": "暂未公开",
+    "applicacenario": "大型活动、公共广场",
+    "workproperty": "城市名片、大型水幕秀、文化新科技",
+    "projectdesc": "这是丝路视觉为引进太阳马戏《KOOZA》秀所做的发布会舞美全案设计，将舞台设计成打开“礼盒”的样子，从“礼盒”之中“诞生”太阳马戏《KOOZA》秀发布会内容，寓意为大家呈现一份国际视觉大礼。利用折角立体舞台、无人机、虚拟视觉效果影像结合，创造了一个别开生面、令人难忘的场景化、故事化的发布会。",
     "achievements": [
-      "images/chuangxin/xshiyanshi/case/4/pic1.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic2.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic3.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic4.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic5.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic6.jpg"
+      "images/duomeiti/daxingshow/case/2/img1.jpg",
+      "images/duomeiti/daxingshow/case/2/img2.jpg",
+      "images/duomeiti/daxingshow/case/2/img3.jpg",
+      "images/duomeiti/daxingshow/case/2/img4.jpg",
+      "images/duomeiti/daxingshow/case/2/img5.jpg",
+      "images/duomeiti/daxingshow/case/2/img6.jpg",
+      "images/duomeiti/daxingshow/case/2/img7.jpg",
+      "images/duomeiti/daxingshow/case/2/img8.jpg"
+     
     ]
   },
     {
     "id": "5",
-    "cover": "images/chuangxin/xshiyanshi/case/4/banner.jpg",
-    "coverTitle": "滚筒画",
-    "videopath": "images/chuangxin/xshiyanshi/case/4/video.mp4",
-    "techapplication": "客户名称暂未公开",
-    "applicacenario": "教育、艺术展览",
-    "workproperty": "教育互动绘画",
-    "projectdesc": "灵活运用了图像捕捉技术完成了这样一个小创新。通过手持粉刷滚轮涂出画幅局部，当涂画面积达到70%以上时，就会显示完整画幅和信息。这是一个可以广泛应用于儿童教育，文艺机构，美术展览等领域的互动展项。通过互动交互设计，可以拉近观众和高高在上的绘画艺术品的距离，寓教于乐，在娱乐中提高美学修养，增长美术知识。",
+    "cover": "images/duomeiti/daxingshow/case/3/banner.jpg",
+    "coverTitle": "电建地产南京品牌发布会<br>《悦动金陵》",
+    "videopath": "images/duomeiti/daxingshow/case/3/video.mp4",
+    "techapplication": "中国电建地产集团有限公司",
+    "applicacenario": "品牌活动、产品发布会",
+    "workproperty": "科技舞台、故事化、场景舞台",	
+    "projectdesc": "中国水电行业第一品牌——中国电建进驻南京六朝古都品牌的发布会舞台作品《悦动金陵》。丝路视觉深挖品牌内涵，提取“六朝”、“六盘”和“六悦”三大关键信息组成整场秀的三大板块，寓意着电建的过去与未来、传承与发展，视觉上结合了当地的历史文化与无人机科技演绎，以及舞台演员的剧情表达，创造了一个个科技与数字舞美融合的最佳瞬间。", 
     "achievements": [
-      "images/chuangxin/xshiyanshi/case/4/pic1.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic2.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic3.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic4.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic5.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic6.jpg"
+      "images/duomeiti/daxingshow/case/3/img1.jpg",
+      "images/duomeiti/daxingshow/case/3/img2.jpg",
+      "images/duomeiti/daxingshow/case/3/img3.jpg",
+      "images/duomeiti/daxingshow/case/3/img4.jpg",
+      "images/duomeiti/daxingshow/case/3/img5.jpg",
+      "images/duomeiti/daxingshow/case/3/img6.jpg",
+      "images/duomeiti/daxingshow/case/3/img7.jpg",
+      "images/duomeiti/daxingshow/case/3/img8.jpg"
     ]
   },
     {
     "id": "6",
-    "cover": "images/chuangxin/xshiyanshi/case/4/banner.jpg",
-    "coverTitle": "滚筒画",
-    "videopath": "images/chuangxin/xshiyanshi/case/4/video.mp4",
-    "techapplication": "客户名称暂未公开",
-    "applicacenario": "教育、艺术展览",
-    "workproperty": "教育互动绘画",
-    "projectdesc": "灵活运用了图像捕捉技术完成了这样一个小创新。通过手持粉刷滚轮涂出画幅局部，当涂画面积达到70%以上时，就会显示完整画幅和信息。这是一个可以广泛应用于儿童教育，文艺机构，美术展览等领域的互动展项。通过互动交互设计，可以拉近观众和高高在上的绘画艺术品的距离，寓教于乐，在娱乐中提高美学修养，增长美术知识。",
+    "cover": "images/duomeiti/daxingshow/case/4/banner.jpg",
+    "coverTitle": "电建地产武汉光谷<br>品牌发布会《时空频率》",
+	"videopath": "images/duomeiti/daxingshow/case/4/video.mp4",	
+    "techapplication": "中建三局武汉光谷投资发展有限公司",
+    "applicacenario": "品牌活动、产品发布会",
+    "workproperty": "纱幕舞台、三维舞台、品牌发布会",
+    "projectdesc": "这是武汉首场纱幕秀，将演员动作与纱幕巧妙结合，形成一个完美的三维演绎空间。全篇分为三个部分，以水为元素演绎，配合不同的互动特效诠释洺悦府、泷悦府、泛悦府三个系列理念，最终三个系列标识合为中国电建logo结束。舞台演员身穿LED服，并配合电流、三维空间等科技元素超越时空，带观众领略未来的科技生活。",
     "achievements": [
-      "images/chuangxin/xshiyanshi/case/4/pic1.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic2.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic3.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic4.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic5.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic6.jpg"
+      "images/duomeiti/daxingshow/case/4/img1.jpg",
+      "images/duomeiti/daxingshow/case/4/img2.jpg",
+      "images/duomeiti/daxingshow/case/4/img3.jpg"
     ]
   },
     {
     "id": "7",
-    "cover": "images/chuangxin/xshiyanshi/case/4/banner.jpg",
-    "coverTitle": "滚筒画",
-    "videopath": "images/chuangxin/xshiyanshi/case/4/video.mp4",
-    "techapplication": "客户名称暂未公开",
-    "applicacenario": "教育、艺术展览",
-    "workproperty": "教育互动绘画",
-    "projectdesc": "灵活运用了图像捕捉技术完成了这样一个小创新。通过手持粉刷滚轮涂出画幅局部，当涂画面积达到70%以上时，就会显示完整画幅和信息。这是一个可以广泛应用于儿童教育，文艺机构，美术展览等领域的互动展项。通过互动交互设计，可以拉近观众和高高在上的绘画艺术品的距离，寓教于乐，在娱乐中提高美学修养，增长美术知识。",
+    "cover": "images/duomeiti/daxingshow/case/5/banner.jpg",
+    "coverTitle": "水井坊钓鱼台酒店<br>线下品鉴会",
+    "videopath": "images/duomeiti/daxingshow/case/5/video.mp4",
+    "techapplication": "四川水井坊股份有限公司",
+    "applicacenario": "品牌活动、产品发布会",
+    "workproperty": "主题活动互动投影、精妙投影",
+    "projectdesc": "丝路视觉联合上睿企划将视觉科技搬上餐桌，让美酒佳肴与视觉享受相映成趣，让古代文化和现代化科技完美交融，给宾客留下了深刻难忘的印象。将3D Mapping技术运用到餐桌上，将水井坊的历史、文化和酿酒工艺表现的淋漓尽致。在水井坊的“大师典藏系列”新品陈列上运用了全息幻影成像技术，展示产品独有的“双轮发酵双蒸馏”高标准艺术。并通过油墨导电交互投影墙将著名“摄影诗人”孙郡的摄影作品变成一幅动静皆宜的交互式现代化艺术品。 ", 	
     "achievements": [
-      "images/chuangxin/xshiyanshi/case/4/pic1.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic2.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic3.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic4.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic5.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic6.jpg"
+      "images/duomeiti/daxingshow/case/5/img1.jpg",
+      "images/duomeiti/daxingshow/case/5/img2.jpg",
+      "images/duomeiti/daxingshow/case/5/img3.jpg",
+      "images/duomeiti/daxingshow/case/5/img4.jpg",
+      "images/duomeiti/daxingshow/case/5/img5.jpg",
+      "images/duomeiti/daxingshow/case/5/img6.jpg",
+      "images/duomeiti/daxingshow/case/5/img7.jpg",
+      "images/duomeiti/daxingshow/case/5/img8.jpg"
     ]
   },
     {
     "id": "8",
-    "cover": "images/chuangxin/xshiyanshi/case/4/banner.jpg",
-    "coverTitle": "滚筒画",
-    "videopath": "images/chuangxin/xshiyanshi/case/4/video.mp4",
-    "techapplication": "客户名称暂未公开",
-    "applicacenario": "教育、艺术展览",
-    "workproperty": "教育互动绘画",
-    "projectdesc": "灵活运用了图像捕捉技术完成了这样一个小创新。通过手持粉刷滚轮涂出画幅局部，当涂画面积达到70%以上时，就会显示完整画幅和信息。这是一个可以广泛应用于儿童教育，文艺机构，美术展览等领域的互动展项。通过互动交互设计，可以拉近观众和高高在上的绘画艺术品的距离，寓教于乐，在娱乐中提高美学修养，增长美术知识。",
+    "cover": "images/duomeiti/daxingshow/case/6/banner.jpg",
+    "coverTitle": "保利度假山海关发布会<br>3D Mapping",
+    "videopath": "images/duomeiti/daxingshow/case/6/video.mp4",
+    "techapplication": "保利发展控股集团股份有限公司",
+    "applicacenario": "城市事件、产品发布、品牌活动",
+    "workproperty": "历史建筑、墙体投影、发布会",
+    "projectdesc": "保利地产携全新度假产品与长城第一次握手，并在“天下第一关”山海关长城完成600年来首次的3D mapping商业秀。<br>丝路视觉将具象化的故事提炼升华为品牌内涵，梳理了国之形象、建筑传奇、军事守御等一系列关键词，结合现场舞美和灯光，为观众带来极致的全方位视听体验。挑战视觉感官极限，唤醒沉睡的山海关。 ", 
     "achievements": [
-      "images/chuangxin/xshiyanshi/case/4/pic1.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic2.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic3.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic4.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic5.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic6.jpg"
+      "images/duomeiti/daxingshow/case/6/img1.jpg",
+      "images/duomeiti/daxingshow/case/6/img2.jpg",
+      "images/duomeiti/daxingshow/case/6/img3.jpg",
+      "images/duomeiti/daxingshow/case/6/img4.jpg",
+      "images/duomeiti/daxingshow/case/6/img5.jpg",
+      "images/duomeiti/daxingshow/case/6/img6.jpg"
+     
+		
     ]
   },
     {
     "id": "9",
-    "cover": "images/chuangxin/xshiyanshi/case/4/banner.jpg",
-    "coverTitle": "滚筒画",
-    "videopath": "images/chuangxin/xshiyanshi/case/4/video.mp4",
-    "techapplication": "客户名称暂未公开",
-    "applicacenario": "教育、艺术展览",
-    "workproperty": "教育互动绘画",
-    "projectdesc": "灵活运用了图像捕捉技术完成了这样一个小创新。通过手持粉刷滚轮涂出画幅局部，当涂画面积达到70%以上时，就会显示完整画幅和信息。这是一个可以广泛应用于儿童教育，文艺机构，美术展览等领域的互动展项。通过互动交互设计，可以拉近观众和高高在上的绘画艺术品的距离，寓教于乐，在娱乐中提高美学修养，增长美术知识。",
+    "cover": "images/duomeiti/daxingshow/case/7/banner.jpg",
+    "coverTitle": "大宁金茂府品牌发布会<br>《寻觅传奇》",
+	"videopath": "images/duomeiti/daxingshow/case/7/video.mp4",
+    "techapplication": "方兴地产（中国）有限公司",
+    "applicacenario": "发布会、年会",
+    "workproperty": "舞台表演、发布会、数字舞台",
+    "projectdesc": "一场声光电的极致震撼舞台show，通过沉浸式的舞台画面设计与现代芭蕾的完美结合，将科技与经典交汇成传奇，正如大宁金茂府的品质，让观者在美的陶醉与科技的震撼之时，看到金茂品牌的成长价值。 ",	
     "achievements": [
-      "images/chuangxin/xshiyanshi/case/4/pic1.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic2.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic3.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic4.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic5.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic6.jpg"
+      "images/duomeiti/daxingshow/case/7/img1.jpg",
+      "images/duomeiti/daxingshow/case/7/img2.jpg",
+      "images/duomeiti/daxingshow/case/7/img3.jpg",
+      "images/duomeiti/daxingshow/case/7/img4.jpg",
+      "images/duomeiti/daxingshow/case/7/img5.jpg",
+      "images/duomeiti/daxingshow/case/7/img6.jpg",
+      "images/duomeiti/daxingshow/case/7/img7.jpg",
+      "images/duomeiti/daxingshow/case/7/img8.jpg"
+     
     ]
   },
-    {
+  
+	  
+	{
     "id": "10",
-    "cover": "images/chuangxin/xshiyanshi/case/4/banner.jpg",
-    "coverTitle": "滚筒画",
-    "videopath": "images/chuangxin/xshiyanshi/case/4/video.mp4",
-    "techapplication": "客户名称暂未公开",
-    "applicacenario": "教育、艺术展览",
-    "workproperty": "教育互动绘画",
-    "projectdesc": "灵活运用了图像捕捉技术完成了这样一个小创新。通过手持粉刷滚轮涂出画幅局部，当涂画面积达到70%以上时，就会显示完整画幅和信息。这是一个可以广泛应用于儿童教育，文艺机构，美术展览等领域的互动展项。通过互动交互设计，可以拉近观众和高高在上的绘画艺术品的距离，寓教于乐，在娱乐中提高美学修养，增长美术知识。",
+    "cover": "images/duomeiti/daxingshow/case/8/banner.jpg",
+    "coverTitle": "复华未来地产发布会",
+	"videopath": "images/duomeiti/daxingshow/case/8/video.mp4",
+    "techapplication": "暂未公开",
+    "applicacenario": "发布会、活动庆典、大型活动",
+    "workproperty": "舞台表演、沉浸式、数字舞台、震撼感",
+    "projectdesc": "由丝路视觉全程为复华置地打造的“未来·已来”主题品牌发布会，100多张手绘图、200多场会议、26天制作时间、600多条输出视频文件，最终呈现300秒特效时长、2400秒3D沉浸制作，在各位演员嘉宾的配合下，赢得1300位到场观者雷动的掌声。 ",	
     "achievements": [
-      "images/chuangxin/xshiyanshi/case/4/pic1.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic2.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic3.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic4.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic5.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic6.jpg"
+      "images/duomeiti/daxingshow/case/8/img1.jpg",
+      "images/duomeiti/daxingshow/case/8/img2.jpg",
+      "images/duomeiti/daxingshow/case/8/img3.jpg",
+      "images/duomeiti/daxingshow/case/8/img4.jpg",
+      "images/duomeiti/daxingshow/case/8/img5.jpg",
+      "images/duomeiti/daxingshow/case/8/img6.jpg",
+      "images/duomeiti/daxingshow/case/8/img7.jpg",
+      "images/duomeiti/daxingshow/case/8/img8.jpg"
+     
     ]
-  },
-    {
+  } , 
+
+	  
+	  	{
     "id": "11",
-    "cover": "images/chuangxin/xshiyanshi/case/4/banner.jpg",
-    "coverTitle": "滚筒画",
-    "videopath": "images/chuangxin/xshiyanshi/case/4/video.mp4",
-    "techapplication": "客户名称暂未公开",
-    "applicacenario": "教育、艺术展览",
-    "workproperty": "教育互动绘画",
-    "projectdesc": "灵活运用了图像捕捉技术完成了这样一个小创新。通过手持粉刷滚轮涂出画幅局部，当涂画面积达到70%以上时，就会显示完整画幅和信息。这是一个可以广泛应用于儿童教育，文艺机构，美术展览等领域的互动展项。通过互动交互设计，可以拉近观众和高高在上的绘画艺术品的距离，寓教于乐，在娱乐中提高美学修养，增长美术知识。",
+    "cover": "images/duomeiti/daxingshow/case/9/banner.jpg",
+    "coverTitle": "碧桂园武汉品牌发布会",
+	"videopath": "images/duomeiti/daxingshow/case/9/video.mp4",
+    "techapplication": "太仓娄碧桂园房地产开发有限公司",
+    "applicacenario": "发布会、年会、大型活动",
+    "workproperty": "舞台表演",
+    "projectdesc": "将数字内容与表演者内容完美结合，营造亦幻亦真的魔幻体验，表演者恰到好处的演绎，恰似节目的名字，让每一位观众的心都沉浸在魔幻之中，这也是碧桂园碧定中心想要传达给观众的。 ",	
     "achievements": [
-      "images/chuangxin/xshiyanshi/case/4/pic1.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic2.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic3.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic4.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic5.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic6.jpg"
+      "images/duomeiti/daxingshow/case/9/img1.jpg",
+      "images/duomeiti/daxingshow/case/9/img2.jpg",
+      "images/duomeiti/daxingshow/case/9/img3.jpg",
+      "images/duomeiti/daxingshow/case/9/img4.jpg",
+      "images/duomeiti/daxingshow/case/9/img5.jpg",
+      "images/duomeiti/daxingshow/case/9/img6.jpg",
+      "images/duomeiti/daxingshow/case/9/img7.jpg",
+      "images/duomeiti/daxingshow/case/9/img8.jpg"
+     
     ]
-  }
-
-
+  }  
+	  
 
 ]
 

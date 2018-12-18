@@ -78,4 +78,5 @@ export default {
   padding-top: 24%;
 }
 
+
 </style>

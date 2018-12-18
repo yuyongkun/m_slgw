@@ -170,7 +170,7 @@
 			</div>
 			<div class="btn btn-jiazai">加载更多案例</div>
 		</div>
-
+<site-map></site-map>
 	</div>
 </template>	
 <script>
