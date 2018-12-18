@@ -1,69 +1,177 @@
-﻿{
+﻿
+{
   "datalist": [
   {
     "id": "1",
-    "cover": "images/chuangxin/xshiyanshi/case/1/banner.jpg",
-    "coverTitle": "电磁感应互动触摸墙",
-    "videopath": "images/chuangxin/xshiyanshi/case/1/video.mp4",
-    "techapplication": "深圳国际双创周",
-    "applicacenario": "会展、创意活动",
-    "workproperty": "多媒体方案动画",
-    "projectdesc": "深圳作为全国双创周主会场之一，再掀“创客风暴”。今年智能硬件类产品展示明显增多，不仅有穿戴类的VR设备、智能手表，更有智能汽车、智能制作设备。丝路X实验室、丝路舞美、丝路数字视觉营销（ 展览展示）团队团结协作，创新打造的电磁感应互动绘画墙， 全息微缩舞台数字成像， 激光电视数字内容等组成的新媒体数字视觉互动长廊， 传递知识和理念，增强了互动，成为一道受到市民喜爱的现代化社交城市景观，也为观众打开一道想象力的大门。 ",
+    "cover": "images/duomeiti/chengshixx/case/1/banner.jpg",
+    "coverTitle": "深圳WTA年终总决赛<br>申办片",
+    "videopath": "images/duomeiti/chengshixx/case/1/video.mp4",
+    "techapplication": "暂未公开",
+    "applicacenario": "赛事申办、活动宣传",
+    "workproperty": "大型赛事、城市名片、申办片",
+    "projectdesc": "将深圳城市的实拍画面与三维画面完美结合，用数字视觉精彩呈现国际化大都市深圳承办国际性体育赛事的软硬件实力。影片用于世界女子全网公开赛的城市申办，助力深圳成功获得申办权。此外，影片还向全世界展示了一座年仅40岁年轻城市的生机与活力，彰显了城市的多元、多维、多向领域的建树与缩影。 ",
     "achievements": [
-      "images/chuangxin/xshiyanshi/case/1/pic1.jpg",
-      "images/chuangxin/xshiyanshi/case/1/pic2.jpg",
-      "images/chuangxin/xshiyanshi/case/1/pic3.jpg"
+      "images/duomeiti/chengshixx/case/1/pic1.jpg",
+      "images/duomeiti/chengshixx/case/1/pic2.jpg",
+      "images/duomeiti/chengshixx/case/1/pic3.jpg",
+      "images/duomeiti/chengshixx/case/1/pic4.jpg",
+      "images/duomeiti/chengshixx/case/1/pic5.jpg",
+      "images/duomeiti/chengshixx/case/1/pic6.jpg"
     ]
   },
   {
     "id": "2",
-    "cover": "images/chuangxin/xshiyanshi/case/2/banner.jpg",
-    "coverTitle": "手势感应<br>LEAP MOTION系统",
-    "videopath": "images/chuangxin/xshiyanshi/case/2/video.mp4",
-    "techapplication": "深圳第十四届文博会",
-    "applicacenario": "会展、创意活动",
-    "workproperty": "手势感应",
-    "projectdesc": "此互动手势装置在文博会开幕第一天吸引众多媒体相继采访，此互动装置通过双眼红外摄像头图像识别计算系统，以超过每秒200帧的速度追踪手部动作，似的画面与手部动作完美同步。现场体验者以手部的互动方式：展开、握拳反掌、上下左右移动，来体验正前方屏幕中的内容切换。通过前方屏幕中场景科技元素，让体验者如穿梭在浩瀚的数字星河，感受手中“掌控”的数字体验。了解福田区文化创意行业息息相关的多面性。",
+    "cover": "images/duomeiti/chengshixx/case/2/banner.jpg",
+	"coverTitle": "海南海航日月广场<br>音乐喷泉水舞秀",  
+	"videopath": "images/duomeiti/chengshixx/case/2/video.mp4",  
+    "techapplication": "海航集团",
+    "applicacenario": "大型活动、公共广场",
+    "workproperty": "城市名片、大型水幕秀、文化新科技",
+    "projectdesc": "从海航集团本身提取故事元素，以“鲲”的成长经历寓意海航发展经历，并将中国传统文化和现代数字科技完美结合，让音乐、喷泉、水幕投影、灯光秀融为一体，打造一种美轮美奂、真实而极具沉浸感与冲击力的户外视觉体验。", 
     "achievements": [
-      "images/chuangxin/xshiyanshi/case/2/pic1.jpg",
-      "images/chuangxin/xshiyanshi/case/2/pic2.jpg"
+      "images/duomeiti/chengshixx/case/2/pic1.jpg",
+      "images/duomeiti/chengshixx/case/2/pic2.jpg",
+      "images/duomeiti/chengshixx/case/2/pic3.jpg",
+      "images/duomeiti/chengshixx/case/2/pic4.jpg",
+      "images/duomeiti/chengshixx/case/2/pic5.jpg",
+      "images/duomeiti/chengshixx/case/2/pic6.jpg",
+      "images/duomeiti/chengshixx/case/2/pic7.jpg"
     ]
   },
   {
     "id": "3",
-    "cover": "images/chuangxin/xshiyanshi/case/3/banner.jpg",
-    "coverTitle": "隔空交互墙",
-    "videopath": "images/chuangxin/xshiyanshi/case/3/video.mp4",
-    "techapplication": "客户名称暂未公开",
-    "applicacenario": "会展、创意活动",
-    "workproperty": "交互屏",
-    "projectdesc": "交互屏是一种很常见的信息交互手段，为人们所熟知。在这里，我们尝试把体验的距离拉远，这样，全局视角会给人更加不同的感受。这是我们开发这个案例的初衷。在测试中，我们发现，如果空间满足的话，距离屏幕的距离可以更远。这样，隔空操作的神奇感受会更加强烈。同时，需要在地面上做出指示和指引，方便降低学习成本。",
+    "cover": "images/duomeiti/chengshixx/case/3/banner.jpg",
+    "coverTitle": "贵州四洞沟景区行进式<br>奇幻夜游《四洞仙境》",
+    "videopath": "images/duomeiti/chengshixx/case/3/video.mp4",
+    "techapplication": "北京中兴天合国际旅游文化有限公司",
+    "applicacenario": "旅游景区",
+    "workproperty": "赤水文化、行进式夜游",
+    "projectdesc": "为赤水四洞沟景区量身定制的夜游活动，挖掘传统自然景区的全新一面，是2017年中国旅游演出-新增剧目票房五强。丝路视觉把赤水特产“金钗石斛”与民间传说结合一起，利用景区当地自然条件创造出真实、沉浸式、奇幻的行进式震撼视觉体验，营造出一个立体式视、听、感的奇妙之夜，让人宛若置身“人间仙境”。", 
     "achievements": [
-      "images/chuangxin/xshiyanshi/case/3/pic1.jpg",
-      "images/chuangxin/xshiyanshi/case/3/pic2.jpg",
-      "images/chuangxin/xshiyanshi/case/3/pic3.jpg",
-      "images/chuangxin/xshiyanshi/case/3/pic4.jpg",
-      "images/chuangxin/xshiyanshi/case/3/pic5.jpg",
-      "images/chuangxin/xshiyanshi/case/3/pic6.jpg"
+      "images/duomeiti/chengshixx/case/3/pic1.jpg",
+      "images/duomeiti/chengshixx/case/3/pic2.jpg",
+      "images/duomeiti/chengshixx/case/3/pic3.jpg",
+      "images/duomeiti/chengshixx/case/3/pic4.jpg",
+      "images/duomeiti/chengshixx/case/3/pic5.jpg",
+      "images/duomeiti/chengshixx/case/3/pic6.jpg"
     ]
   },
   {
     "id": "4",
-    "cover": "images/chuangxin/xshiyanshi/case/4/banner.jpg",
-    "coverTitle": "滚筒画",
-    "videopath": "images/chuangxin/xshiyanshi/case/4/video.mp4",
-    "techapplication": "客户名称暂未公开",
-    "applicacenario": "教育、艺术展览",
-    "workproperty": "教育互动绘画",
-    "projectdesc": "灵活运用了图像捕捉技术完成了这样一个小创新。通过手持粉刷滚轮涂出画幅局部，当涂画面积达到70%以上时，就会显示完整画幅和信息。这是一个可以广泛应用于儿童教育，文艺机构，美术展览等领域的互动展项。通过互动交互设计，可以拉近观众和高高在上的绘画艺术品的距离，寓教于乐，在娱乐中提高美学修养，增长美术知识。",
+    "cover": "images/duomeiti/chengshixx/case/4/banner.jpg",
+    "coverTitle": "武汉沿江城市灯光秀",
+    "videopath": "images/duomeiti/chengshixx/case/4/video.mp4",
+    "techapplication": "暂未公开",
+    "applicacenario": "城市中心",
+    "workproperty": "灯光秀、不规则建筑投影",
+    "projectdesc": "灯光秀创意以水为主题，于18公里的长江边，以两江交汇、荆楚山水、武汉文化三个篇章为划分，用白鳍豚、仙鹤、水杉树叶、黄鹤楼等概念元素展示了武汉的特点。灯光画面与水面相互呼应。当白鳍豚游过山高水长，就好似它们在水中雀跃翻腾一样，让功能性灭绝的国家一级野生保护动物——白鳍豚又鲜活了起来。武汉文化以全新面貌呈现于世界眼前。",
     "achievements": [
-      "images/chuangxin/xshiyanshi/case/4/pic1.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic2.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic3.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic4.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic5.jpg",
-      "images/chuangxin/xshiyanshi/case/4/pic6.jpg"
+      "images/duomeiti/chengshixx/case/4/pic1.jpg",
+      "images/duomeiti/chengshixx/case/4/pic2.jpg",
+      "images/duomeiti/chengshixx/case/4/pic3.jpg",
+      "images/duomeiti/chengshixx/case/4/pic4.jpg",
+      "images/duomeiti/chengshixx/case/4/pic5.jpg",
+      "images/duomeiti/chengshixx/case/4/pic6.jpg"
+     
     ]
-  }]
+  },
+    {
+    "id": "5",
+    "cover": "images/duomeiti/chengshixx/case/5/banner.jpg",
+    "coverTitle": "凯利希德尼亚太空城动画",
+    "videopath": "images/duomeiti/chengshixx/case/5/video.mp4",
+    "techapplication": "凯鹏建设控股（深圳）有限公司",
+    "applicacenario": "科技展馆、综合游艺城",
+    "workproperty": "科幻CG",	
+    "projectdesc": "自文明伊始的那一刻起，人类对太空的探索就从未止步。为了探索地外生存技术，凯利太空城应运而生。影片以精致的三维动画生动展现了太空城的各个区域的设计、科技与概念，以及超前的生活理念与场景，描绘出栩栩如生、令人憧憬的未来世界。", 
+    "achievements": [
+      "images/duomeiti/chengshixx/case/5/pic1.jpg",
+      "images/duomeiti/chengshixx/case/5/pic2.jpg",
+      "images/duomeiti/chengshixx/case/5/pic3.jpg",
+      "images/duomeiti/chengshixx/case/5/pic4.jpg",
+      "images/duomeiti/chengshixx/case/5/pic5.jpg",
+      "images/duomeiti/chengshixx/case/5/pic6.jpg"
+    ]
+  },
+    {
+    "id": "6",
+    "cover": "images/duomeiti/chengshixx/case/6/banner.jpg",
+    "coverTitle": "招商蛇口区域<br>推广宣传影片",
+	"videopath": "images/duomeiti/chengshixx/case/6/video.mp4",	
+    "techapplication": "深圳招商房地产有限公司",
+    "applicacenario": "城市宣传、区域招商",
+    "workproperty": "区域规划片、产业招商",
+    "projectdesc": "每一座享誉世界的先锋城市，必然存在一处集城市之精华的湾区。21世纪第二个十年，共同瞩目深圳西海岸。影片以电影级别大全景多维度技术与国际主流剪辑语言，实拍与三维的完美结合清晰展现出湾区的战略、产业、艺术、生态等国际优势，让人为这座属于世界的海湾而感到兴奋与憧憬。",
+	
+    "achievements": [
+      "images/duomeiti/chengshixx/case/6/pic1.jpg",
+      "images/duomeiti/chengshixx/case/6/pic2.jpg",
+      "images/duomeiti/chengshixx/case/6/pic3.jpg",
+      "images/duomeiti/chengshixx/case/6/pic4.jpg",
+      "images/duomeiti/chengshixx/case/6/pic5.jpg",
+      "images/duomeiti/chengshixx/case/6/pic6.jpg"
+    ]
+  },
+    {
+    "id": "7",
+    "cover": "images/duomeiti/chengshixx/case/7/banner.jpg",
+    "coverTitle": "中建钢构博物馆<br>未来展厅影片",
+    "videopath": "images/duomeiti/chengshixx/case/7/video.mp4",
+    "techapplication": "中建钢构有限公司",
+    "applicacenario": "科技展馆",
+    "workproperty": "科幻微电影、品牌故事片",
+    "projectdesc": "在公元2500年，勇于探索的人类已经在离地球40光年的水瓶星系内找到一个适合人类居住的星球——R星。在R星上，人类用最新的科技和最环保的居住理念来打造自己的新家园，人工智能、3D打印技术、装配式技术，而钢材料作为绿色环保的建筑材料成为建设未来城市、空间站等的主流材料，并承载着人们的文明与希望。 ", 	
+    "achievements": [
+      "images/duomeiti/chengshixx/case/7/pic1.jpg",
+      "images/duomeiti/chengshixx/case/7/pic2.jpg",
+      "images/duomeiti/chengshixx/case/7/pic3.jpg",
+      "images/duomeiti/chengshixx/case/7/pic4.jpg",
+      "images/duomeiti/chengshixx/case/7/pic5.jpg",
+      "images/duomeiti/chengshixx/case/7/pic6.jpg"
+    ]
+  },
+    {
+    "id": "8",
+    "cover": "images/duomeiti/chengshixx/case/8/banner.jpg",
+    "coverTitle": "广州南沙规划馆影片",
+    "videopath": "images/duomeiti/chengshixx/case/8/video.mp4",
+    "techapplication": "广州中交邮轮母港投资发展有限公司",
+    "applicacenario": "政府接待、招商引资",
+    "workproperty": "招商影片",
+    "projectdesc": "因展厅主要定位为政府接待和招商引资，故此在空间布局和参观流线设计上充分围绕总体规划进行四周延展，让参观者了解南沙明珠湾起步区总体规划后，详细了解分项内容。设计采用南沙本土地貌特色“桑基鱼塘”为设计灵感，巧妙的运用独特地貌特点进行空间的平面划分。同时，设计上将“桑基鱼塘”抽象化的在天花与地面延展，既不影响空间立面的同时，又能够让参观者充分感受到设计初衷。 ", 
+    "achievements": [
+      "images/duomeiti/chengshixx/case/8/pic1.jpg",
+      "images/duomeiti/chengshixx/case/8/pic2.jpg",
+      "images/duomeiti/chengshixx/case/8/pic3.jpg",
+      "images/duomeiti/chengshixx/case/8/pic4.jpg",
+      "images/duomeiti/chengshixx/case/8/pic5.jpg",
+      "images/duomeiti/chengshixx/case/8/pic6.jpg"
+     
+		
+    ]
+  },
+    {
+    "id": "9",
+    "cover": "images/duomeiti/chengshixx/case/9/banner.jpg",
+    "coverTitle": "前海规划馆影片",
+	"videopath": "images/duomeiti/chengshixx/case/9/video.mp4",
+    "techapplication": "深圳市前海开发投资控股有限公司",
+    "applicacenario": "投标申报、展馆介绍",
+    "workproperty": "3D动画、项目介绍说明",
+    "projectdesc": "通过本片要展现深圳前海规划馆的设计逻辑和布局精妙，紧紧围绕“聚变”的主题，首先明确展馆形态，以力量为源，冲破束缚，打破常规，充分展示特区人敢为人先的气质，极具张力。 ",	
+    "achievements": [
+      "images/duomeiti/chengshixx/case/9/pic1.jpg",
+      "images/duomeiti/chengshixx/case/9/pic2.jpg",
+      "images/duomeiti/chengshixx/case/9/pic3.jpg",
+      "images/duomeiti/chengshixx/case/9/pic4.jpg",
+      "images/duomeiti/chengshixx/case/9/pic5.jpg",
+      "images/duomeiti/chengshixx/case/9/pic6.jpg"
+     
+    ]
+  }
+   
+
+
+]
 
 }

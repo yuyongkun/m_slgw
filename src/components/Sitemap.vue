@@ -32,6 +32,9 @@
   </div>
 </template>
 <style>
+.lianxi{
+  margin: 6% auto 0 auto;
+}
 .dituContent {
   width: 88%;
   height: 56vw;

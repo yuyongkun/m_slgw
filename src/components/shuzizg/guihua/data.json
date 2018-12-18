@@ -1,0 +1,206 @@
+﻿
+{
+  "datalist": [
+    {
+      "id": "1",
+      "cover": "images/shuzizg/guihua/case/5/banner-bj.jpg",
+      "coverTitle": "深圳当代艺术与城市规划馆",
+      "videopath": "images/shuzizg/guihua/case/5/video.mp4",
+      "techapplication": "深圳市规划局",
+      "applicacenario": "市民中心文化区",
+      "workproperty": "会展综合体",
+      "projectdesc": "站在“市民中心文化区”的全局角度来思考问题，在空间结构与时间结构上进行总体思考，让具体的空间功能划分、运营时间分配和背后的系统管理都能与中心区现有的情况衔接起来，既能给未来的使用打开更丰富的想象，又能保证在操作上的简单易行。 ",
+      "show": "一座新的城市文化地标的开启，同时也意味着福田的市民中心文化区终于完成了最后一块拼图。展馆展示了一个开放、多元且能适应不同运营与管理需求的集合体，可以说是一座微型城市。作为深圳第一个强调深圳城市规划馆中公众参与度的展览馆，它不同于其余城市规划馆单一的展示形式，他更加强调公众参与与艺术性的体现，其中设置了大量大型艺术剧场及艺术装置。",
+      "achievements": [
+        "images/shuzizg/guihua/case/5/pic1.jpg",
+        "images/shuzizg/guihua/case/5/pic2.jpg",
+        "images/shuzizg/guihua/case/5/pic3.jpg",
+        "images/shuzizg/guihua/case/5/pic4.jpg",
+        "images/shuzizg/guihua/case/5/pic5.jpg",
+        "images/shuzizg/guihua/case/5/pic6.jpg"
+      ]
+    },
+    {
+      "id": "2",
+      "cover": "images/shuzizg/guihua/case/6/banner-bj.jpg",
+      "coverTitle": "雄安新区规划展厅",  
+      "techapplication": "中雄集团",
+      "applicacenario": "雄安新区",
+      "workproperty": "展示设计",
+      "projectdesc": "雄安新区规划展厅通过“雄安精神”向参观者讲述习总书记作出的重大战略性决策，是千年大计、国家大事到通过生态宜居相关的创新实践。“雄安规划”讲述雄安新区在生态文明建设中的探索实践，以及体制、机制改革。",
+      "show": "“城市价值”是对雄安新区建设的深远意义做出的总结以及在雄安新区建设过程中社会各界对此的价值思考。",  
+      "achievements": [
+        "images/shuzizg/guihua/case/6/pic1.jpg",
+        "images/shuzizg/guihua/case/6/pic2.jpg",
+        "images/shuzizg/guihua/case/6/pic3.jpg",
+        "images/shuzizg/guihua/case/6/pic4.jpg",
+        "images/shuzizg/guihua/case/6/pic5.jpg",
+        "images/shuzizg/guihua/case/6/pic6.jpg"
+      ]
+    },
+    {
+      "id": "3",
+      "cover": "images/shuzizg/guihua/case/4/banner-bj.jpg",
+      "coverTitle": "郑州航空港城市会客厅",
+      "videopath": "images/shuzizg/guihua/case/4/video.mp4",
+      "techapplication": "郑州航空港经济综合实验区规划局",
+      "applicacenario": "规划展示、会议接待、商务洽谈、技术交流及市民休闲",
+      "workproperty": "展示综合体",
+      "projectdesc": "一座集规划展示、会议接待、商务洽谈、技术交流及市民休闲等多功能的展示综合体。展厅共三层，拥有“启航·空中丝绸之路的起点”、“发现·空港新城的城市潜力”、“飞越·联通全球的智慧新城”、“探索·规划创新的城市文明”、“铸造·航空经济的城市动力”、“畅享·连接世界的未来都市”六大主题展厅。",
+      "show": "“馆内采用高科技展示手段，将增强现实（AR）、光电沙盘、飞行影院、飞屏互动、雷达感应等现代声光电技术融入多项展示环节，全方位、多角度地展示航空港实验区发展演变、建设成果和宏伟蓝图，全面展示航空港区发展的无限潜力和美好未来。",    
+      "achievements": [
+        "images/shuzizg/guihua/case/4/pic1.jpg",
+        "images/shuzizg/guihua/case/4/pic2.jpg",
+        "images/shuzizg/guihua/case/4/pic3.jpg",
+        "images/shuzizg/guihua/case/4/pic4.jpg",
+        "images/shuzizg/guihua/case/4/pic5.jpg",
+        "images/shuzizg/guihua/case/4/pic6.jpg",
+        "images/shuzizg/guihua/case/4/pic7.jpg",
+        "images/shuzizg/guihua/case/4/pic8.jpg"
+
+      ]
+    },
+    {
+      "id": "4",
+      "cover": "images/shuzizg/guihua/case/3/banner-bj.jpg",
+      "coverTitle": "前海蛇口自贸区展示馆",
+      "videopath": "images/shuzizg/guihua/case/3/video.mp4",
+      "techapplication": "深圳前海管理局",
+      "applicacenario": "深圳前海深港现代服务合作区",
+      "workproperty": "会展综合体",
+      "projectdesc": "做布展设计之前，首先明确展馆形态，它以力量为源，冲破束缚，打破常规，充分展示特区人敢为人先的气质，极具张力。以此为基础填充新的内核，期望达成一种内涵与形式的统一，既要有视觉冲击，更要能触摸到人们的心灵。",
+      "show": "在设计中，“力量的释放”成了我们首先抽象出的概念，而“破”成为了设计的手术刀，它划开了蒙在建筑上的那层膜，让前海力量得以释放，让前海的精神得以传递。在布展概念中我们以“述说与聆听”为核心，以“非物质”手段扩展展示空间，从而产生出虚实有间的展示效果，让观者在感官和情感中找到一种强烈共鸣。", 
+      "achievements": [
+        "images/shuzizg/guihua/case/3/pic1.jpg",
+        "images/shuzizg/guihua/case/3/pic2.jpg",
+        "images/shuzizg/guihua/case/3/pic3.jpg",
+        "images/shuzizg/guihua/case/3/pic4.jpg"
+
+      ]
+    },
+    {
+      "id": "5",
+      "cover": "images/shuzizg/guihua/case/1/banner-bj.jpg",
+      "coverTitle": "汕头海湾新区规划馆",
+      "videopath": "images/shuzizg/guihua/case/1/video.mp4",
+      "techapplication": "汕头市发展和改革局",
+      "applicacenario": "汕头海湾新区",
+      "workproperty": "展示设计、数字投影沙盘、互动展项",	
+      "projectdesc": "汕头—中国大陆唯一一个中心城区拥有内海的城市。汕头人更是与海洋结下了深厚的渊源。汕头人经年的探索着大海与海洋彼岸，因此汕头成为中国著名的侨乡。随着改革开放的进一步深化，汕头海湾新区规划馆应运而生，以“筑鸿绩，梦起航”为布展的核心主题。",
+      "show": "空间设计概念：乘风破浪、宏博四海。利用汕头侨乡海派文化的视觉元素缩影“海潮”进行重点展项的包装；“潮幕+数字投影沙盘”为观者全方位、立体式的演绎汕头海湾新区的规划进行还原。其余辅助区域同样以“涟漪”“波涛”等元素提取造型，结合视觉内容进行海湾新区新政策的全面展现。", 
+      "achievements": [
+        "images/shuzizg/guihua/case/1/pic1.jpg",
+        "images/shuzizg/guihua/case/1/pic2.jpg",
+        "images/shuzizg/guihua/case/1/pic3.jpg",
+        "images/shuzizg/guihua/case/1/pic4.jpg",
+        "images/shuzizg/guihua/case/1/pic5.jpg",
+        "images/shuzizg/guihua/case/1/pic6.jpg",
+        "images/shuzizg/guihua/case/1/pic7.jpg",
+        "images/shuzizg/guihua/case/1/pic8.jpg"
+      ]
+    },
+    {
+      "id": "6",
+      "cover": "images/shuzizg/guihua/case/2/banner-bj.jpg",
+      "coverTitle": "贵州凯里鸭塘城市规划展示中心",
+      "techapplication": "凯里市规划局",
+      "applicacenario": "贵州凯里鸭塘镇",
+      "workproperty": "展示设计、互动展项、数字沙盘+大弧幕投影",
+      "projectdesc": "贵州凯里城镇化建设进一步发展，鸭堂位于开发区与市中心的链接处，成为经济发展的重要纽带。",
+      "show": "选取苗侗文化元素贯穿整体山水元素，设计的灵动有致，以鸭塘河走势为流线布局，传统苗侗文化连接现代化浪潮。展厅采用了虚拟双屏联动、新旧对比的擦屏互动，鸭塘河木栈道的漫游、VR漫游、数字沙盘+大弧幕投影勾画出凯里鸭塘蓬勃发展的未来蓝图。", 
+      "achievements": [
+        "images/shuzizg/guihua/case/2/pic1.jpg",
+        "images/shuzizg/guihua/case/2/pic2.jpg",
+        "images/shuzizg/guihua/case/2/pic3.jpg",
+        "images/shuzizg/guihua/case/2/pic4.jpg",
+        "images/shuzizg/guihua/case/2/pic5.jpg",
+        "images/shuzizg/guihua/case/2/pic6.jpg",
+        "images/shuzizg/guihua/case/2/pic7.jpg",
+        "images/shuzizg/guihua/case/2/pic8.jpg"
+      ]
+    },
+    {
+      "id": "7",
+      "cover": "images/shuzizg/guihua/case/7/banner-bj.jpg",
+      "coverTitle": "广州南沙明珠湾<br>开发展览中心",
+      "videopath": "images/shuzizg/guihua/case/7/video.mp4",
+      "techapplication": "广州南沙新区城市规划委员会",
+      "applicacenario": "政府接待、招商引资",
+      "workproperty": "展示设计、互动展项",
+      "projectdesc": "因展厅主要定位为政府接待和招商引资，故此在空间布局和参观流线设计上充分围绕总体规划进行四周延展，让参观者了解南沙明珠湾起步区总体规划后，详细了解分项内容。",
+      "show": "设计采用南沙本土地貌特色“桑基鱼塘”为设计灵感，巧妙的运用独特地貌特点进行空间的平面划分。同时，设计上将“桑基鱼塘”抽象化的在天花与地面延展，既不影响空间立面的同时，又能够让参观者充分感受到设计初衷。利用层高的优势，我们将参观面分为了近距离步入式参观、宏观总体参观、挑高鸟瞰参观三种模式，强化参观者对展厅核心内容的记忆点。 ", 	
+      "achievements": [
+        "images/shuzizg/guihua/case/7/pic1.jpg",
+        "images/shuzizg/guihua/case/7/pic2.jpg",
+        "images/shuzizg/guihua/case/7/pic3.jpg",
+        "images/shuzizg/guihua/case/7/pic4.jpg",
+        "images/shuzizg/guihua/case/7/pic5.jpg",
+        "images/shuzizg/guihua/case/7/pic6.jpg"
+      ]
+    },
+    {
+      "id": "8",
+      "cover": "images/shuzizg/guihua/case/8/banner-bj.jpg",
+      "coverTitle": "深圳市宝安区城市规划馆",
+      "videopath": "images/chuangxin/xshiyanshi/case/4/video.mp4",
+      "techapplication": "深圳宝安区政府",
+      "applicacenario": "开放型展馆",
+      "workproperty": "数字影像水晶沙盘、AR增强现实技术",
+      "projectdesc": "此展馆为公众开放型展馆，故此在安全性、展示型、人性化等多方面深入研究，如：无障碍参观模式、图书馆读者参观模式、记者陪同参观最佳摄影位、儿童参观安全设计等。",
+      "show": "展览馆以“滨海宝安、产业名城、活力之区”作为策展主题。设计中大量采用象征滨海的曲线元素进行设计贯穿，本着尊重建筑本身的原则，将大量自然光引入展厅，使得空间上明暗关系对比强烈。主色调也采用白色、绿色、蓝色为基础，让空间更显现代感与通透感。设计中充分与建筑设计院进行沟通，再进行精确计算，将三层楼板进行合理切割使其满足内部交通顺畅。 ", 
+      "achievements": [
+        "images/shuzizg/guihua/case/8/pic1.jpg",
+        "images/shuzizg/guihua/case/8/pic2.jpg",
+        "images/shuzizg/guihua/case/8/pic3.jpg",
+        "images/shuzizg/guihua/case/8/pic4.jpg",
+        "images/shuzizg/guihua/case/8/pic5.jpg"
+
+
+      ]
+    },
+    {
+      "id": "9",
+      "cover": "images/shuzizg/guihua/case/9/banner-bj.jpg",
+      "coverTitle": "靖江滨江新城展示馆",
+      "techapplication": "靖江市滨江新城投资开发有限公司",
+      "applicacenario": "靖江滨江新城对外展示",
+      "workproperty": "展示设计、互动展项",
+      "projectdesc": "作为新城对外展示的新窗口和靖江靓丽的文化名片，充分吸引社会各届人士的关注！",
+      "show": "“展馆布展面积约2240平方米，规划两层，一层为序厅接待区，包含靖江印象、幸福新城、老家记忆、新城规划等主题板块；二层分为新城贡献者、新城之路、筑梦新城和新城临展区四大功能板块。建筑的设计采用后现代主义表现手法，体现江南城市文化与风情，展馆内充分引入自然采光，使建筑成为环境的一部分。 ", 	
+      "show": "展馆布展面积约2240平方米，规划两层，一层为序厅接待区，包含靖江印象、幸福新城、老家记忆、新城规划等主题板块；二层分为新城贡献者、新城之路、筑梦新城和新城临展区四大功能板块。建筑的设计采用后现代主义表现手法，体现江南城市文化与风情，展馆内充分引入自然采光，使建筑成为环境的一部分。 ",	
+      "achievements": [
+        "images/shuzizg/guihua/case/9/pic1.jpg",
+        "images/shuzizg/guihua/case/9/pic2.jpg",
+        "images/shuzizg/guihua/case/9/pic3.jpg",
+        "images/shuzizg/guihua/case/9/pic4.jpg",
+        "images/shuzizg/guihua/case/9/pic5.jpg",
+        "images/shuzizg/guihua/case/9/pic6.jpg",
+        "images/shuzizg/guihua/case/9/pic7.jpg",
+        "images/shuzizg/guihua/case/9/pic8.jpg",
+        "images/shuzizg/guihua/case/9/pic9.jpg"
+      ]
+    },
+    {
+      "id": "10",
+      "cover": "images/shuzizg/guihua/case/10/banner.jpg",
+      "coverTitle": "宝安区十三五规划展",
+      "techapplication": "深圳市宝安区发展和改革局",
+      "applicacenario": "宝安区十三五规划蓝图",
+      "workproperty": "展示设计",
+      "projectdesc": "“十二五”时期，宝安实现了经济增长，产业发展，城市水平提升，顺利完成了“十二五”规划的主要目标任务，为“十三五”时期的发展奠定了坚实基础。2016年是“十三五”开局之年，宝安坚持可持续发展，突出智慧引领，共同实现“十三五”规划的美好愿景，让宝安区实现“一年一小变、三年大变样、五年大发展”。",
+      "show": "打破一般性展馆的布展套路，将可读、可听、可视集为一体，力求全方位解读宝安规划，向受众展现宝安规划愿景。通过全面宣传宝安的建设规划和未来前景的窗口，了解未来五年规划，提升受众对宝安的认知度和参与感。 ", 		
+      "achievements": [
+        "images/shuzizg/guihua/case/10/pic1.jpg",
+        "images/shuzizg/guihua/case/10/pic2.jpg",
+        "images/shuzizg/guihua/case/10/pic3.jpg",
+        "images/shuzizg/guihua/case/10/pic4.jpg",	
+        "images/shuzizg/guihua/case/10/pic5.jpg"	
+
+      ]
+    }
+
+
+
+  ]
+
+}

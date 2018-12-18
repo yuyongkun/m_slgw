@@ -1,0 +1,119 @@
+﻿
+{
+  "datalist": [
+    {
+      "id": "1",
+      "cover": "images/shuzizg/zhihuics/case/1/banner-bj.jpg",
+      "coverTitle": "中山翠亨智慧城市<br>展示中心",
+      "videopath": "images/shuzizg/zhihuics/case/1/video.mp4",
+      "techapplication": "中兴网信智慧城市",
+      "applicacenario": "广东中山市翠亨新区",
+      "workproperty": "整馆设计、空间展项体验设计、数字内容",
+      "projectdesc": "中兴网信智慧城市与广东中山市翠亨新区联手打造未来翠亨智慧城市，将互联网通讯+大数据运用在城市各领域，形成未来智慧生活的美好畅想。 ",
+      "show": "精准多维展示，使体验者触手可及感受智慧生活；立体投影沙盘+大型弧幕投影未来智慧城市大片，智慧地图与单屏双向联动，油电导墨墙表现智慧医疗，VR虚拟畅游中山城，皆以数字视觉方式展示智慧园区讯息通达性。",
+      "achievements": [
+        "images/shuzizg/zhihuics/case/1/pic1.jpg",
+        "images/shuzizg/zhihuics/case/1/pic2.jpg",
+        "images/shuzizg/zhihuics/case/1/pic3.jpg",
+        "images/shuzizg/zhihuics/case/1/pic4.jpg",
+        "images/shuzizg/zhihuics/case/1/pic5.jpg",
+        "images/shuzizg/zhihuics/case/1/pic6.jpg"
+      ]
+    },
+    {
+      "id": "2",
+      "cover": "images/shuzizg/zhihuics/case/2/banner-bj.jpg",
+      "coverTitle": "陕西科技展示中心",  
+      "techapplication": "陕西省科技资源统筹中心",
+      "applicacenario": "展示陕西省科技实力",
+      "workproperty": "智慧UOC、万物互联、动态科技、数据可视化整馆设计",
+      "projectdesc": "中兴通讯与陕西省科技资源统筹中心进行智慧城市的布点合作，同时呈现陕西科技的整体走在前沿的高超水平。展厅使用了多样的实时数据感应系统以及交互手段完成。",
+      "show": "数字透明屏、智能充电机械臂、智慧大屏表现UOC大数据系统、动态科技版图3D Mapping技术、线上线下互动展厅、智能家居等手段全面生动的展示陕西科技水平和智慧大数据带来的便利生活。",  
+      "achievements": [
+        "images/shuzizg/zhihuics/case/2/pic1.jpg",
+        "images/shuzizg/zhihuics/case/2/pic2.jpg",
+        "images/shuzizg/zhihuics/case/2/pic3.jpg",
+        "images/shuzizg/zhihuics/case/2/pic4.jpg",
+        "images/shuzizg/zhihuics/case/2/pic5.jpg"
+      ]
+    },
+    {
+      "id": "3",
+      "cover": "images/shuzizg/zhihuics/case/3/banner.jpg",
+      "coverTitle": "龙湖未来之家被动式<br>科技馆",
+      "techapplication": "龙湖地产有限公司",
+      "applicacenario": "展示、接待、参观",
+      "workproperty": "直幕影视播放、被动式科技、生态科技展示",
+      "projectdesc": "龙湖地产有限公司以生命历史未来的时间轴，来串联绿色生态设施、再生材料、清洁能源、生态修复、被动式低能耗建筑技术，设计被动式新城，完成中国北方建筑体系变革，在我国被动式低能耗绿色建筑的健康发展做出巨大贡献。",
+      "show": "特色中庭结合整体生态设计，在阶梯上做出抽象山水的意向展示，并通过左侧墙壁的智能互动影像，让参观者进入到一个被生态包裹的空间。接待厅通过上方的透明展板和下方的全息投影对建筑历史沿革进行更加生动、有趣的诠释。",    
+      "achievements": [
+        "images/shuzizg/zhihuics/case/3/pic1.jpg",
+        "images/shuzizg/zhihuics/case/3/pic2.jpg",
+        "images/shuzizg/zhihuics/case/3/pic3.jpg",
+        "images/shuzizg/zhihuics/case/3/pic4.jpg",
+        "images/shuzizg/zhihuics/case/3/pic5.jpg",
+        "images/shuzizg/zhihuics/case/3/pic6.jpg"  
+      ]
+    },
+    {
+      "id": "4",
+      "cover": "images/shuzizg/zhihuics/case/4/banner-bj.jpg",
+      "coverTitle": "宝安科技创新展示馆",
+      "techapplication": "深圳宝安区政府",
+      "applicacenario": "桃花源科技创新园",
+      "workproperty": "展示馆",
+      "projectdesc": "在“滨海宝安、产业名城、活力之区”的大战略下，充分展示宝安区改革开放以来的建设成就，尤其是“十三五”时期举国推进创新型国家大背景下，宝安争创“科技创新型大区、四个全面先行区”的宏伟愿景和蓝图。",
+      "show": "位于宝安区西乡街道桃花源科技创新园主楼一楼，实施“宝安科技创新展示馆”进行布展提升，布展面积2000平方米。", 
+      "achievements": [
+        "images/shuzizg/zhihuics/case/4/pic1.jpg",
+        "images/shuzizg/zhihuics/case/4/pic2.jpg",
+        "images/shuzizg/zhihuics/case/4/pic3.jpg",
+        "images/shuzizg/zhihuics/case/4/pic4.jpg",
+        "images/shuzizg/zhihuics/case/4/pic5.jpg"
+        
+      ]
+    },
+    {
+      "id": "5",
+      "cover": "images/shuzizg/zhihuics/case/5/banner-bj.jpg",
+      "coverTitle": "深圳党建智慧展厅",
+      "techapplication": "中国共产党深圳市委组织部",
+      "applicacenario": "教育、监控、展示",
+      "workproperty": "展示设计",	
+      "projectdesc": "深圳智慧党建体验中心，由党群服务中心综合管理平台、党建业务体验中心、多方会议系统等三部分组成，综合运用了人脸识别、dreamwriter智能读写以及raydatad大数据等技术。",
+      "show": "位于深圳市深南中路党群服务中心二楼，布展面积为190平方米。通过构建市-区两级视频会议系统，实现组织内部的会议管理以及对园区、社区党群服务中心的实时监控管理；深圳智慧党建中心的建成，形成了深圳市党群服务中心全新的党性教育模式。", 
+      "achievements": [
+        "images/shuzizg/zhihuics/case/5/pic1.jpg",
+        "images/shuzizg/zhihuics/case/5/pic2.jpg",
+        "images/shuzizg/zhihuics/case/5/pic3.jpg",
+        "images/shuzizg/zhihuics/case/5/pic4.jpg",
+        "images/shuzizg/zhihuics/case/5/pic5.jpg"
+        
+      ]
+    },
+    {
+      "id": "6",
+      "cover": "images/shuzizg/zhihuics/case/6/banner-bj.jpg",
+      "coverTitle": "珠海南屏党群展示中心",
+      "techapplication": "中国共产党珠海市香洲区委员会组织部",
+      "applicacenario": "南屏科技工业园管委会",
+      "workproperty": "展示设计",
+      "projectdesc": "南屏科技工业园党群服务中心建设在南屏园管委会大楼一楼西侧，建设面积708㎡；根据园区特点，运用详实的资料、艺术构思、高科技手段，生动形象的集党的发展历程、园区党建概况、群团组织活动等功能于一体。",
+      "show": "打造现代化独具特色的党群服务中心，对内作为园区党群服务的窗口，最大限度的为园区内群众、企业提供便捷、高效的服务；对外则是园区党群工作的展示区，展示党的发展历程及园区群团组织情况，弘扬党的十九大精神。", 
+      "achievements": [
+        "images/shuzizg/zhihuics/case/6/pic1.jpg",
+        "images/shuzizg/zhihuics/case/6/pic2.jpg",
+        "images/shuzizg/zhihuics/case/6/pic3.jpg",
+        "images/shuzizg/zhihuics/case/6/pic4.jpg",
+        "images/shuzizg/zhihuics/case/6/pic5.jpg",
+        "images/shuzizg/zhihuics/case/6/pic6.jpg",
+        "images/shuzizg/zhihuics/case/6/pic7.jpg"
+        
+      ]
+    }
+    
+
+
+  ]
+
+}

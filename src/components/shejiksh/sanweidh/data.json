@@ -1,0 +1,111 @@
+﻿{
+  "datalist": [
+  {
+    "id": "1",
+    "cover": "images/shejiksh/sanweidh/case/1/banner.jpg",
+    "coverTitle": "青少年体育运动训练基地</br>工程施工项目",
+	"videopath": "images/shejiksh/sanweidh/case/1/video.mp4",
+    "techapplication": "中建八局第一建设有限公司",
+    "applicacenario": "政府汇报",
+    "workproperty": "动画+多媒体",
+    "projectdesc": "此项目为政府汇报视频，包含多媒体动画制作。该项目滨州国际足球运动小镇规划面积31.04平方公里，是我区实施新旧动能转换、助力产业转型发展的骨干项目、龙头项目。项目以体育为核心，整合思源湖万亩林场、思源湖水库、温泉岛度假村等资源，大力发展“足球+N”复合产业，着力打造“国家级运动休闲特色小镇、国家体育产业示范基地、国家级体育旅游示范基地”。",
+    "achievements": [
+      "images/shejiksh/sanweidh/case/1/pic1.jpg",
+      "images/shejiksh/sanweidh/case/1/pic2.jpg",
+      "images/shejiksh/sanweidh/case/1/pic3.jpg",
+	  "images/shejiksh/sanweidh/case/1/pic4.jpg",
+	  "images/shejiksh/sanweidh/case/1/pic5.jpg"
+    ]
+  },
+  {
+    "id": "2",
+    "cover": "images/shejiksh/sanweidh/case/2/banner.jpg",
+    "coverTitle": "十里风荷项目",
+	"videopath": "images/shejiksh/sanweidh/case/2/video.mp4",
+    "techapplication": "上海翼天集团",
+    "applicacenario": "发布会",
+    "workproperty": "动画",
+    "projectdesc": "十里风荷项目是大美上饶，十里槠溪的第一站，项目基地处于城郊旅游休闲带和信江城市发展轴之间，承接城市空间发展及旅游活力升级需求，基地北侧处于灵山旅游服务板块（左溪小镇、前汪村），对接休闲度假，田园观光以及主题游乐等产业，南侧处于中心城板块(槠溪湿地公园)，对接健康养生、城市服务配套等产业。上饶780多万人口，城市人口仅占100来万， 中心城市的人口集聚能力差，缺乏经济及产业活力， 城市需配套活力升级，开创旅游度假新方式， 创造传统文化的现代精髓体验，整合多元化创新发展模式。 ",
+    "achievements": [
+      "images/shejiksh/sanweidh/case/2/pic1.jpg",
+      "images/shejiksh/sanweidh/case/2/pic2.jpg",
+      "images/shejiksh/sanweidh/case/2/pic3.jpg",
+	  "images/shejiksh/sanweidh/case/2/pic4.jpg",
+	  "images/shejiksh/sanweidh/case/2/pic5.jpg"
+    ]
+  },
+  {
+    "id": "3",
+    "cover": "images/shejiksh/sanweidh/case/3/banner.jpg",
+    "coverTitle": "凯德来福士广场</br>灯光项目",
+    "videopath": "images/shejiksh/sanweidh/case/3/video.mp4",
+    "techapplication": "客户保密",
+    "applicacenario": "发布会",
+    "workproperty": "动画",
+    "projectdesc": "重庆来福士广场，位于两江汇流的朝天门。由世界著名建筑大师摩西·萨夫迪设计，由新加坡凯德集团投资建设。整个项目寓意“扬帆远航”的重庆精神，诠释了“古渝雄关”的壮美气势，建成后将成为重庆的标志性建筑和国际性城市名片。",
+    "achievements": [
+      "images/shejiksh/sanweidh/case/3/pic1.jpg",
+      "images/shejiksh/sanweidh/case/3/pic2.jpg",
+      "images/shejiksh/sanweidh/case/3/pic3.jpg",
+      "images/shejiksh/sanweidh/case/3/pic4.jpg",
+	  "images/shejiksh/sanweidh/case/3/pic5.jpg"
+    ]
+  },
+  {
+    "id": "4",
+    "cover": "images/shejiksh/sanweidh/case/4/banner.jpg",
+    "coverTitle": "北京新机场非主基地项目</br>概念设计",
+	"videopath": "images/shejiksh/sanweidh/case/4/video.mp4",
+    "techapplication": "中国电子工程设计院有限公司",
+    "applicacenario": "政府汇报",
+    "workproperty": "动画+多媒体",
+    "projectdesc": "此项目为政府汇报视频，包含多媒体动画制作。北京新机场非主基地项目位于北京市大兴区榆垡镇。通过京开高速可到达北京市城市核心区，通过规划场前快速联络线可到达新机场航站楼。用地面积：总用地面积约7.1公顷。建设规模：计容建筑面积约19.88万平方米。业态组成：办公、出勤楼、配套设施。",
+    "achievements": [
+      "images/shejiksh/sanweidh/case/4/pic1.jpg",
+      "images/shejiksh/sanweidh/case/4/pic2.jpg",
+      "images/shejiksh/sanweidh/case/4/pic3.jpg",
+      "images/shejiksh/sanweidh/case/4/pic4.jpg",
+	  "images/shejiksh/sanweidh/case/4/pic5.jpg"
+    ]
+  },
+    {
+    "id": "5",
+    "cover": "images/shejiksh/sanweidh/case/6/banner.jpg",
+    "coverTitle": "金种子酒博物馆",
+	"videopath": "images/shejiksh/sanweidh/case/6/video.mp4",
+    "techapplication": "雄国集团",
+    "applicacenario": "投标、汇报",
+    "workproperty": "动画",
+    "projectdesc": "项目是雄国集团的金种子酒博物馆，设计初衷博物馆外形就是以一颗刚刚发芽的金色种子为寓意，代表着本集团蒸蒸日上，厚积薄发的雄心。",
+    "achievements": [
+      "images/shejiksh/sanweidh/case/6/pic1.jpg",
+      "images/shejiksh/sanweidh/case/6/pic2.jpg",
+	  "images/shejiksh/sanweidh/case/6/pic3.jpg",
+	  "images/shejiksh/sanweidh/case/6/pic4.jpg",
+	  "images/shejiksh/sanweidh/case/6/pic5.jpg",
+	  "images/shejiksh/sanweidh/case/6/pic6.jpg",
+	  "images/shejiksh/sanweidh/case/6/pic7.jpg"
+    ]
+  },
+    {
+    "id": "6",
+    "cover": "images/shejiksh/sanweidh/case/9/banner.jpg",
+    "coverTitle": "镇江图书馆",
+	"videopath": "images/shejiksh/sanweidh/case/9/video.mp4",
+    "techapplication": "东大创作所",
+    "applicacenario": "投标、汇报",
+    "workproperty": "动画",
+    "projectdesc": "镇江图书馆为南京东南大学创作所设计项目，地处镇江行政中心正南方，周边地税大厦、中国移动、体育会展中心环伺，毗邻南山风景区。项目立面以山川、水为元素设计，远眺如群山峻岭连绵不绝，近视如湖光浩渺，碧波无垠；屋顶花园引用流水元素，赋予高山流水，淡薄致远之书香文化气息。内部设计打破常规，大胆通透，给人一种明亮、舒适、轻松、自然之感。夜晚华灯初上，镇江图书馆远近之间仿若“拂月西粼照银纱，似水云云幻长山”。",
+    "achievements": [
+      "images/shejiksh/sanweidh/case/9/pic1.jpg",
+      "images/shejiksh/sanweidh/case/9/pic2.jpg",
+      "images/shejiksh/sanweidh/case/9/pic3.jpg",
+      "images/shejiksh/sanweidh/case/9/pic4.jpg"
+    ]
+  }
+
+
+
+]
+
+}

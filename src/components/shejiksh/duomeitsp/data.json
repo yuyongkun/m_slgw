@@ -1,0 +1,143 @@
+﻿{
+  "datalist": [
+  {
+    "id": "1",
+    "cover": "images/shejiksh/duomeitsp/case/1/banner.jpg",
+    "coverTitle": "中德教育合作示范基地",
+	"videopath": "images/shejiksh/duomeitsp/case/1/video.mp4",
+    "techapplication": "深圳院",
+    "applicacenario": "投标、汇报",
+    "workproperty": "多媒体+动画",
+    "projectdesc": "中德教育合作示范基地（北京外国语大学合肥校区、天津大学合肥研究院、合肥学院中德创新中心及公共服务配套）项目规划方案设计及单体设计总承包，项目将建设集大学、研发中心、企业创新联盟平台、产业孵化生产制造基地、综合服务平台、生活服务中心等配套设施齐全的综合园区。",
+    "achievements": [
+      "images/shejiksh/duomeitsp/case/1/pic1.jpg",
+      "images/shejiksh/duomeitsp/case/1/pic2.jpg",
+      "images/shejiksh/duomeitsp/case/1/pic3.jpg",
+      "images/shejiksh/duomeitsp/case/1/pic4.jpg",
+      "images/shejiksh/duomeitsp/case/1/pic5.jpg"
+    ]
+  },
+  {
+    "id": "2",
+    "cover": "images/shejiksh/duomeitsp/case/2/banner.jpg",
+    "coverTitle": "浦东新区新场镇16号线<br>核心单元城市设计",
+	"videopath": "images/shejiksh/duomeitsp/case/2/video.mp4",
+    "techapplication": "AECOM广州分公司",
+    "applicacenario": "汇报片",
+    "workproperty": "动画+多媒体",
+    "projectdesc": "新场轨交单元，基地位于新场古镇以北约2公里,轨交16号线新场站嵌入其中，场地内良田千亩，水网密布，宛如世外桃源,将着力打造成为“古镇人文风尚新门户，新水乡菁英乐活社区”,社区开发总量107万平方米，内含80万平方米住宅、20万平方米商办配套。以居住功能为主导，构建近郊TOD宜居社区典范，积极引入新场古镇人文要素、导入文创服务产品，与古镇互动提升。",
+    "achievements": [
+      "images/shejiksh/duomeitsp/case/2/pic1.jpg",
+      "images/shejiksh/duomeitsp/case/2/pic2.jpg",
+      "images/shejiksh/duomeitsp/case/2/pic3.jpg",
+      "images/shejiksh/duomeitsp/case/2/pic4.jpg",
+      "images/shejiksh/duomeitsp/case/2/pic5.jpg",
+      "images/shejiksh/duomeitsp/case/2/pic6.jpg"
+    ]
+  },
+  {
+    "id": "3",
+    "cover": "images/shejiksh/duomeitsp/case/3/banner.jpg",
+    "coverTitle": "广西贺州市梦里黄姚文化旅<br>游创意城策划及<br>总体概念规划",
+    "videopath": "images/shejiksh/duomeitsp/case/3/video.mp4",
+    "techapplication": "GVL怡境景观",
+    "applicacenario": "汇报片",
+    "workproperty": "多媒体",
+    "projectdesc": "梦里黄姚以建设生态文明小镇，打造美丽贺州，国际顶级时尚传媒文创小镇为项目定位；以建设国际旅游新地标，文旅产业新典范，古镇文化新天地为发展愿景。",
+    "achievements": [
+      "images/shejiksh/duomeitsp/case/3/pic1.jpg",
+      "images/shejiksh/duomeitsp/case/3/pic2.jpg",
+      "images/shejiksh/duomeitsp/case/3/pic3.jpg",
+      "images/shejiksh/duomeitsp/case/3/pic4.jpg"
+    ]
+  },
+  {
+    "id": "4",
+    "cover": "images/shejiksh/duomeitsp/case/4/banner.jpg",
+    "coverTitle": "涿州松林店<br>时代智能创新区",
+	"videopath": "images/shejiksh/duomeitsp/case/4/video.mp4",
+    "techapplication": "北京清华同衡规划设计研究院有限公司",
+    "applicacenario": "政府汇报",
+    "workproperty": "多媒体",
+    "projectdesc": "此项目为政府汇报视频.项目是涿州松林店地处京津冀核心区位，半小时通达北京、雄安新区、新机场，交通条件便利。时代产业集团以聚揽全球创新资源为己任，吸引新兴智能技术，集聚智能制造资源，同步发力智能汽车产业，使其成为保定百公里汽车产业带和京津冀产业群的“技术策源地”；以科技改变城市为愿景，联合产业合作伙伴，构建4个产业发展分区。时代智能创新区将分三个阶段逐步推进建设。2019年落成旗舰项目，2022年形成产业集聚，2025年实现全域蓝图，预计每年创造不少于400亿元产值、创造不少于35亿元年税收、吸引300万的消费者来此体验理想中的未来都市。",
+    "achievements": [
+      "images/shejiksh/duomeitsp/case/4/pic1.jpg",
+      "images/shejiksh/duomeitsp/case/4/pic2.jpg",
+      "images/shejiksh/duomeitsp/case/4/pic3.jpg",
+      "images/shejiksh/duomeitsp/case/4/pic4.jpg"
+    ]
+  },
+    {
+    "id": "5",
+    "cover": "images/shejiksh/duomeitsp/case/5/banner.jpg",
+    "coverTitle": "国际大健康驿站",
+	"videopath": "images/shejiksh/duomeitsp/case/5/video.mp4",
+    "techapplication": "秦皇岛中民投资有限公司",
+    "applicacenario": "博鳌论坛、会议活动",
+    "workproperty": "多媒体",
+    "projectdesc": "此项目为政府汇报视频.该项目为丝路规划研究中心主办2018年博鳌亚洲论坛国际大健康分论坛，计制作多媒体视频，项目涵盖国际健康示范区、国际会展中心区、科技创新产业区、国际旅游度假区。国际大健康驿站首期将在海南博鳌、符拉迪沃斯托克、香港、深圳建设，后续将在北京、上海、成都等中国主要城市设立，未来将按照一带一路战略规划进行世界范围布局。",
+    "achievements": [
+      "images/shejiksh/duomeitsp/case/5/pic1.jpg",
+      "images/shejiksh/duomeitsp/case/5/pic2.jpg",
+      "images/shejiksh/duomeitsp/case/5/pic3.jpg",
+      "images/shejiksh/duomeitsp/case/5/pic4.jpg"
+    ]
+  },
+    {
+    "id": "6",
+    "cover": "images/shejiksh/duomeitsp/case/6/banner.jpg",
+    "coverTitle": "中国建筑地铁上盖项目",
+	"videopath": "images/shejiksh/duomeitsp/case/6/video.mp4",
+    "techapplication": "中国建筑",
+    "applicacenario": "发布会",
+    "workproperty": "动画",
+    "projectdesc": "此项目是设计师为一家房地产公司设计的地铁站和小区完美融合的项目。住宅楼排布在地铁站的两侧，地铁站的上盖是小区的花园景观。",
+    "achievements": [
+      "images/shejiksh/duomeitsp/case/6/pic1.jpg",
+      "images/shejiksh/duomeitsp/case/6/pic2.jpg",
+      "images/shejiksh/duomeitsp/case/6/pic3.jpg",
+      "images/shejiksh/duomeitsp/case/6/pic4.jpg",
+      "images/shejiksh/duomeitsp/case/6/pic5.jpg"
+    ]
+  },
+    {
+    "id": "7",
+    "cover": "images/shejiksh/duomeitsp/case/7/banner.jpg",
+    "coverTitle": "nano纱窗滤网",
+	"videopath": "images/shejiksh/duomeitsp/case/7/video.mp4",
+    "techapplication": "冠准科技环保有限公司",
+    "applicacenario": "投标、汇报",
+    "workproperty": "动画",
+    "projectdesc": "Nano是冠准科技环保有限公司与国外高科技企业合作生产的新型防雾霾空气净化纱窗系统。本片通过三维动画与二维动画的结合，介绍了nano产品的原理以及实用性，让普通大众消费者也可以理解产品。",
+    "achievements": [
+      "images/shejiksh/duomeitsp/case/7/pic1.jpg",
+      "images/shejiksh/duomeitsp/case/7/pic2.jpg",
+      "images/shejiksh/duomeitsp/case/7/pic3.jpg",
+      "images/shejiksh/duomeitsp/case/7/pic4.jpg",
+      "images/shejiksh/duomeitsp/case/7/pic5.jpg"
+    ]
+  },
+    {
+    "id": "8",
+    "cover": "images/shejiksh/duomeitsp/case/8/banner.jpg",
+    "coverTitle": "玻璃幕墙项目",
+	"videopath": "images/shejiksh/duomeitsp/case/8/video.mp4",
+    "techapplication": "合肥新视野",
+    "applicacenario": "投标、汇报",
+    "workproperty": "动画",
+    "projectdesc": "该项目是主要说明玻璃幕墙从生产，组装，运输，施工，安装等，全方位讲解的一个过程，属于工艺工法施工流程动画。",
+    "achievements": [
+      "images/shejiksh/duomeitsp/case/8/pic1.jpg",
+      "images/shejiksh/duomeitsp/case/8/pic2.jpg",
+      "images/shejiksh/duomeitsp/case/8/pic3.jpg",
+      "images/shejiksh/duomeitsp/case/8/pic4.jpg",
+      "images/shejiksh/duomeitsp/case/8/pic5.jpg"
+
+    ]
+  }
+
+
+
+]
+
+}

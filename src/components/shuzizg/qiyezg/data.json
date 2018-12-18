@@ -1,0 +1,143 @@
+﻿{
+  "datalist": [
+    {
+      "id": "1",
+      "cover": "images/shuzizg/qiyezg/case/1/banner.jpg",
+      "coverTitle": "广西物资集团规划展示馆",
+      "techapplication": "广西物资集团",
+      "applicacenario": "物流商贸、供应链展示",
+      "workproperty": "企业展馆",
+      "projectdesc": " 展示了中国商贸物流行业新变局；用数字化的手段，展现了大流通时代下物流商贸的流通以及产业链上下游的全球合作状态。 ",
+      "show": "储运数据瀑布，物资集团业务向外辐射，万物互联，为集团注入能量与资源。大数据信息平台：展示物流大数据可视化，布局、枢纽、范围，实时获取万物互联的信息。",
+      "achievements": [
+        "images/shuzizg/qiyezg/case/1/pic1.jpg",
+        "images/shuzizg/qiyezg/case/1/pic2.jpg",
+        "images/shuzizg/qiyezg/case/1/pic4.jpg",
+        "images/shuzizg/qiyezg/case/1/pic5.jpg"
+      ]
+    },
+    {
+      "id": "2",
+      "cover": "images/shuzizg/qiyezg/case/2/banner.jpg",
+      "coverTitle": "深圳顺络电子展庁",
+      "techapplication": "深圳顺络电子股份有限公司",
+      "applicacenario": "顺络企业文化展示",
+      "workproperty": "企业展馆",
+      "projectdesc": "深圳顺络电子是一家专业从事各类电子元件研发、生产、销售为一体的高新技术企业，广泛运用在通讯、消费电子、医疗、智能安网等领域，是电子元件百强企业。",
+      "show": "空间设计中利用电子生命树展开的造型，体验顺络产品的先进性。运用液晶拼接屏+IPAD中控系统、智能体验触摸桌、AR概念汽车等手段，让来宾通过“顺络之窗” 了解顺络企业的文化和发展精华。“世界地图浮雕造型展墙+触控屏”形成顺络世界销售网络，智能体验触摸桌展示顺络的尖端产品。",
+      "achievements": [
+        "images/shuzizg/qiyezg/case/2/pic1.jpg",
+        "images/shuzizg/qiyezg/case/2/pic2.jpg",
+        "images/shuzizg/qiyezg/case/2/pic3.jpg",
+        "images/shuzizg/qiyezg/case/2/pic4.jpg",
+        "images/shuzizg/qiyezg/case/2/pic5.jpg"
+      ]
+    },
+    {
+      "id": "3",
+      "cover": "images/shuzizg/qiyezg/case/3/banner.jpg",
+      "coverTitle": "北京启迪控股数字<br>展示中心",
+      "videopath": "images/shuzizg/qiyezg/case/3/video.mp4",
+      "techapplication": "启迪控股股份有限公司",
+      "applicacenario": "产业园、科技服务业",
+      "workproperty": "企业、产业园展示厅",
+      "projectdesc": "位于清华启迪科技产业园区，是一个多媒体展厅；通过讲述启迪科技园的信息来进行展示，以及对智慧园区的管理系统、园区智能制造的产品进行宣传和展示。",
+      "show": "科技园—科技实业—数字化无限延伸，连接创客、企业、世界，由点到线到面，构筑智慧化的未来空间。“移动滑轨+互动拼接屏+油墨导电互动墙” ，集中展示启迪控股的发展历史和三位一体集群式创新理念、成果。",
+      "achievements": [
+        "images/shuzizg/qiyezg/case/3/pic1.jpg",
+        "images/shuzizg/qiyezg/case/3/pic2.jpg",
+        "images/shuzizg/qiyezg/case/3/pic3.jpg",
+        "images/shuzizg/qiyezg/case/3/pic4.jpg",
+        "images/shuzizg/qiyezg/case/3/pic5.jpg"
+      ]
+    },
+    {
+      "id": "4",
+      "cover": "images/shuzizg/qiyezg/case/7/banner.jpg",
+      "coverTitle": "柳州钢铁集团博物馆",
+      "techapplication": "广西柳州钢铁集团有限公司",
+      "applicacenario": "展示柳钢厂发展历程",
+      "workproperty": "企业展厅",
+      "projectdesc": "广西柳州钢铁集团历经60年积淀，坚持“铸造精品，超越期望”的质量管理理念，以精益求精的工匠精神，为客户提供优质产品。",
+      "show": "设计主要遵循因地制宜、以人为本、生态自然的原则，在保证现状植被不被破坏的情况下以景观加法的手法将三个地块景观体系连接成一个整体，行成“三轴三区”的景观框架。",
+      "achievements": [
+        "images/shuzizg/qiyezg/case/7/pic1.jpg",
+        "images/shuzizg/qiyezg/case/7/pic2.jpg",
+        "images/shuzizg/qiyezg/case/7/pic3.jpg",
+        "images/shuzizg/qiyezg/case/7/pic4.jpg",
+        "images/shuzizg/qiyezg/case/7/pic5.jpg"
+      ]
+    },
+    {
+      "id": "5",
+      "cover": "images/shuzizg/qiyezg/case/4/banner.jpg",
+      "coverTitle": "博鳌•银丰生命体验馆",
+      "techapplication": "博鳌•银丰康养国际医院",
+      "applicacenario": "生命医疗、互动体验",
+      "workproperty": "企业展厅",
+      "projectdesc": "博鳌•银丰康养国际医院是一家集科研、诊断、预防、治疗、康复功能为一体的研究型细胞生物医学服务机构。",
+      "show": "解决科学知识与产品结合的最佳方式，将零散的产品融入进“出生-死亡”的展示线索里，寓意银丰业务伴随用户一生受益，适合各个年龄层，可产生共鸣。浮雕触摸、移动滑轨AR细胞展示墙、联动投影、人脸识别等高科手段融入空间进行展示。",
+      "achievements": [
+        "images/shuzizg/qiyezg/case/4/pic1.jpg",
+        "images/shuzizg/qiyezg/case/4/pic2.jpg",
+        "images/shuzizg/qiyezg/case/4/pic3.jpg"
+      ]
+    },
+    {
+      "id": "6",
+      "cover": "images/shuzizg/qiyezg/case/5/banner.jpg",
+      "coverTitle": "顺丰集团总部品牌展示厅",
+      "techapplication": "顺丰控股(集团)股份有限公司",
+      "applicacenario": "顺丰集团总部",
+      "workproperty": "企业展示中心",
+      "projectdesc": "用前沿的数字化展示手段，为大家勾勒一条认识“顺丰” 的路。",
+      "show": "数字化的展项，消除消费者对顺丰的陌生感，让顺丰通过数字交互变成更亲和的身边人，从知道、熟悉、到了解；通过虚实结合、业务数字解决方案、场景化空间还原业务流程等，将顺丰360°的形象在新媒体交互的过程中展现，抽丝剥茧，呈现未来。",
+      "achievements": [
+        "images/shuzizg/qiyezg/case/5/pic1.jpg",
+        "images/shuzizg/qiyezg/case/5/pic2.jpg",
+        "images/shuzizg/qiyezg/case/5/pic3.jpg",
+        "images/shuzizg/qiyezg/case/5/pic4.jpg",
+        "images/shuzizg/qiyezg/case/5/pic5.jpg"
+      ]
+    },
+    {
+      "id": "7",
+      "cover": "images/shuzizg/qiyezg/case/6/banner.jpg",
+      "coverTitle": "南海深水油气开发展厅",
+      "techapplication": "中国海洋石油总公司 ",
+      "applicacenario": "企业形象展示、对外交流",
+      "workproperty": "展示设计、企业展厅",
+      "projectdesc": "南海深水油气开发展厅作为展示中海油企业形象和对外交流的窗口，担负着中海油深海开发历史展示、南海深海开发规划宣传、深海开发技术交流和企业形象推介等重要职责。丝路应邀为中海油打造珠海南海深水油气开发展厅，一起“筑梦深海”。",
+      "show": "一座与环保、科技、艺术对话的智慧展厅，不仅展示了中海油南海深水开发的昨天、今天和明天，更重要的是向人们展示了一个创新、开放、活力、激扬的中海油企业形象和在与海洋恶劣开发环境搏击中展现出来的新时代海油精神。用最先进的深水开发技术指导中海油南海东部深水项目的发展，增强深水开发的活力。用蓝图鼓舞人心，坚定中国海洋油气事业二次跨越，加快发展的信心。",
+      "achievements": [
+        "images/shuzizg/qiyezg/case/6/pic1.jpg",
+        "images/shuzizg/qiyezg/case/6/pic2.jpg",
+        "images/shuzizg/qiyezg/case/6/pic3.jpg",
+        "images/shuzizg/qiyezg/case/6/pic4.jpg",
+        "images/shuzizg/qiyezg/case/6/pic5.jpg"
+      ]
+    },
+    {
+      "id": "8",
+      "cover": "images/shuzizg/qiyezg/case/8/banner.jpg",
+      "coverTitle": "安迪诊断企业展厅",
+      "techapplication": "浙江迪安诊断技术股份有限公司",
+      "applicacenario": "展示、参观",
+      "workproperty": "企业展厅",
+      "projectdesc": "以讲述企业发展故事的角度与逻辑进行策展设计，打破生硬的内容板块分割，将内容以时间线为轴“历史-现在-未来”突出企业的特色。",
+      "show": "通过对企业文化的解读，提炼出“寻梦、筑梦、创梦、圆梦”四大板块，同时借以竹林自然景观形态融入空间的布局，提炼几何造型构成展厅的布局。参观体验，以游走竹林的方式将形态抽象装置化贯穿展厅当中；结合五感体验的方式，形成主动与被动参观体验的多层次体验方式，让体验更加深刻。",
+      "achievements": [
+        "images/shuzizg/qiyezg/case/8/pic1.jpg",
+        "images/shuzizg/qiyezg/case/8/pic2.jpg",
+        "images/shuzizg/qiyezg/case/8/pic3.jpg",
+        "images/shuzizg/qiyezg/case/8/pic4.jpg",
+        "images/shuzizg/qiyezg/case/8/pic5.jpg"
+
+      ]
+    }
+
+
+
+  ]
+
+}

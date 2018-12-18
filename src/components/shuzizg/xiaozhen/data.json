@@ -1,0 +1,240 @@
+﻿{
+
+	"datalist": [
+
+
+		{
+			"id": "1",
+			"cover": "images/shuzizg/xiaozhen/case/1/banner.jpg",
+			"coverTitle": "珠海三溪国际<br>智能科技小镇展厅",
+			"techapplication": "珠海市建安集团有限公司",
+			"applicacenario": "粤港澳大湾区、产业智核",
+			"workproperty": "数字流水屏/展墙/动态灯箱",
+			"projectdesc": "珠海三溪智能科技小镇与时代同步，进行人文生态智慧产业的的全面构筑，成为粤港澳大湾区产业连线上的重要定位。",
+			"show": "数据瀑布屏幕，回顾全球特色小镇-中国特色小镇数据-三溪智能科技小镇概况。采用通电玻璃、沉浸式地幕、互动触摸等方式让观众全面了解珠海三溪特色小镇的产业情况。",
+			"achievements": [
+				"images/shuzizg/xiaozhen/case/1/pic1.jpg",
+				"images/shuzizg/xiaozhen/case/1/pic2.jpg",
+				"images/shuzizg/xiaozhen/case/1/pic3.jpg",
+				"images/shuzizg/xiaozhen/case/1/pic4.jpg",
+				"images/shuzizg/xiaozhen/case/1/pic5.jpg",
+				"images/shuzizg/xiaozhen/case/1/pic6.jpg"
+			]
+		},
+
+
+
+		{
+			"id": "2",
+			"cover": "images/shuzizg/xiaozhen/case/2/banner-bj.jpg",
+			"coverTitle": "沈阳中德装备园展示中心",
+			"videopath": "images/shuzizg/xiaozhen/case/2/video.mp4",  
+			"techapplication": "中德沈阳高端装备产业园管理委员会",
+			"applicacenario": "产业园展示与招商",
+			"workproperty": "光电沙盘、数字化影像、整馆设计",
+			"projectdesc": "中德携手，东北振兴，国家4.0工业战略的承载者。中国制造2025与德国工业4.0战略对接的重要载体，是推动沈阳铁西升级，振兴东北的引擎项目。展厅需要呈现出战略的高度以及两国工业合作的发展前景与投资价值。",
+			"show": "U-SPACE超巨型弧幕结合光电沙盘、数字化影像，全方位展示中德装备园的总体规划和产业布局。利用VR、AR等技术手段展示无人驾驶汽车、自动化工厂等成果，展示中德装备制造的硬实力，与产业园中的软环境建设与服务。",  
+			"achievements": [
+				"images/shuzizg/xiaozhen/case/2/pic1.jpg",
+				"images/shuzizg/xiaozhen/case/2/pic2.jpg",
+				"images/shuzizg/xiaozhen/case/2/pic3.jpg",
+				"images/shuzizg/xiaozhen/case/2/pic4.jpg"
+			]
+		},
+
+
+
+		{
+			"id": "3",
+			"cover": "images/shuzizg/xiaozhen/case/6/banner.jpg",
+			"coverTitle": "金华新能源汽车<br>智能小镇展示中心",
+			"techapplication": "金华国家级经济技术开发区管委会",
+			"applicacenario": "文化展示、产品体验、会展销售、商务洽谈",
+			"workproperty": "展示中心",
+			"projectdesc": "金华新能源汽车小镇是浙江省首个以新能源汽车命名的特色小镇，展示中心作为小镇的名片共两层；建筑面积约11000平方米，布展面积约4750平方米，分为序厅、小镇印象、主题概念区、规划与产业发展区、未来探索区、企业展示区。",
+			"show": "整体设计以现代科技展示手法切入，突出人性化设计理念，融入智慧展示、交互体验、商业运营等新思维新理念；量身定制，打造一个综合性、多功能、差异化，同时独具金华特色的新能源汽车展示中心，集新能源汽车文化展示、产品体验、会展销售、商务洽谈等功能为一体的内涵丰富的标志性建筑。",    
+			"achievements": [
+				"images/shuzizg/xiaozhen/case/6/pic1.jpg",
+				"images/shuzizg/xiaozhen/case/6/pic2.jpg",
+				"images/shuzizg/xiaozhen/case/6/pic3.jpg",
+				"images/shuzizg/xiaozhen/case/6/pic4.jpg",
+				"images/shuzizg/xiaozhen/case/6/pic5.jpg",
+				"images/shuzizg/xiaozhen/case/6/pic6.jpg"
+			]
+		},
+
+
+
+		{
+			"id": "4",
+			"cover": "images/shuzizg/xiaozhen/case/3/banner-bj.jpg",
+			"coverTitle": "佛山天安产业园",
+			"videopath": "images/shuzizg/xiaozhen/case/3/video.mp4",
+			"techapplication": "佛山天安数码城有限公司",
+			"applicacenario": "参观、展示、服务",
+			"workproperty": "产业园展厅整案设计、项目展示",
+			"projectdesc": "诞生于国家“大众创业、万众创新”的政策方针；作为华南优秀产业园运营商，在佛山首创“孵化器”概念。",
+			"show": "空间造型巧妙的利用了互联网的视觉符号“@”作为核心展区，用创业浪潮的形态烘托中央的扶持政策。多点触控屏幕灵活的展现了天安作为产业园运营中心的综合服务。", 
+			"achievements": [
+				"images/shuzizg/xiaozhen/case/3/pic1.jpg",
+				"images/shuzizg/xiaozhen/case/3/pic2.jpg",
+				"images/shuzizg/xiaozhen/case/3/pic3.jpg",
+				"images/shuzizg/xiaozhen/case/3/pic4.jpg",
+				"images/shuzizg/xiaozhen/case/3/pic5.jpg",
+				"images/shuzizg/xiaozhen/case/3/pic6.jpg"
+
+			]
+		},
+
+
+
+		{
+			"id": "5",
+			"cover": "images/shuzizg/xiaozhen/case/9/banner.jpg",
+			"coverTitle": "福田红树林生态公园<br>科普展馆",
+			"techapplication": "福田红树林保护区政府",
+			"applicacenario": "展示、宣传、教育、研究",
+			"workproperty": "科普展馆",	
+			"projectdesc": "本科普展馆是一座以深圳湾及红树林湿地为主题，集展示、宣传、自然、自然教育、研究为一体的专题博物馆。",
+			"show": "展馆用以普及红树林湿地科学知识，展示红树林湿地特点及其生态系统功能，探索深圳湾鸟类的奥秘，剖析红树林湿地面临的问题和威胁；介绍深圳市政府、福田红树林保护区政府、福田红树林保护区和 MCF基金会在红树林湿地保护上的行动，尤其是 MCF在红树林湿地保护所取得的成就。", 
+			"achievements": [
+				"images/shuzizg/xiaozhen/case/9/pic1.jpg",
+				"images/shuzizg/xiaozhen/case/9/pic2.jpg",
+				"images/shuzizg/xiaozhen/case/9/pic3.jpg",
+				"images/shuzizg/xiaozhen/case/9/pic4.jpg",
+				"images/shuzizg/xiaozhen/case/9/pic5.jpg",
+				"images/shuzizg/xiaozhen/case/9/pic6.jpg",
+				"images/shuzizg/xiaozhen/case/9/pic7.jpg",
+				"images/shuzizg/xiaozhen/case/9/pic8.jpg",
+				"images/shuzizg/xiaozhen/case/9/pic9.jpg",
+				"images/shuzizg/xiaozhen/case/9/pic10.jpg"
+			]
+		},
+
+
+
+		{
+			"id": "6",
+			"cover": "images/shuzizg/xiaozhen/case/11/banner.jpg",
+			"coverTitle": "东莞清溪产业展示馆",
+			"techapplication": "深圳市投资控股有限公司",
+			"applicacenario": "园区、企业、居民",
+			"workproperty": "展示中心",
+			"projectdesc": "清溪科技生态城展示中心，不仅属于园区运营者，也属于园区组成分子——企业及居民，应当让每个人都有参与的机会。",
+			"show": "产业园本身就是一个有机体，有其自身的生长规律、发展追求和价值判断。展厅的作用就在于理解和整合这些要素，建立联系；使得不同的参观者处于同一语境下，就园区、及产业进行对话与交流。", 
+			"achievements": [
+				"images/shuzizg/xiaozhen/case/11/pic1.jpg",
+				"images/shuzizg/xiaozhen/case/11/pic2.jpg",
+				"images/shuzizg/xiaozhen/case/11/pic3.jpg",
+				"images/shuzizg/xiaozhen/case/11/pic4.jpg",
+				"images/shuzizg/xiaozhen/case/11/pic5.jpg",
+				"images/shuzizg/xiaozhen/case/11/pic6.jpg",
+				"images/shuzizg/xiaozhen/case/11/pic7.jpg"
+			]
+		},
+
+
+
+		{
+			"id": "7",
+			"cover": "images/shuzizg/xiaozhen/case/4/banner.jpg",
+			"coverTitle": "绍兴袍江中芬设计园",
+			"techapplication": "绍兴中芬信息科技有限公司",
+			"applicacenario": "参观、展示",
+			"workproperty": "工业设计展示、产业园展厅设计",
+			"projectdesc": "洋泾湖工业设计小镇与深圳工业设计行业协会的合作项目，位于袍江经济技术开发区。中芬的入住带动了设计基因模式的形成，是地方成功产业园典范。",
+			"show": "沙盘+造型展板、触控屏+油墨导电墙三种展现形式，深入浅出的向参观者介绍中芬的区位优势，设计实力和孵化模式。", 	
+			"achievements": [
+				"images/shuzizg/xiaozhen/case/4/pic1.jpg",
+				"images/shuzizg/xiaozhen/case/4/pic2.jpg",
+				"images/shuzizg/xiaozhen/case/4/pic3.jpg",
+				"images/shuzizg/xiaozhen/case/4/pic4.jpg"
+			]
+		},
+
+
+		{
+			"id": "8",
+			"cover": "images/shuzizg/xiaozhen/case/5/banner.jpg",
+			"coverTitle": "珠海新青产业园展览馆",
+			"techapplication": "斗门区人民政府",
+			"applicacenario": "智慧产业展示厅",
+			"workproperty": "全息成像、智慧地球",
+			"projectdesc": "一座紧靠珠三角，拥有国际开创视野的创新之城，在智慧产业的引领下完美展现魄力转型。",
+			"show": "以珠海斗门为载体，依托新青工业园大力发展高端服务业，扩展智慧产业、软件服务外包、总部经济、电子商务、现代物流、金融服务，建立现代智慧产业示范基地。打造富有创意、立意新颖、布局合理、功能完善的一流智慧产业展示厅，具体展现出一个融3D技术、动漫产业、智慧城市于一体的产业园区，使之成为智慧城市产业基地、高新技术发动引擎的发展新模式。", 
+			"achievements": [
+				"images/shuzizg/xiaozhen/case/5/pic1.jpg",
+				"images/shuzizg/xiaozhen/case/5/pic2.jpg",
+				"images/shuzizg/xiaozhen/case/5/pic3.jpg"
+			]
+		},
+
+
+		{
+			"id": "9",
+			"cover": "images/shuzizg/xiaozhen/case/7/banner.jpg",
+			"coverTitle": "上虞e游小镇<br>展示体验中心",
+			"techapplication": "上虞e游小镇管委会",
+			"applicacenario": "展示、招商、接待、洽谈",
+			"workproperty": "互动展项、光影沙盘",
+			"projectdesc": "上虞e游小镇位于绍兴市东部，是浙江省重点打造的108个省级特色小镇之一；主要培育以游戏、电竞、影视、动漫、网络直播等为代表的泛娱乐信息经济产业。",
+			"show": "上虞e游小镇位于绍兴市东部，是浙江省重点打造的108个省级特色小镇之一；主要培育以游戏、电竞、影视、动漫、网络直播等为代表的泛娱乐信息经济产业。", 	
+			"show": "e游小镇展示体验中心位于小镇客厅3号楼，融合展示、招商、接待、洽谈等多重功能。展示面积约4000㎡，设计有e游小子、智能手环、印象上虞、曹娥寻父、梁祝化蝶、小镇蓝图光影沙盘、游戏制作体验、漫游上虞剧场、未来e世界（5D影院）等亮点展项，运用新媒体技术和声光电等展示手段，引领观众感受一个如梦如幻的游戏天堂；一个生机勃勃的特色小镇，一个底蕴深厚又活力无限的魅力上虞。",	
+			"achievements": [
+				"images/shuzizg/xiaozhen/case/7/pic1.jpg",
+				"images/shuzizg/xiaozhen/case/7/pic2.jpg",
+				"images/shuzizg/xiaozhen/case/7/pic3.jpg",
+				"images/shuzizg/xiaozhen/case/7/pic4.jpg",
+				"images/shuzizg/xiaozhen/case/7/pic5.jpg",
+				"images/shuzizg/xiaozhen/case/7/pic6.jpg",
+				"images/shuzizg/xiaozhen/case/7/pic7.jpg",
+				"images/shuzizg/xiaozhen/case/7/pic8.jpg",
+				"images/shuzizg/xiaozhen/case/7/pic9.jpg",
+				"images/shuzizg/xiaozhen/case/7/pic10.jpg",
+				"images/shuzizg/xiaozhen/case/7/pic11.jpg"
+			]
+		},
+
+
+		{
+			"id": "10",
+			"cover": "images/shuzizg/xiaozhen/case/8/banner.jpg",
+			"coverTitle": "粤澳合作中医药科技<br>产业园展厅",
+			"techapplication": "珠海市人民政府",
+			"applicacenario": "珠海市",
+			"workproperty": "展示设计、创造性交互",
+			"projectdesc": "一座能提供观众全程参与并感受规划影响的展馆。",
+			"show": "全馆以草本、水、光的旅程，喻为澳门和中医药相互交融、创造影响力的体现；最终光与水的创造性交汇，体现人类健康产业新视野的高度。", 		
+			"achievements": [
+				"images/shuzizg/xiaozhen/case/8/pic1.jpg",
+				"images/shuzizg/xiaozhen/case/8/pic2.jpg",
+				"images/shuzizg/xiaozhen/case/8/pic3.jpg",
+				"images/shuzizg/xiaozhen/case/8/pic4.jpg"
+
+			]
+		},
+
+		{
+			"id": "11",
+			"cover": "images/shuzizg/xiaozhen/case/10/banner.jpg",
+			"coverTitle": "杭州西溪谷互动网<br>金融小镇展厅",
+			"techapplication": "杭州西溪谷建设发展管理委员会",
+			"applicacenario": "企业、参观者",
+			"workproperty": "展厅设计、沙盘",
+			"projectdesc": "短短两年的时间，西溪谷互联网金融小镇快速形成了产业集聚；源于生态之谷、科技之谷、生活之谷的新颖定位，以及因地制宜的差异化建设，吸引了大批有影响力的企业。",
+			"show": "借鉴西溪谷建设成功经验，展厅的建设结合互联网、金融与江南水乡的特色形成独特的设计语言，重体验重内容，以别样的角度展示让人憧憬的西溪谷互联网金融小镇。", 		
+			"achievements": [
+				"images/shuzizg/xiaozhen/case/10/pic1.jpg",
+				"images/shuzizg/xiaozhen/case/10/pic2.jpg",
+				"images/shuzizg/xiaozhen/case/10/pic3.jpg",
+				"images/shuzizg/xiaozhen/case/10/pic4.jpg",
+				"images/shuzizg/xiaozhen/case/10/pic5.jpg",
+				"images/shuzizg/xiaozhen/case/10/pic6.jpg",
+				"images/shuzizg/xiaozhen/case/10/pic7.jpg"
+
+			]
+		}
+		
+	]
+
+}

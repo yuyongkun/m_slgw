@@ -61,7 +61,7 @@
       <img src="../../../assets/images/duomeiti/daxingshow/img2.jpg" class="anli-pic">
     <div class="anli-sum">
       <div class="anli-wenzi">
-        <h1>太阳马戏《Kooza》全国巡演</h1>
+        <h1>太阳马戏全国巡演发布会</h1>
         <p>暂未公开</p>
       </div>
       <img class="anli-arrow" src="../../../assets/images/duomeiti/daxingshow/arrow.jpg">
