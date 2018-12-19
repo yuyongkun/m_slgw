@@ -82,6 +82,12 @@ nav:not(.mm-menu) {
 }
 
 
+.container {
+  padding-top: 48px;
+}
+
+
+
 
 
 /*重置*/
@@ -105,6 +111,9 @@ nav:not(.mm-menu) {
 
 
 
+
+
+
 /*公用*/
 
 
@@ -121,6 +130,9 @@ nav:not(.mm-menu) {
 
 
 
+
+
+
 /*底部备案*/
 
 
@@ -131,6 +143,9 @@ nav:not(.mm-menu) {
   height: 16px;
   margin-top: 40px;
 }
+
+
+
 
 
 
@@ -160,82 +175,87 @@ nav:not(.mm-menu) {
 
 
 
+
+
+
 /*首页*/
 
-.banner {
-  width: 100%;
+.index-container {
+  .banner {
+    width: 100%;
+  }
+
+  .hexin ul {
+    margin-top: 30px;
+  }
+
+  .hexin li {
+    width: 48%;
+    float: left;
+  }
+
+  .hexin li:nth-child(even) {
+    margin-bottom: 5px;
+  }
+
+  .hexin li p:nth-child(1) {
+    font-size: 5vw;
+    color: #333;
+    padding-top: 10px;
+  }
+
+  .hexin li p:nth-child(2) {
+    font-size: 4vw;
+    color: #999;
+  }
+
+  .shangshi img {
+    margin-top: 30px;
+  }
+
+  .zizhi ul {
+    margin-top: 40px;
+  }
+
+  .zizhi li {
+    width: 30%;
+    float: left;
+    padding: 0 1.5%;
+    text-align: center;
+    font-size: 3.6vw;
+  }
+
+  h1 {
+    font-size: 6vw;
+    color: #333333;
+    text-align: center;
+    padding-top: 40px;
+    margin: 0;
+  }
+
+  h2 {
+    font-size: 4vw;
+    color: #333333;
+    text-align: center;
+    font-weight: normal;
+    padding-top: 10px;
+    margin: 0;
+  }
+
+  .infow {
+    font-size: 4vw;
+    color: #333333;
+    text-align: center;
+    font-weight: normal;
+    padding-top: 10px;
+    margin: 0;
+  }
 }
 
-.hexin ul {
-  margin-top: 30px;
-}
-
-.hexin li {
-  width: 48%;
-  float: left;
-}
-
-.hexin li:nth-child(even) {
-  margin-bottom: 5px;
-}
-
-.hexin li p:nth-child(1) {
-  font-size: 5vw;
-  color: #333;
-  padding-top: 10px;
-}
-
-.hexin li p:nth-child(2) {
-  font-size: 4vw;
-  color: #999;
-}
-
-.shangshi img {
-  margin-top: 30px;
-}
-
-.zizhi ul {
-  margin-top: 40px;
-}
-
-.zizhi li {
-  width: 30%;
-  float: left;
-  padding: 0 1.5%;
-  text-align: center;
-  font-size: 3.6vw;
-}
-
-.content h1 {
-  font-size: 6vw;
-  color: #333333;
-  text-align: center;
-  padding-top: 40px;
-  margin: 0;
-}
-
-.content h2 {
-  font-size: 4vw;
-  color: #333333;
-  text-align: center;
-  font-weight: normal;
-  padding-top: 10px;
-  margin: 0;
-}
-
-.content .infow {
-  font-size: 4vw;
-  color: #333333;
-  text-align: center;
-  font-weight: normal;
-  padding-top: 10px;
-  margin: 0;
-}
 
 
-.container {
-  padding-top: 48px;
-}
+
+
 
 
 /*首页*/
@@ -267,6 +287,9 @@ nav:not(.mm-menu) {
   text-align: justify;
   padding: 0 6%;
 }
+
+
+
 
 
 
@@ -351,6 +374,9 @@ nav:not(.mm-menu) {
 
 
 
+
+
+
 /*云渲染 实力*/
 
 .shili {
@@ -378,6 +404,9 @@ nav:not(.mm-menu) {
 
 
 
+
+
+
 /*云渲染 团队*/
 
 .tuandui {
@@ -401,6 +430,9 @@ nav:not(.mm-menu) {
   text-align: justify;
   padding: 0 6%;
 }
+
+
+
 
 
 
@@ -540,6 +572,9 @@ nav:not(.mm-menu) {
 
 
 
+
+
+
 /*五大课程*/
 
 .xinzi {
@@ -583,9 +618,12 @@ nav:not(.mm-menu) {
 
 
 
+
+
+
 /*五大课程案例*/
 
-<style>.anli-title img {
+.anli-title img {
   float: left;
   width: 3%;
   margin-top: 2%;
@@ -654,6 +692,9 @@ nav:not(.mm-menu) {
 
 
 
+
+
+
 /*公司简介*/
 
 .wz {
@@ -716,6 +757,9 @@ nav:not(.mm-menu) {
 
 
 
+
+
+
 /*详情页*/
 
 .jianjie {
@@ -745,11 +789,13 @@ nav:not(.mm-menu) {
   display: block;
   margin-bottom: 4%;
 }
+
 .banner-cover img {
   display: block;
   width: 100%;
   position: relative;
 }
+
 .banner {
   line-height: 40px;
 }
@@ -761,7 +807,7 @@ nav:not(.mm-menu) {
   width: 100%;
 }
 
-.banner .video-play  {
+.banner .video-play {
   position: relative;
   display: block;
   position: absolute;
@@ -780,9 +826,12 @@ nav:not(.mm-menu) {
 
 
 
+
+
+
 /*视频插件*/
 
-/*.video-wrap {
+.video-wrap {
   display: none;
   width: 100%;
   position: absolute;
@@ -805,8 +854,6 @@ nav:not(.mm-menu) {
   color: #fff;
 }
 
-
-
 .video-js .vjs-tech {
   position: relative!important;
 }
@@ -820,4 +867,4 @@ nav:not(.mm-menu) {
   width: auto;
   max-width: 100%;
   height: auto;
-}*/
+}
