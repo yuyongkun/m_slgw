@@ -153,6 +153,7 @@ export default {
   },
   watch: {
     $route: function() {
+      window.scrollTo(0,0)
       window.mmenu.trigger('close')
     }
   }
