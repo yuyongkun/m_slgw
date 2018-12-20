@@ -129,7 +129,7 @@ nav:not(.mm-menu) {
 .boxgd {
   background: #F5F5F5;
   height: 16px;
-  margin-top: 40px;
+
 }
 
 
@@ -165,7 +165,16 @@ nav:not(.mm-menu) {
 .banner {
   width: 100%;
 }
+.hexin{
+  background: #fff;
+  margin-top: -30px;
+  padding-bottom: 20px;
 
+}
+.hexin h1{
+      padding-top: 8vw;
+    text-align: center
+}
 .hexin ul {
   margin-top: 30px;
 }
@@ -189,9 +198,32 @@ nav:not(.mm-menu) {
   font-size: 4vw;
   color: #999;
 }
+.shangshi{
+  background: #fff;
+  padding-bottom: 20px;
+  margin-top: -20px;
+}
+.shangshi h1{
+      padding-top: 10vw;
+    text-align: center
+}
+.shangshi h2{
 
+    text-align: center
+}
 .shangshi img {
   margin-top: 30px;
+}
+
+
+.zizhi{
+  background: #fff;
+  padding-bottom: 20px;
+  margin-top: -20px;
+}
+.zizhi h1{
+      padding-top: 8vw;
+    text-align: center
 }
 
 .zizhi ul {

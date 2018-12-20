@@ -177,32 +177,25 @@
     mounted() {
       $(".anli-yin").hide();
       $(".btn-shouqi").hide();
+       $(".rouyu-yin").hide();
+      $(".shouqi-youru").hide();
       $(".btn-jiazai").click(function() {
         $(".anli-yin").show();
         $(".btn-shouqi").show();
         $(".btn-jiazai").hide();
       });
+
       $(".btn-shouqi").click(function() {
         $(".anli-yin").hide();
         $(".btn-shouqi").hide();
         $(".btn-jiazai").show();
       });
-    }
-  }
-
-</script>
-
-<script>
-  export default {
-    mounted() {
-      $(".rouyu-yin").hide();
-      $(".shouqi-youru").hide();
-      $(".shouqi-jiazai").click(function() {
+       $(".shouqi-jiazai").click(function() {
         $(".rouyu-yin").show();
         $(".shouqi-youru").show();
         $(".shouqi-jiazai").hide();
       });
-      $(".shouqi-youru").click(function() {
+        $(".shouqi-youru").click(function() {
         $(".rouyu-yin").hide();
         $(".shouqi-youru").hide();
         $(".shouqi-jiazai").show();
@@ -211,4 +204,5 @@
   }
 
 </script>
+
 

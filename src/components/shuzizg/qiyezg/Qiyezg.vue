@@ -118,6 +118,18 @@
 						<div class="cle"></div>
 					</div>
 				</router-link>
+
+				<router-link to="/qiyezg/case/9.html">
+					<img src="../../../assets/images/shuzizg/qiyezg/img8.jpg" class="anli-pic">
+					<div class="anli-sum">
+						<div class="anli-wenzi">
+							<h1>南海东部石油展厅</h1>
+							<p>南海东部石油管理局</p>
+						</div>
+						<img class="anli-arrow" src="../../../assets/images/shuzizg/qiyezg/arrow.jpg">
+						<div class="cle"></div>
+					</div>
+				</router-link>
 				
 				<div class="btn btn-shouqi">收起更多案例</div>
 			</div>

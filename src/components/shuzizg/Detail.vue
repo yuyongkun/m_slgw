@@ -17,9 +17,9 @@
       <h1>作品属性</h1>
       <p v-html="workproperty"></p>
       <h1>项目说明</h1>
-      <p>{{projectdesc}}</p>
+      <p v-html="projectdesc"></p>
       <h1>成果展现</h1>
-      <p>{{show}}</p>
+      <p v-html="show"></p>
     </div>
     <!-- 成果展示 -->
     <div class="sec peitu">

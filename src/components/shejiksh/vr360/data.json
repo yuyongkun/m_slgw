@@ -180,7 +180,7 @@
     "techapplication": "为房地产客户量身打造",
     "applicacenario": "地产展厅、营销厅、办公区域",
     "workproperty": "VR会议系统",
-    "projectdesc": "本项目为房地产商客户量身打造的多人联机VR系统，包含了VR虚拟沙盘、数字城市区位配套漫游、虚拟项目沙盘业态导览、虚拟样板间、虚拟IMAX影院、虚拟会议室等。我们可以根据商业客户的切身需求、设置热点、定制空间、定制体验像电影盗梦空间一样，满足您在不同空间中随意切换、沉浸式体验、直观获取信息和伙伴信息同步分享等诸多个性化需求。这就是我们新推出的丝路灵境1.0：多人联机VR系统。无论您在哪里，只要人手配备一台电脑、高性能网速、VR眼镜，就可以享受以下前所未有的感观体验。打破地域、时间界限，多人同时进入同一个虚拟的会议空间。在虚拟的世界里，人与人之间面对面地展示、互动、交流。由会议主持人演示，大家在虚拟世界里自由地观看和讨论，进行优雅的社交体验。三维虚拟图形图像创建的场景灵活多样，展示比现实更详尽、更宏观的信息。 ",	
+    "projectdesc": "本项目为房地产商客户量身打造的多人联机VR系统，包含了VR虚拟沙盘、数字城市区位配套漫游、虚拟项目沙盘业态导览、虚拟样板间、虚拟IMAX影院、虚拟会议室等。<br>我们可以根据商业客户的切身需求、设置热点、定制空间、定制体验像电影盗梦空间一样，满足您在不同空间中随意切换、沉浸式体验、直观获取信息和伙伴信息同步分享等诸多个性化需求。<br>这就是我们新推出的丝路灵境1.0：多人联机VR系统。无论您在哪里，只要人手配备一台电脑、高性能网速、VR眼镜，就可以享受以下前所未有的感观体验。打破地域、时间界限，多人同时进入同一个虚拟的会议空间。在虚拟的世界里，人与人之间面对面地展示、互动、交流。由会议主持人演示，大家在虚拟世界里自由地观看和讨论，进行优雅的社交体验。三维虚拟图形图像创建的场景灵活多样，展示比现实更详尽、更宏观的信息。 ",	
     "achievements": [
       "images/shejiksh/vr360/case/10/pic1.jpg",
       "images/shejiksh/vr360/case/10/pic2.jpg",
@@ -192,32 +192,7 @@
       "images/shejiksh/vr360/case/10/pic8.jpg"
      
     ]
-  } , 
-
-	  
-	  	{
-    "id": "11",
-    "cover": "images/duomeiti/daxingshow/case/9/banner.jpg",
-    "coverTitle": "碧桂园武汉品牌发布会",
-	"videopath": "images/duomeiti/daxingshow/case/9/video.mp4",
-    "techapplication": "太仓娄碧桂园房地产开发有限公司",
-    "applicacenario": "发布会、年会、大型活动",
-    "workproperty": "舞台表演",
-    "projectdesc": "将数字内容与表演者内容完美结合，营造亦幻亦真的魔幻体验，表演者恰到好处的演绎，恰似节目的名字，让每一位观众的心都沉浸在魔幻之中，这也是碧桂园碧定中心想要传达给观众的。 ",	
-    "achievements": [
-      "images/duomeiti/daxingshow/case/9/pic1.jpg",
-      "images/duomeiti/daxingshow/case/9/pic2.jpg",
-      "images/duomeiti/daxingshow/case/9/pic3.jpg",
-      "images/duomeiti/daxingshow/case/9/pic4.jpg",
-      "images/duomeiti/daxingshow/case/9/pic5.jpg",
-      "images/duomeiti/daxingshow/case/9/pic6.jpg",
-      "images/duomeiti/daxingshow/case/9/pic7.jpg",
-      "images/duomeiti/daxingshow/case/9/pic8.jpg"
-     
-    ]
-  }  
-	  
-
+  } 
 ]
 
 }
